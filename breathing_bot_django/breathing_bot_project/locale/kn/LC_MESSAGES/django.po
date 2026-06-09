@@ -1,0 +1,654 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-06-08 10:04+0000\n"
+"PO-Revision-Date: 2026-06-08 17:15+0530\n"
+"Last-Translator: Breathing Bot Team\n"
+"Language: kn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: core/presets.py:5
+msgid "1-4-2 Lung Conditioning Pattern"
+msgstr "1-4-2 ಶ್ವಾಸಕೋಶದ ಕಂಡೀಷನಿಂಗ್ ಮಾದರಿ"
+
+#: core/presets.py:13
+msgid "A classic respiratory conditioning sequence designed to maximize blood oxygenation and expand vital lung capacity over time."
+msgstr "ರಕ್ತದ ಆಮ್ಲಜನಕೀಕರಣವನ್ನು ಹೆಚ್ಚಿಸಲು ಮತ್ತು ಕಾಲಾನಂತರದಲ್ಲಿ ಶ್ವಾಸಕೋಶದ ಸಾಮರ್ಥ್ಯವನ್ನು ವಿಸ್ತರಿಸಲು ವಿನ್ಯಾಸಗೊಳಿಸಲಾದ ಶಾಸ್ತ್ರೀಯ ಉಸಿರಾಟದ ಕಂಡೀಷನಿಂಗ್ ಸರಣಿ."
+
+#: core/presets.py:16
+msgid "Box Breathing (Navy SEAL Tactical Clarity)"
+msgstr "ಬಾಕ್ಸ್ ಬ್ರೀತಿಂಗ್ (ನೇವಿ ಸೀಲ್ ಟ್ಯಾಕ್ಟಿಕಲ್ ಕ್ಲಾರಿಟಿ)"
+
+#: core/presets.py:24
+msgid "The gold standard for high-stress grounding. Equal duration phases clear cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr "ಅತಿಯಾದ ಒತ್ತಡದ ಸಮಯದಲ್ಲಿ ಮನಸ್ಸನ್ನು ಶಾಂತಗೊಳಿಸಲು ಇದು ಅತ್ಯುತ್ತಮ ವಿಧಾನ. ಸಮಾನ ಅವಧಿಯ ಹಂತಗಳು ಕಾರ್ಟಿಸೋಲ್ ಮಟ್ಟವನ್ನು ಕಡಿಮೆ ಮಾಡುತ್ತದೆ, ವೇಗವಾದ ಹೃದಯ ಬಡಿತವನ್ನು ಸ್ಥಿರಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಮಾನಸಿಕ ಸ್ಪಷ್ಟತೆಯನ್ನು ಮರಳಿ ತರುತ್ತದೆ."
+
+#: core/presets.py:27
+msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
+msgstr "4-7-8 ವಿಶ್ರಾಂತಿ (ನರಮಂಡಲದ ಶಾಂತಿಕಾರಕ)"
+
+#: core/presets.py:35
+msgid "Acts as a natural chemical brake for your sympathetic nervous system. Highly recommended for severe anxiety and floating into deep sleep."
+msgstr "ಇದು ನಿಮ್ಮ ಸಹಾನುಭೂತಿಯ ನರಮಂಡಲಕ್ಕೆ ನೈಸರ್ಗಿಕ ರಾಸಾಯನಿಕ ಬ್ರೇಕ್ ಆಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ತೀವ್ರವಾದ ಆತಂಕ ಮತ್ತು ಗಾಢ ನಿದ್ರೆಗೆ ಜಾರಲು ಹೆಚ್ಚು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ."
+
+#: core/presets.py:38
+msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
+msgstr "ಸುಸಂಬದ್ಧ / ಅನುರಣನ ಉಸಿರಾಟ (ಆಸ್ತಮಾ ಮತ್ತು ಪ್ಯಾನಿಕ್ ಪರಿಹಾರ)"
+
+#: core/presets.py:46
+msgid "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero hold times make this perfectly safe for active asthma management."
+msgstr "ವೇಗಸ್ ನರವನ್ನು ಸಮತೋಲನಗೊಳಿಸುತ್ತದೆ ಮತ್ತು ಹೃದಯ ಬಡಿತದ ವ್ಯತ್ಯಾಸವನ್ನು (HRV) ಉತ್ತಮಗೊಳಿಸುತ್ತದೆ. ಉಸಿರನ್ನು ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳುವ ಅಗತ್ಯವಿಲ್ಲದಿರುವುದರಿಂದ ಆಸ್ತಮಾ ನಿರ್ವಹಣೆಗೆ ಇದು ಸಂಪೂರ್ಣವಾಗಿ ಸುರಕ್ಷಿತವಾಗಿದೆ."
+
+#: core/presets.py:49
+msgid "Tactical Breathing (Sustained Equilibrium)"
+msgstr "ಟ್ಯಾಕ್ಟಿಕಲ್ ಬ್ರೀತಿಂಗ್ (ಸ್ಥಿರ ಸಮತೋಲನ)"
+
+#: core/presets.py:57
+msgid "A specialized, low-overhead holding variant used by responders to reduce somatic anxiety without inducing lightheadedness."
+msgstr "ಆತಂಕವನ್ನು ಕಡಿಮೆ ಮಾಡಲು ತುರ್ತು ಪ್ರತಿಕ್ರಿಯೆದಾರರು ಬಳಸುವ ವಿಶೇಷ ತಂತ್ರ. ಇದು ತಲೆಸುತ್ತುವಿಕೆ ಉಂಟುಮಾಡದೆ ಮನಸ್ಸನ್ನು ಶಾಂತಗೊಳಿಸುತ್ತದೆ."
+
+#: core/presets.py:60
+msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
+msgstr "ಪರ್ಸ್ಡ್-ಲಿಪ್ ಸ್ಪ್ಲಿಂಟಿಂಗ್ (COPD ಮತ್ತು ಉಸಿರಾಟದ ತೊಂದರೆ ಪರಿಹಾರ)"
+
+#: core/presets.py:68
+msgid "Creates passive mechanical backpressure to keep bronchial pathways open. Crucial for individuals with emphysema or structural shortness of breath."
+msgstr "ಶ್ವಾಸನಾಳದ ಹಾದಿಗಳನ್ನು ತೆರೆದಿಡಲು ನಿಷ್ಕ್ರಿಯ ಯಾಂತ್ರಿಕ ಒತ್ತಡವನ್ನು ಸೃಷ್ಟಿಸುತ್ತದೆ. ಎಂಫಿಸೆಮಾ ಅಥವಾ ಉಸಿರಾಟದ ತೊಂದರೆ ಇರುವವರಿಗೆ ಇದು ಅತ್ಯಗತ್ಯ."
+
+#: core/presets.py:71
+msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
+msgstr "ಫಿಸಿಯೋಲಾಜಿಕಲ್ ಸೈ (ತೀವ್ರ ಹೈಪರ್ವೆಂಟಿಲೇಶನ್ ತಡೆ)"
+
+#: core/presets.py:79
+msgid "Simulates the biological double-inhale reflex to instantly re-inflate collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr "ನೈಜ ಉಸಿರಾಟದ ಪ್ರತಿವರ್ತನವನ್ನು ಅನುಕರಿಸಿ ಶ್ವಾಸಕೋಶದ ಕೋಶಗಳನ್ನು ಮರು-ಹೊಂದಿಸಲು ಮತ್ತು ಇಂಗಾಲದ ಡೈಆಕ್ಸೈಡ್ ಅನ್ನು ತ್ವರಿತವಾಗಿ ಹೊರಹಾಕಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+
+#: core/presets.py:82
+msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
+msgstr "ವಿಸ್ತೃತ ಕಾರ್ಡಿಯಾಕ್ ಉಸಿರಾಟ (ಅಧಿಕ ರಕ್ತದೊತ್ತಡ / ವೇಗಲ್ ಟೋನ್)"
+
+#: core/presets.py:90
+msgid "Exhale window is mathematically doubled relative to inhale. Maximizes acetylcholinergic outflow to safely downregulate heart rate and blood pressure."
+msgstr "ಉಸಿರು ತೆಗೆದುಕೊಳ್ಳುವುದಕ್ಕಿಂತ ಉಸಿರು ಬಿಡುವ ಅವಧಿ ದ್ವಿಗುಣವಾಗಿರುತ್ತದೆ. ಇದು ಹೃದಯ ಬಡಿತ ಮತ್ತು ರಕ್ತದೊತ್ತಡವನ್ನು ಸುರಕ್ಷಿತವಾಗಿ ಕಡಿಮೆ ಮಾಡಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+
+#: core/templates/404.html:5
+msgid "Page Not Found"
+msgstr "ಪುಟ ಸಿಗಲಿಲ್ಲ"
+
+#: core/templates/404.html:13
+msgid "Page not found"
+msgstr "ಪುಟ ಸಿಗಲಿಲ್ಲ"
+
+#: core/templates/404.html:15
+msgid "The page you're looking for doesn't exist. It may have been moved or the URL might be wrong."
+msgstr "ನೀವು ಹುಡುಕುತ್ತಿರುವ ಪುಟ ಇಲ್ಲ. ಅದನ್ನು ಸ್ಥಳಾಂತರಿಸಿರಬಹುದು ಅಥವಾ URL ತಪ್ಪಾಗಿರಬಹುದು."
+
+#: core/templates/404.html:20
+msgid "Go home"
+msgstr "ಮುಖಪುಟಕ್ಕೆ ಹೋಗಿ"
+
+#: core/templates/404.html:23
+msgid "Start breathing"
+msgstr "ಉಸಿರಾಟವನ್ನು ಪ್ರಾರಂಭಿಸಿ"
+
+#: core/templates/base.html:47
+msgid "Breathing"
+msgstr "ಉಸಿರಾಟ"
+
+#: core/templates/base.html:52 core/templates/core/free.html:22
+msgid "Breathing Exercises"
+msgstr "ಉಸಿರಾಟದ ವ್ಯಾಯಾಮಗಳು"
+
+#: core/templates/base.html:57 core/templates/core/dashboard.html:34 core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+msgid "Coherent Breathing"
+msgstr "ಸುಸಂಬದ್ಧ ಉಸಿರಾಟ"
+
+#: core/templates/base.html:62 core/templates/core/dashboard.html:46 core/templates/core/free.html:44 core/templates/core/meditate.html:9
+msgid "Meditation Room"
+msgstr "ಧ್ಯಾನದ ಕೊಠಡಿ"
+
+#: core/templates/base.html:71
+msgid "Dashboard"
+msgstr "ಡ್ಯಾಶ್‌ಬೋರ್ಡ್"
+
+#: core/templates/base.html:76
+msgid "Profile"
+msgstr "ಪ್ರೊಫೈಲ್"
+
+#: core/templates/base.html:83
+msgid "Donate"
+msgstr "ದೇಣಿಗೆ"
+
+#: core/templates/base.html:97
+msgid "Language"
+msgstr "ಭಾಷೆ"
+
+#: core/templates/base.html:111
+msgid "Logout"
+msgstr "ಲಾಗ್ ಔಟ್"
+
+#: core/templates/base.html:116
+msgid "Register"
+msgstr "ನೋಂದಣಿ"
+
+#: core/templates/base.html:131
+msgid "Designed for accessibility. Completely free and open-source."
+msgstr "ಪ್ರವೇಶಸಾಧ್ಯತೆಗಾಗಿ ವಿನ್ಯಾಸಗೊಳಿಸಲಾಗಿದೆ. ಸಂಪೂರ್ಣವಾಗಿ ಉಚಿತ ಮತ್ತು ಓಪನ್-ಸೋರ್ಸ್."
+
+#: core/templates/base.html:134 core/templates/core/privacy.html:5 core/templates/core/privacy.html:10
+msgid "Privacy Policy"
+msgstr "ಗೌಪ್ಯತೆ ನೀತಿ"
+
+#: core/templates/base.html:136
+msgid "Support Us"
+msgstr "ನಮಗೆ ಬೆಂಬಲಿಸಿ"
+
+#: core/templates/core/dashboard.html:9
+msgid "Welcome to Breathing Bot"
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್‌ಗೆ ಸ್ವಾಗತ"
+
+#: core/templates/core/dashboard.html:10
+msgid "Free breathing exercises, coherent breathing, and meditation — all in one place."
+msgstr "ಉಚಿತ ಉಸಿರಾಟದ ವ್ಯಾಯಾಮಗಳು, ಸುಸಂಬದ್ಧ ಉಸಿರಾಟ ಮತ್ತು ಧ್ಯಾನ — ಎಲ್ಲವೂ ಒಂದೇ ಸ್ಥಳದಲ್ಲಿ."
+
+#: core/templates/core/dashboard.html:22
+msgid "Guided Breathing"
+msgstr "ಮಾರ್ಗದರ್ಶಿ ಉಸಿರಾಟ"
+
+#: core/templates/core/dashboard.html:23
+msgid "Guest"
+msgstr "ಅತಿಥಿ"
+
+#: core/templates/core/dashboard.html:35
+msgid "Panic Relief"
+msgstr "ಪ್ಯಾನಿಕ್ ಪರಿಹಾರ"
+
+#: core/templates/core/dashboard.html:47
+msgid "Brown Noise"
+msgstr "ಬ್ರೌನ್ ನಾಯ್ಸ್"
+
+#: core/templates/core/dashboard.html:58
+msgid "Free User Login"
+msgstr "ಉಚಿತ ಬಳಕೆದಾರ ಲಾಗಿನ್"
+
+#: core/templates/core/dashboard.html:59
+msgid "Login to save progress and track history."
+msgstr "ಪ್ರಗತಿಯನ್ನು ಉಳಿಸಲು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಟ್ರ್ಯಾಕ್ ಮಾಡಲು ಲಾಗಿನ್ ಮಾಡಿ."
+
+#: core/templates/core/dashboard.html:64
+msgid "Invalid username or password."
+msgstr "ತಪ್ಪಾದ ಬಳಕೆದಾರಹೆಸರು ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್."
+
+#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+msgid "Username"
+msgstr "ಬಳಕೆದಾರಹೆಸರು"
+
+#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+msgid "Password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್"
+
+#: core/templates/core/dashboard.html:70
+msgid "Login"
+msgstr "ಲಾಗಿನ್"
+
+#: core/templates/core/dashboard.html:74
+msgid "Create account"
+msgstr "ಖಾತೆಯನ್ನು ರಚಿಸಿ"
+
+#: core/templates/core/dashboard.html:75
+msgid "Forgot password?"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ಮರೆತಿದ್ದೀರಾ?"
+
+#: core/templates/core/donate.html:11
+msgid "Support Breathing Bot"
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಅನ್ನು ಬೆಂಬಲಿಸಿ"
+
+#: core/templates/core/donate.html:13
+msgid "Breathing Bot is free and will always stay free. If it has helped you, consider supporting its development."
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಉಚಿತವಾಗಿದೆ ಮತ್ತು ಯಾವಾಗಲೂ ಉಚಿತವಾಗಿರುತ್ತದೆ. ಇದು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಿದ್ದರೆ, ಅದರ ಅಭಿವೃದ್ಧಿಯನ್ನು ಬೆಂಬಲಿಸಿ."
+
+#: core/templates/core/donate.html:27
+msgid "One-time donation. Any amount helps keep the server running and development going."
+msgstr "ಒಂದು ಬಾರಿಯ ದೇಣಿಗೆ. ಯಾವುದೇ ಮೊತ್ತವು ಸರ್ವರ್ ಅನ್ನು ನಿರ್ವಹಿಸಲು ಮತ್ತು ಅಭಿವೃದ್ಧಿಯನ್ನು ಮುಂದುವರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+
+#: core/templates/core/donate.html:41
+msgid "Donate with PayPal"
+msgstr "PayPal ಮೂಲಕ ದೇಣಿಗೆ ನೀಡಿ"
+
+#: core/templates/core/donate.html:42
+msgid "Coming Soon"
+msgstr "ಶೀಘ್ರದಲ್ಲೇ ಬರಲಿದೆ"
+
+#: core/templates/core/donate.html:48
+msgid "Other ways to help"
+msgstr "ಸಹಾಯ ಮಾಡಲು ಇತರ ಮಾರ್ಗಗಳು"
+
+#: core/templates/core/donate.html:55
+msgid "Spread the word"
+msgstr "ಮಾಹಿತಿಯನ್ನು ಹಂಚಿಕೊಳ್ಳಿ"
+
+#: core/templates/core/donate.html:56
+msgid "Share Breathing Bot with someone who might benefit from it."
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಅನ್ನು ಅಗತ್ಯವಿರುವವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ."
+
+#: core/templates/core/donate.html:64
+msgid "Report bugs"
+msgstr "ದೋಷಗಳನ್ನು ವರದಿ ಮಾಡಿ"
+
+#: core/templates/core/donate.html:65
+msgid "Found something broken? Let us know so we can fix it."
+msgstr "ಏನಾದರೂ ದೋಷ ಕಂಡುಬಂದಿದೆಯೇ? ಅದನ್ನು ಸರಿಪಡಿಸಲು ನಮಗೆ ತಿಳಿಸಿ."
+
+#: core/templates/core/donate.html:73
+msgid "Give feedback"
+msgstr "ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ"
+
+#: core/templates/core/donate.html:74
+msgid "Ideas for new features or languages are always welcome."
+msgstr "ಹೊಸ ವೈಶಿಷ್ಟ್ಯಗಳು ಅಥವಾ ಭಾಷೆಗಳಿಗಾಗಿನ ಆಲೋಚನೆಗಳನ್ನು ಸ್ವಾಗತಿಸುತ್ತೇವೆ."
+
+#: core/templates/core/donate.html:81
+msgid "Thank you for using Breathing Bot."
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಬಳಸಿದ್ದಕ್ಕಾಗಿ ಧನ್ಯವಾದಗಳು."
+
+#: core/templates/core/free.html:9
+msgid "Welcome back"
+msgstr "ಮತ್ತೆ ಸ್ವಾಗತ"
+
+#: core/templates/core/free.html:10
+msgid "Ready to breathe?"
+msgstr "ಉಸಿರಾಡಲು ಸಿದ್ಧರಿದ್ದೀರಾ?"
+
+#: core/templates/core/free.html:53
+msgid "Recent Sessions"
+msgstr "ಇತ್ತೀಚಿನ ಅವಧಿಗಳು"
+
+#: core/templates/core/free.html:55
+msgid "View all"
+msgstr "ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ"
+
+#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+msgid "Technique"
+msgstr "ತಂತ್ರ"
+
+#: core/templates/core/free.html:64 core/templates/core/profile.html:91
+msgid "Cycles / Min"
+msgstr "ಚಕ್ರಗಳು / ನಿಮಿಷ"
+
+#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+msgid "Date"
+msgstr "ದಿನಾಂಕ"
+
+#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+msgid "No sessions yet. Complete a breathing exercise to see your history here."
+msgstr "ಇನ್ನೂ ಯಾವುದೇ ಅವಧಿಗಳಿಲ್ಲ. ನಿಮ್ಮ ಇತಿಹಾಸವನ್ನು ಇಲ್ಲಿ ನೋಡಲು ಉಸಿರಾಟದ ವ್ಯಾಯಾಮವನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ."
+
+#: core/templates/core/meditate.html:10
+msgid "Brown noise"
+msgstr "ಬ್ರೌನ್ ನಾಯ್ಸ್"
+
+#: core/templates/core/meditate.html:10
+msgid "mathematically generated, no files"
+msgstr "ಗಣಿತೀಯವಾಗಿ ರಚಿಸಲಾಗಿದೆ, ಫೈಲ್‌ಗಳಿಲ್ಲ"
+
+#: core/templates/core/meditate.html:14
+msgid "Session duration"
+msgstr "ಅವಧಿಯ ಅವಧಿ"
+
+#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17 core/templates/core/meditate.html:18 core/templates/core/meditate.html:19 core/templates/core/meditate.html:20
+msgid "min"
+msgstr "ನಿಮಿಷ"
+
+#: core/templates/core/meditate.html:23
+msgid "Custom minutes (1–120)"
+msgstr "ಕಸ್ಟಮ್ ನಿಮಿಷಗಳು (1–120)"
+
+#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
+msgid "select a duration to begin"
+msgstr "ಪ್ರಾರಂಭಿಸಲು ಅವಧಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+#: core/templates/core/meditate.html:31
+msgid "please select a duration first"
+msgstr "ದಯವಿಟ್ಟು ಮೊದಲು ಅವಧಿಯನ್ನು ಆಯ್ಕೆಮಾಡಿ"
+
+#: core/templates/core/meditate.html:32
+msgid "session in progress"
+msgstr "ಅವಧಿ ಪ್ರಗತಿಯಲ್ಲಿದೆ"
+
+#: core/templates/core/meditate.html:33
+msgid "session complete"
+msgstr "ಅವಧಿ ಪೂರ್ಣಗೊಂಡಿದೆ"
+
+#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
+msgid "Start"
+msgstr "ಪ್ರಾರಂಭಿಸಿ"
+
+#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+msgid "Stop"
+msgstr "ನಿಲ್ಲಿಸಿ"
+
+#: core/templates/core/panicroom.html:9
+msgid "6 seconds in, 6 seconds out. Calms the nervous system."
+msgstr "6 ಸೆಕೆಂಡುಗಳ ಒಳಗೆ, 6 ಸೆಕೆಂಡುಗಳ ಹೊರಗೆ. ನರಮಂಡಲವನ್ನು ಶಾಂತಗೊಳಿಸುತ್ತದೆ."
+
+#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+msgid "Inhale"
+msgstr "ಉಸಿರು ಒಳಗೆ"
+
+#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+msgid "Exhale"
+msgstr "ಉಸಿರು ಹೊರಗೆ"
+
+#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+msgid "Session has ended"
+msgstr "ತರಗತಿ ಮುಗಿಯಿತು"
+
+#: core/templates/core/panicroom.html:23
+msgid "Ready"
+msgstr "ಸಿದ್ಧ"
+
+#: core/templates/core/password_reset_complete.html:8
+msgid "Password updated"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ನವೀಕರಿಸಲಾಗಿದೆ"
+
+#: core/templates/core/password_reset_complete.html:9
+msgid "Your password has been set. You can now log in with your new password."
+msgstr "ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಹೊಂದಿಸಲಾಗಿದೆ. ನೀವು ಈಗ ಹೊಸ ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ಲಾಗಿನ್ ಆಗಬಹುದು."
+
+#: core/templates/core/password_reset_complete.html:10 core/templates/core/password_reset_done.html:12 core/templates/core/password_reset_form.html:22
+msgid "Back to login"
+msgstr "ಲಾಗಿನ್‌ಗೆ ಹಿಂತಿರುಗಿ"
+
+#: core/templates/core/password_reset_confirm.html:7
+msgid "Choose New Password"
+msgstr "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಆಯ್ಕೆಮಾಡಿ"
+
+#: core/templates/core/password_reset_confirm.html:8
+msgid "Enter your new password below."
+msgstr "ನಿಮ್ಮ ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಕೆಳಗೆ ನಮೂದಿಸಿ."
+
+#: core/templates/core/password_reset_confirm.html:16
+msgid "New password"
+msgstr "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್"
+
+#: core/templates/core/password_reset_confirm.html:27
+msgid "Confirm new password"
+msgstr "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಖಚಿತಪಡಿಸಿ"
+
+#: core/templates/core/password_reset_confirm.html:37
+msgid "Set New Password"
+msgstr "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್ ಹೊಂದಿಸಿ"
+
+#: core/templates/core/password_reset_confirm.html:41
+msgid "This reset link is invalid or has expired."
+msgstr "ಈ ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಅಮಾನ್ಯವಾಗಿದೆ ಅಥವಾ ಅವಧಿ ಮೀರಿದೆ."
+
+#: core/templates/core/password_reset_confirm.html:42
+msgid "Request a new link"
+msgstr "ಹೊಸ ಲಿಂಕ್‌ಗಾಗಿ ವಿನಂತಿಸಿ"
+
+#: core/templates/core/password_reset_done.html:8
+msgid "Check your email"
+msgstr "ನಿಮ್ಮ ಇಮೇಲ್ ಪರಿಶೀಲಿಸಿ"
+
+#: core/templates/core/password_reset_done.html:10
+msgid "If an account exists for that address, a password reset link has been sent. Check your spam folder if you don't see it."
+msgstr "ಆ ವಿಳಾಸಕ್ಕೆ ಖಾತೆ ಇದ್ದರೆ, ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಅನ್ನು ಕಳುಹಿಸಲಾಗಿದೆ. ನಿಮಗೆ ಕಾಣದಿದ್ದರೆ ನಿಮ್ಮ ಸ್ಪ್ಯಾಮ್ ಫೋಲ್ಡರ್ ಪರಿಶೀಲಿಸಿ."
+
+#: core/templates/core/password_reset_form.html:7
+msgid "Reset Password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ಮರುಹೊಂದಿಸಿ"
+
+#: core/templates/core/password_reset_form.html:8
+msgid "Enter your email and we'll send you a reset link."
+msgstr "ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ ಮತ್ತು ನಾವು ನಿಮಗೆ ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಅನ್ನು ಕಳುಹಿಸುತ್ತೇವೆ."
+
+#: core/templates/core/password_reset_form.html:14 core/templates/core/register.html:35
+msgid "Email address"
+msgstr "ಇಮೇಲ್ ವಿಳಾಸ"
+
+#: core/templates/core/password_reset_form.html:17
+msgid "Send Reset Link"
+msgstr "ಮರುಹೊಂದಿಸುವ ಲಿಂಕ್ ಕಳುಹಿಸಿ"
+
+#: core/templates/core/privacy.html:11
+msgid "Last updated"
+msgstr "ಕೊನೆಯದಾಗಿ ನವೀಕರಿಸಲಾಗಿದೆ"
+
+#: core/templates/core/privacy.html:16
+msgid "What we collect"
+msgstr "ನಾವು ಏನು ಸಂಗ್ರಹಿಸುತ್ತೇವೆ"
+
+#: core/templates/core/privacy.html:17
+msgid "When you create an account, we store:"
+msgstr "ನೀವು ಖಾತೆಯನ್ನು ರಚಿಸಿದಾಗ, ನಾವು ಸಂಗ್ರಹಿಸುತ್ತೇವೆ:"
+
+#: core/templates/core/privacy.html:19
+msgid "Username and email address"
+msgstr "ಬಳಕೆದಾರಹೆಸರು ಮತ್ತು ಇಮೇಲ್ ವಿಳಾಸ"
+
+#: core/templates/core/privacy.html:20
+msgid "Hashed password (we never store your plain password)"
+msgstr "ಹ್ಯಾಶ್ ಮಾಡಿದ ಪಾಸ್‌ವರ್ಡ್ (ನಾವು ಎಂದಿಗೂ ನಿಮ್ಮ ಸರಳ ಪಾಸ್‌ವರ್ಡ್ ಅನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ)"
+
+#: core/templates/core/privacy.html:21
+msgid "Breathing and meditation session history (technique, cycles, date)"
+msgstr "ಉಸಿರಾಟ ಮತ್ತು ಧ್ಯಾನದ ಅವಧಿಯ ಇತಿಹಾಸ (ತಂತ್ರ, ಚಕ್ರಗಳು, ದಿನಾಂಕ)"
+
+#: core/templates/core/privacy.html:22
+msgid "Language preference"
+msgstr "ಭಾಷೆಯ ಆದ್ಯತೆ"
+
+#: core/templates/core/privacy.html:23
+msgid "Profile picture URL (a link you provide — we don't store image files)"
+msgstr "ಪ್ರೊಫೈಲ್ ಚಿತ್ರದ URL (ನೀವು ಒದಗಿಸುವ ಲಿಂಕ್ — ನಾವು ಚಿತ್ರ ಫೈಲ್‌ಗಳನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ)"
+
+#: core/templates/core/privacy.html:28
+msgid "What we don't do"
+msgstr "ನಾವು ಏನು ಮಾಡುವುದಿಲ್ಲ"
+
+#: core/templates/core/privacy.html:30
+msgid "We do not sell your personal data to third parties."
+msgstr "ನಾವು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಮೂರನೇ ವ್ಯಕ್ತಿಗಳಿಗೆ ಮಾರಾಟ ಮಾಡುವುದಿಲ್ಲ."
+
+#: core/templates/core/privacy.html:31
+msgid "We do not share your session history or health-related data with advertisers."
+msgstr "ನಾವು ನಿಮ್ಮ ಅವಧಿಯ ಇತಿಹಾಸ ಅಥವಾ ಆರೋಗ್ಯ ಸಂಬಂಧಿತ ಡೇಟಾವನ್ನು ಜಾಹೀರಾತುದಾರರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದಿಲ್ಲ."
+
+#: core/templates/core/privacy.html:32
+msgid "We do not collect health or medical data."
+msgstr "ನಾವು ಆರೋಗ್ಯ ಅಥವಾ ವೈದ್ಯಕೀಯ ಡೇಟಾವನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ."
+
+#: core/templates/core/privacy.html:37
+msgid "Advertising"
+msgstr "ಜಾಹೀರಾತು"
+
+#: core/templates/core/privacy.html:39
+msgid "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity."
+msgstr "ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಆಪ್‌ಗೆ ಉಚಿತ ಪ್ರವೇಶವನ್ನು ಬೆಂಬಲಿಸಲು ಜಾಹೀರಾತುಗಳನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ. ನಮ್ಮ ಜಾಹೀರಾತು ಪಾಲುದಾರರು ನಿಮ್ಮ ಬ್ರೌಸಿಂಗ್ ಚಟುವಟಿಕೆಯ ಆಧಾರದ ಮೇಲೆ ಸಂಬಂಧಿತ ಜಾಹೀರಾತುಗಳನ್ನು ತೋರಿಸಲು ಕುಕೀಗಳನ್ನು ಮತ್ತು ತಂತ್ರಜ್ಞಾನಗಳನ್ನು ಬಳಸಬಹುದು."
+
+#: core/templates/core/privacy.html:42
+msgid "We use Google AdSense (or similar) to serve ads."
+msgstr "ಜಾಹೀರಾತುಗಳನ್ನು ನೀಡಲು ನಾವು Google AdSense (ಅಥವಾ ಅಂತಹುದೇ) ಬಳಸುತ್ತೇವೆ."
+
+#: core/templates/core/privacy.html:43
+msgid "Ad partners may collect device identifiers, IP address, and browsing behaviour."
+msgstr "ಜಾಹೀರಾತು ಪಾಲುದಾರರು ಸಾಧನ ಗುರುತಿಸುವಿಕೆಗಳು, IP ವಿಳಾಸ ಮತ್ತು ಬ್ರೌಸಿಂಗ್ ನಡವಳಿಕೆಯನ್ನು ಸಂಗ್ರಹಿಸಬಹುದು."
+
+#: core/templates/core/privacy.html:44
+msgid "You can opt out of personalised ads via your Google account settings or your device's ad settings."
+msgstr "ನಿಮ್ಮ Google ಖಾತೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಅಥವಾ ನಿಮ್ಮ ಸಾಧನದ ಜಾಹೀರಾತು ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಮೂಲಕ ನೀವು ವೈಯಕ್ತೀಕರಿಸಿದ ಜಾಹೀರಾತುಗಳಿಂದ ಹೊರಗುಳಿಯಬಹುದು."
+
+#: core/templates/core/privacy.html:45
+msgid "Logged-in users' breathing session data is never shared with advertisers."
+msgstr "ಲಾಗಿನ್ ಆಗಿರುವ ಬಳಕೆದಾರರ ಉಸಿರಾಟದ ಅವಧಿಯ ಡೇಟಾವನ್ನು ಜಾಹೀರಾತುದಾರರೊಂದಿಗೆ ಎಂದಿಗೂ ಹಂಚಿಕೊಳ್ಳಲಾಗುವುದಿಲ್ಲ."
+
+#: core/templates/core/privacy.html:50
+msgid "Guest users"
+msgstr "ಅತಿಥಿ ಬಳಕೆದಾರರು"
+
+#: core/templates/core/privacy.html:52
+msgid "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect."
+msgstr "ನೀವು ಖಾತೆಯನ್ನು ರಚಿಸದೆ ಬ್ರೀತಿಂಗ್ ಬಾಟ್ ಅನ್ನು ಬಳಸಿದರೆ, ನಾವು ಒಂದು ಕುಕೀಯನ್ನು ಸಂಗ್ರಹಿಸುತ್ತೇವೆ — ನಿಮ್ಮ ಭಾಷೆಯ ಆದ್ಯತೆ — ಇದರಿಂದ ಆಪ್ ನಿಮ್ಮ ಆಯ್ಕೆಮಾಡಿದ ಭಾಷೆಯನ್ನು ನೆನಪಿಸಿಕೊಳ್ಳುತ್ತದೆ. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ, ಅವಧಿಯ ಇತಿಹಾಸವಿಲ್ಲ, ಮತ್ತು ಜಾಹೀರಾತು ಪಾಲುದಾರರು ಸಂಗ್ರಹಿಸುವುದನ್ನು ಹೊರತುಪಡಿಸಿ ನಮ್ಮಿಂದ ಯಾವುದೇ ಟ್ರ್ಯಾಕಿಂಗ್ ಇಲ್ಲ."
+
+#: core/templates/core/privacy.html:57
+msgid "Donations (PayPal)"
+msgstr "ದೇಣಿಗೆಗಳು (PayPal)"
+
+#: core/templates/core/privacy.html:59
+msgid "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction."
+msgstr "ದೇಣಿಗೆಗಳನ್ನು PayPal ಮೂಲಕ ಪ್ರಕ್ರಿಯೆಗೊಳಿಸಲಾಗುತ್ತದೆ. ನಾವು ನಿಮ್ಮ ಪಾವತಿ ವಿವರಗಳನ್ನು ಸ್ವೀಕರಿಸುವುದಿಲ್ಲ ಅಥವಾ ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ. ಆ ವಹಿವಾಟಿಗೆ PayPal ನ ಸ್ವಂತ ಗೌಪ್ಯತೆ ನೀತಿ ಅನ್ವಯಿಸುತ್ತದೆ."
+
+#: core/templates/core/privacy.html:64
+msgid "Your rights"
+msgstr "ನಿಮ್ಮ ಹಕ್ಕುಗಳು"
+
+#: core/templates/core/privacy.html:65
+msgid "You can:"
+msgstr "ನೀವು:"
+
+#: core/templates/core/privacy.html:67
+msgid "Export your session history from your profile page at any time."
+msgstr "ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ಪುಟದಿಂದ ನಿಮ್ಮ ಅವಧಿಯ ಇತಿಹಾಸವನ್ನು ರಫ್ತು ಮಾಡಿ."
+
+#: core/templates/core/privacy.html:68
+msgid "Delete your account by contacting us — all your data will be permanently removed."
+msgstr "ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸುವ ಮೂಲಕ ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಅಳಿಸಿ — ನಿಮ್ಮ ಎಲ್ಲಾ ಡೇಟಾವನ್ನು ಶಾಶ್ವತವಾಗಿ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ."
+
+#: core/templates/core/privacy.html:69
+msgid "Use the app as a guest with no account and no data stored by us."
+msgstr "ಯಾವುದೇ ಖಾತೆ ಇಲ್ಲದೆ ಮತ್ತು ನಮ್ಮಿಂದ ಯಾವುದೇ ಡೇಟಾ ಸಂಗ್ರಹಿಸದೆ ಅತಿಥಿಯಾಗಿ ಆಪ್ ಬಳಸಿ."
+
+#: core/templates/core/privacy.html:74
+msgid "Data storage"
+msgstr "ಡೇಟಾ ಸಂಗ್ರಹಣೆ"
+
+#: core/templates/core/privacy.html:76
+msgid "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management."
+msgstr "ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಸುರಕ್ಷಿತ ಸರ್ವರ್‌ನಲ್ಲಿ ಸಂಗ್ರಹಿಸಲಾಗಿದೆ. ನಾವು ಪಾಸ್‌ವರ್ಡ್ ಹ್ಯಾಶಿಂಗ್, CSRF ರಕ್ಷಣೆ ಮತ್ತು ಸೆಷನ್ ನಿರ್ವಹಣೆ ಸೇರಿದಂತೆ Django ನ ಅಂತರ್ಗತ ಭದ್ರತಾ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ಬಳಸುತ್ತೇವೆ."
+
+#: core/templates/core/privacy.html:81
+msgid "Contact"
+msgstr "ಸಂಪರ್ಕ"
+
+#: core/templates/core/privacy.html:83
+msgid "Questions about this policy? Reach us at"
+msgstr "ಈ ನೀತಿಯ ಬಗ್ಗೆ ಪ್ರಶ್ನೆಗಳಿವೆಯೇ? ನಮ್ಮನ್ನು ಸಂಪರ್ಕಿಸಿ"
+
+#: core/templates/core/profile.html:28
+msgid "Profile Picture"
+msgstr "ಪ್ರೊಫೈಲ್ ಚಿತ್ರ"
+
+#: core/templates/core/profile.html:38
+msgid "Save"
+msgstr "ಉಳಿಸಿ"
+
+#: core/templates/core/profile.html:44
+msgid "Your Stats"
+msgstr "ನಿಮ್ಮ ಅಂಕಿಅಂಶಗಳು"
+
+#: core/templates/core/profile.html:46
+msgid "Total sessions"
+msgstr "ಒಟ್ಟು ಅವಧಿಗಳು"
+
+#: core/templates/core/profile.html:50
+msgid "Minutes meditated"
+msgstr "ಧ್ಯಾನ ಮಾಡಿದ ನಿಮಿಷಗಳು"
+
+#: core/templates/core/profile.html:54
+msgid "Current streak"
+msgstr "ಪ್ರಸ್ತುತ ಸ್ಟ್ರೀಕ್"
+
+#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
+msgid "days"
+msgstr "ದಿನಗಳು"
+
+#: core/templates/core/profile.html:58
+msgid "Longest streak"
+msgstr "ಅತಿ ಉದ್ದದ ಸ್ಟ್ರೀಕ್"
+
+#: core/templates/core/profile.html:65
+msgid "Security"
+msgstr "ಭದ್ರತೆ"
+
+#: core/templates/core/profile.html:67
+msgid "Change Password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ಬದಲಾಯಿಸಿ"
+
+#: core/templates/core/profile.html:77
+msgid "Session History"
+msgstr "ಅವಧಿಯ ಇತಿಹಾಸ"
+
+#: core/templates/core/profile.html:79
+msgid "Export CSV"
+msgstr "CSV ರಫ್ತು ಮಾಡಿ"
+
+#: core/templates/core/profile.html:90
+msgid "Level"
+msgstr "ಮಟ್ಟ"
+
+#: core/templates/core/register.html:8 core/templates/core/register.html:72
+msgid "Create Account"
+msgstr "ಖಾತೆಯನ್ನು ರಚಿಸಿ"
+
+#: core/templates/core/register.html:9
+msgid "Free forever. No credit card needed."
+msgstr "ಶಾಶ್ವತವಾಗಿ ಉಚಿತ. ಕ್ರೆಡಿಟ್ ಕಾರ್ಡ್ ಅಗತ್ಯವಿಲ್ಲ."
+
+#: core/templates/core/register.html:60
+msgid "Confirm password"
+msgstr "ಪಾಸ್‌ವರ್ಡ್ ಖಚಿತಪಡಿಸಿ"
+
+#: core/templates/core/register.html:78
+msgid "Already have an account?"
+msgstr "ಈಗಾಗಲೇ ಖಾತೆಯನ್ನು ಹೊಂದಿದ್ದೀರಾ?"
+
+#: core/templates/core/register.html:79
+msgid "Log in"
+msgstr "ಲಾಗಿನ್"
+
+#: core/templates/core/session.html:19
+msgid "Configure Exercise"
+msgstr "ವ್ಯಾಯಾಮವನ್ನು ಕಾನ್ಫಿಗರ್ ಮಾಡಿ"
+
+#: core/templates/core/session.html:22
+msgid "Breathing Technique"
+msgstr "ಉಸಿರಾಟದ ತಂತ್ರ"
+
+#: core/templates/core/session.html:27
+msgid "Custom Manual Rhythm..."
+msgstr "ಕಸ್ಟಮ್ ಮ್ಯಾನುವಲ್ ಲಯ..."
+
+#: core/templates/core/session.html:34
+msgid "Intensity Level"
+msgstr "ತೀವ್ರತೆಯ ಮಟ್ಟ"
+
+#: core/templates/core/session.html:45
+msgid "Target Exercise Cycles"
+msgstr "ಗುರಿ ವ್ಯಾಯಾಮ ಚಕ್ರಗಳು"
+
+#: core/templates/core/session.html:53
+msgid "Initialize Breathing Tracker"
+msgstr "ಉಸಿರಾಟದ ಟ್ರ್ಯಾಕರ್ ಅನ್ನು ಪ್ರಾರಂಭಿಸಿ"
+
+#: core/templates/core/session.html:63
+msgid "Ready to Begin"
+msgstr "ಪ್ರಾರಂಭಿಸಲು ಸಿದ್ಧ"
+
+#: core/templates/core/session.html:69
+msgid "Cycle"
+msgstr "ಚಕ್ರ"
+
+#: core/views.py:87
+msgid "Hold"
+msgstr "ಹಿಡಿದಿಟ್ಟುಕೊಳ್ಳಿ"
+
+#: core/views.py:89
+msgid "Rest"
+msgstr "ವಿಶ್ರಮಿಸಿ"
+
+msgid "Settings"
+msgstr "ಸೆಟ್ಟಿಂಗ್‌ಗಳು"

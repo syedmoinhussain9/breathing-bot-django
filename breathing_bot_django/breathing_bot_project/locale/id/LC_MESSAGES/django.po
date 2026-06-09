@@ -1,0 +1,764 @@
+#
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-08 09:03+0000\n"
+"Language: id\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: core/presets.py:5
+msgid "1-4-2 Lung Conditioning Pattern"
+msgstr "Pola Pengkondisian Paru 1-4-2"
+
+#: core/presets.py:13
+msgid ""
+"A classic respiratory conditioning sequence designed to maximize blood "
+"oxygenation and expand vital lung capacity over time."
+msgstr ""
+"Urutan pengkondisian pernapasan klasik yang dirancang untuk memaksimalkan "
+"oksigenasi darah dan memperluas kapasitas vital paru seiring waktu."
+
+#: core/presets.py:16
+msgid "Box Breathing (Navy SEAL Tactical Clarity)"
+msgstr "Box Breathing (Kejelasan Taktis Navy SEAL)"
+
+#: core/presets.py:24
+msgid ""
+"The gold standard for high-stress grounding. Equal duration phases clear "
+"cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr ""
+"Standar utama untuk menenangkan diri dari stres tinggi. Fase berdurasi sama "
+"menurunkan kortisol, menstabilkan jantung yang berdebar, dan memulihkan "
+"kejelasan mental."
+
+#: core/presets.py:27
+msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
+msgstr "Relaksasi 4-7-8 (Penenang Sistem Saraf)"
+
+#: core/presets.py:35
+msgid ""
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly"
+" recommended for severe anxiety and floating into deep sleep."
+msgstr ""
+"Bertindak sebagai rem kimia alami untuk sistem saraf simpatik Anda. Sangat "
+"direkomendasikan untuk kecemasan parah dan membantu tidur nyenyak."
+
+#: core/presets.py:38
+msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
+msgstr "Pernapasan Koheren / Resonan (Meredakan Asma & Panik)"
+
+#: core/presets.py:46
+msgid ""
+"Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
+"hold times make this perfectly safe for active asthma management."
+msgstr ""
+"Menyeimbangkan saraf vagus dan mengoptimalkan variabilitas detak jantung "
+"(HRV). Tanpa waktu jeda menahan napas membuatnya sangat aman untuk "
+"pengelolaan asma aktif."
+
+#: core/presets.py:49
+msgid "Tactical Breathing (Sustained Equilibrium)"
+msgstr "Pernapasan Taktis (Keseimbangan Berkelanjutan)"
+
+#: core/presets.py:57
+msgid ""
+"A specialized, low-overhead holding variant used by responders to reduce "
+"somatic anxiety without inducing lightheadedness."
+msgstr ""
+"Varian penahanan napas khusus berbeban rendah yang digunakan oleh petugas "
+"darurat untuk mengurangi kecemasan somatik tanpa memicu pusing."
+
+#: core/presets.py:60
+msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
+msgstr "Pursed-Lip Splinting (Meredakan PPOK & Penjebakan Udara)"
+
+#: core/presets.py:68
+msgid ""
+"Creates passive mechanical backpressure to keep bronchial pathways open. "
+"Crucial for individuals with emphysema or structural shortness of breath."
+msgstr ""
+"Menciptakan tekanan balik mekanis pasif untuk menjaga saluran bronkial tetap"
+" terbuka. Sangat penting bagi individu dengan emfisema atau sesak napas "
+"struktural."
+
+#: core/presets.py:71
+msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
+msgstr "Physiological Sigh (Mengatasi Hiperventilasi Akut)"
+
+#: core/presets.py:79
+msgid ""
+"Simulates the biological double-inhale reflex to instantly re-inflate "
+"collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr ""
+"Meniru refleks biologis menarik napas ganda untuk langsung mengembangkan "
+"kembali alveoli yang mengempis dan memaksimalkan pelepasan karbon dioksida "
+"secara instan."
+
+#: core/presets.py:82
+msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
+msgstr ""
+"Pernapasan Buang Napas Diperpanjang (Kontrol Hipertensi / Tonus Vagal)"
+
+#: core/presets.py:90
+msgid ""
+"Exhale window is mathematically doubled relative to inhale. Maximizes "
+"acetylcholinergic outflow to safely downregulate heart rate and blood "
+"pressure."
+msgstr ""
+"Waktu menghembuskan napas secara matematis digandakan relatif terhadap "
+"menarik napas. Memaksimalkan aliran asetilkolinergik untuk menurunkan detak "
+"jantung dan tekanan darah dengan aman."
+
+#: core/templates/404.html:5
+msgid "Page Not Found"
+msgstr "Halaman Tidak Ditemukan"
+
+#: core/templates/404.html:13
+msgid "Page not found"
+msgstr "Halaman tidak ditemukan"
+
+#: core/templates/404.html:15
+msgid ""
+"The page you're looking for doesn't exist. It may have been moved or the URL"
+" might be wrong."
+msgstr ""
+"Halaman yang Anda cari tidak ada. Mungkin telah dipindahkan atau URL-nya "
+"salah."
+
+#: core/templates/404.html:20
+msgid "Go home"
+msgstr "Ke beranda"
+
+#: core/templates/404.html:23
+msgid "Start breathing"
+msgstr "Mulai bernapas"
+
+#: core/templates/base.html:46
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Breathing"
+msgstr "Pernapasan"
+
+#: core/templates/base.html:51 core/templates/core/free.html:22
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Breathing Exercises"
+msgstr "Latihan Pernapasan"
+
+#: core/templates/base.html:56 core/templates/core/dashboard.html:34
+#: core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+msgid "Coherent Breathing"
+msgstr "Pernapasan Koheren"
+
+#: core/templates/base.html:61 core/templates/core/dashboard.html:46
+#: core/templates/core/free.html:44 core/templates/core/meditate.html:9
+msgid "Meditation Room"
+msgstr "Ruang Meditasi"
+
+#: core/templates/base.html:70
+msgid "Dashboard"
+msgstr "Dasbor"
+
+#: core/templates/base.html:75
+msgid "Profile"
+msgstr "Profil"
+
+#: core/templates/base.html:82
+msgid "Donate"
+msgstr "Donasi"
+
+#: core/templates/base.html:96
+msgid "Language"
+msgstr "Bahasa"
+
+#: core/templates/base.html:110
+msgid "Logout"
+msgstr "Keluar"
+
+#: core/templates/base.html:115
+msgid "Register"
+msgstr "Daftar"
+
+#: core/templates/base.html:130
+msgid "Designed for accessibility. Completely free and open-source."
+msgstr "Dirancang untuk aksesibilitas. Sepenuhnya gratis dan open-source."
+
+#: core/templates/base.html:133 core/templates/core/privacy.html:5
+#: core/templates/core/privacy.html:10
+msgid "Privacy Policy"
+msgstr "Kebijakan Privasi"
+
+#: core/templates/base.html:135
+msgid "Support Us"
+msgstr "Dukung Kami"
+
+#: core/templates/core/dashboard.html:9
+msgid "Welcome to Breathing Bot"
+msgstr "Selamat datang di Breathing Bot"
+
+#: core/templates/core/dashboard.html:10
+msgid ""
+"Free breathing exercises, coherent breathing, and meditation — all in one "
+"place."
+msgstr ""
+"Latihan pernapasan gratis, pernapasan koheren, dan meditasi — semuanya di "
+"satu tempat."
+
+#: core/templates/core/dashboard.html:22
+msgid "Guided Breathing"
+msgstr "Pernapasan Terpandu"
+
+#: core/templates/core/dashboard.html:23
+msgid "Guest"
+msgstr "Tamu"
+
+#: core/templates/core/dashboard.html:35
+msgid "Panic Relief"
+msgstr "Pereda Panik"
+
+#: core/templates/core/dashboard.html:47
+msgid "Brown Noise"
+msgstr "Kebisingan Coklat"
+
+#: core/templates/core/dashboard.html:58
+msgid "Free User Login"
+msgstr "Login Pengguna Gratis"
+
+#: core/templates/core/dashboard.html:59
+msgid "Login to save progress and track history."
+msgstr "Masuk untuk menyimpan kemajuan dan melacak riwayat."
+
+#: core/templates/core/dashboard.html:64
+msgid "Invalid username or password."
+msgstr "Nama pengguna atau kata sandi tidak valid."
+
+#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+msgid "Password"
+msgstr "Kata sandi"
+
+#: core/templates/core/dashboard.html:70
+msgid "Login"
+msgstr "Masuk"
+
+#: core/templates/core/dashboard.html:74
+msgid "Create account"
+msgstr "Buat akun"
+
+#: core/templates/core/dashboard.html:75
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: core/templates/core/donate.html:11
+msgid "Support Breathing Bot"
+msgstr "Dukung Breathing Bot"
+
+#: core/templates/core/donate.html:13
+msgid ""
+"Breathing Bot is free and will always stay free. If it has helped you, "
+"consider supporting its development."
+msgstr ""
+"Breathing Bot gratis dan akan selalu gratis. Jika telah membantu Anda, "
+"pertimbangkan untuk mendukung pengembangannya."
+
+#: core/templates/core/donate.html:27
+msgid ""
+"One-time donation. Any amount helps keep the server running and development "
+"going."
+msgstr ""
+"Donasi sekali. Jumlah berapa pun membantu menjaga server berjalan dan "
+"pengembangan berlanjut."
+
+#: core/templates/core/donate.html:41
+msgid "Donate with PayPal"
+msgstr "Donasi dengan PayPal"
+
+#: core/templates/core/donate.html:42
+msgid "Coming Soon"
+msgstr "Segera Hadir"
+
+#: core/templates/core/donate.html:48
+msgid "Other ways to help"
+msgstr "Cara lain untuk membantu"
+
+#: core/templates/core/donate.html:55
+msgid "Spread the word"
+msgstr "Sebarkan beritanya"
+
+#: core/templates/core/donate.html:56
+msgid "Share Breathing Bot with someone who might benefit from it."
+msgstr ""
+"Bagikan Breathing Bot kepada seseorang yang mungkin bisa memanfaatkannya."
+
+#: core/templates/core/donate.html:64
+msgid "Report bugs"
+msgstr "Laporkan bug"
+
+#: core/templates/core/donate.html:65
+msgid "Found something broken? Let us know so we can fix it."
+msgstr "Menemukan sesuatu yang rusak? Beritahu kami agar bisa diperbaiki."
+
+#: core/templates/core/donate.html:73
+msgid "Give feedback"
+msgstr "Berikan masukan"
+
+#: core/templates/core/donate.html:74
+msgid "Ideas for new features or languages are always welcome."
+msgstr "Ide untuk fitur baru atau bahasa selalu disambut."
+
+#: core/templates/core/donate.html:81
+msgid "Thank you for using Breathing Bot."
+msgstr "Terima kasih telah menggunakan Breathing Bot."
+
+#: core/templates/core/free.html:9
+msgid "Welcome back"
+msgstr "Selamat datang kembali"
+
+#: core/templates/core/free.html:10
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to breathe?"
+msgstr "Siap bernapas?"
+
+#: core/templates/core/free.html:53
+msgid "Recent Sessions"
+msgstr "Sesi Terbaru"
+
+#: core/templates/core/free.html:55
+msgid "View all"
+msgstr "Lihat semua"
+
+#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Technique"
+msgstr "Teknik"
+
+#: core/templates/core/free.html:64 core/templates/core/profile.html:91
+msgid "Cycles / Min"
+msgstr "Siklus / Menit"
+
+#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+msgid "Date"
+msgstr "Tanggal"
+
+#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+msgid ""
+"No sessions yet. Complete a breathing exercise to see your history here."
+msgstr ""
+"Belum ada sesi. Selesaikan latihan pernapasan untuk melihat riwayat Anda di "
+"sini."
+
+#: core/templates/core/meditate.html:10
+msgid "Brown noise"
+msgstr "Kebisingan coklat"
+
+#: core/templates/core/meditate.html:10
+msgid "mathematically generated, no files"
+msgstr "Dibuat secara matematis, tanpa file"
+
+#: core/templates/core/meditate.html:14
+#, fuzzy
+#| msgid "Session has ended"
+msgid "Session duration"
+msgstr "Durasi sesi"
+
+#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17
+#: core/templates/core/meditate.html:18 core/templates/core/meditate.html:19
+#: core/templates/core/meditate.html:20
+msgid "min"
+msgstr "mnt"
+
+#: core/templates/core/meditate.html:23
+msgid "Custom minutes (1–120)"
+msgstr "Menit kustom (1–120)"
+
+#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
+msgid "select a duration to begin"
+msgstr "pilih durasi untuk memulai"
+
+#: core/templates/core/meditate.html:31
+msgid "please select a duration first"
+msgstr "silakan pilih durasi terlebih dahulu"
+
+#: core/templates/core/meditate.html:32
+msgid "session in progress"
+msgstr "sesi sedang berlangsung"
+
+#: core/templates/core/meditate.html:33
+msgid "session complete"
+msgstr "sesi selesai"
+
+#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
+msgid "Start"
+msgstr "Mulai"
+
+#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+msgid "Stop"
+msgstr "Berhenti"
+
+#: core/templates/core/panicroom.html:9
+msgid "6 seconds in, 6 seconds out. Calms the nervous system."
+msgstr "6 detik masuk, 6 detik keluar. Menenangkan sistem saraf."
+
+#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+msgid "Inhale"
+msgstr "Tarik Napas"
+
+#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+msgid "Exhale"
+msgstr "Hembuskan Napas"
+
+#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+msgid "Session has ended"
+msgstr "Sesi telah berakhir"
+
+#: core/templates/core/panicroom.html:23
+msgid "Ready"
+msgstr "Siap"
+
+#: core/templates/core/password_reset_complete.html:8
+msgid "Password updated"
+msgstr "Kata sandi diperbarui"
+
+#: core/templates/core/password_reset_complete.html:9
+msgid "Your password has been set. You can now log in with your new password."
+msgstr ""
+"Kata sandi Anda telah ditetapkan. Anda sekarang dapat masuk dengan kata "
+"sandi baru Anda."
+
+#: core/templates/core/password_reset_complete.html:10
+#: core/templates/core/password_reset_done.html:12
+#: core/templates/core/password_reset_form.html:22
+msgid "Back to login"
+msgstr "Kembali ke login"
+
+#: core/templates/core/password_reset_confirm.html:7
+msgid "Choose New Password"
+msgstr "Pilih Kata Sandi Baru"
+
+#: core/templates/core/password_reset_confirm.html:8
+msgid "Enter your new password below."
+msgstr "Masukkan kata sandi baru Anda di bawah."
+
+#: core/templates/core/password_reset_confirm.html:16
+msgid "New password"
+msgstr "Kata sandi baru"
+
+#: core/templates/core/password_reset_confirm.html:27
+msgid "Confirm new password"
+msgstr "Konfirmasi kata sandi baru"
+
+#: core/templates/core/password_reset_confirm.html:37
+msgid "Set New Password"
+msgstr "Tetapkan Kata Sandi Baru"
+
+#: core/templates/core/password_reset_confirm.html:41
+msgid "This reset link is invalid or has expired."
+msgstr "Tautan reset ini tidak valid atau telah kedaluwarsa."
+
+#: core/templates/core/password_reset_confirm.html:42
+msgid "Request a new link"
+msgstr "Minta tautan baru"
+
+#: core/templates/core/password_reset_done.html:8
+msgid "Check your email"
+msgstr "Periksa email Anda"
+
+#: core/templates/core/password_reset_done.html:10
+msgid ""
+"If an account exists for that address, a password reset link has been sent. "
+"Check your spam folder if you don't see it."
+msgstr ""
+"Jika akun ada untuk alamat tersebut, tautan reset kata sandi telah dikirim. "
+"Periksa folder spam Anda jika tidak terlihat."
+
+#: core/templates/core/password_reset_form.html:7
+msgid "Reset Password"
+msgstr "Reset Kata Sandi"
+
+#: core/templates/core/password_reset_form.html:8
+msgid "Enter your email and we'll send you a reset link."
+msgstr "Masukkan email Anda dan kami akan mengirim tautan reset."
+
+#: core/templates/core/password_reset_form.html:14
+#: core/templates/core/register.html:35
+msgid "Email address"
+msgstr "Alamat email"
+
+#: core/templates/core/password_reset_form.html:17
+msgid "Send Reset Link"
+msgstr "Kirim Tautan Reset"
+
+#: core/templates/core/privacy.html:11
+msgid "Last updated"
+msgstr "Terakhir diperbarui"
+
+#: core/templates/core/privacy.html:16
+msgid "What we collect"
+msgstr "Yang kami kumpulkan"
+
+#: core/templates/core/privacy.html:17
+msgid "When you create an account, we store:"
+msgstr ""
+
+#: core/templates/core/privacy.html:19
+msgid "Username and email address"
+msgstr ""
+
+#: core/templates/core/privacy.html:20
+msgid "Hashed password (we never store your plain password)"
+msgstr ""
+
+#: core/templates/core/privacy.html:21
+msgid "Breathing and meditation session history (technique, cycles, date)"
+msgstr ""
+
+#: core/templates/core/privacy.html:22
+msgid "Language preference"
+msgstr ""
+
+#: core/templates/core/privacy.html:23
+msgid "Profile picture URL (a link you provide — we don't store image files)"
+msgstr ""
+
+#: core/templates/core/privacy.html:28
+msgid "What we don't do"
+msgstr "Yang tidak kami lakukan"
+
+#: core/templates/core/privacy.html:30
+msgid "We do not sell your personal data to third parties."
+msgstr ""
+
+#: core/templates/core/privacy.html:31
+msgid ""
+"We do not share your session history or health-related data with "
+"advertisers."
+msgstr ""
+
+#: core/templates/core/privacy.html:32
+msgid "We do not collect health or medical data."
+msgstr ""
+
+#: core/templates/core/privacy.html:37
+msgid "Advertising"
+msgstr "Iklan"
+
+#: core/templates/core/privacy.html:39
+msgid ""
+"Breathing Bot displays ads to support free access to the app. Our ad "
+"partners may use cookies and similar technologies to show relevant ads based"
+" on your browsing activity."
+msgstr ""
+
+#: core/templates/core/privacy.html:42
+msgid "We use Google AdSense (or similar) to serve ads."
+msgstr ""
+
+#: core/templates/core/privacy.html:43
+msgid ""
+"Ad partners may collect device identifiers, IP address, and browsing "
+"behaviour."
+msgstr ""
+
+#: core/templates/core/privacy.html:44
+msgid ""
+"You can opt out of personalised ads via your Google account settings or your"
+" device's ad settings."
+msgstr ""
+
+#: core/templates/core/privacy.html:45
+msgid ""
+"Logged-in users' breathing session data is never shared with advertisers."
+msgstr ""
+
+#: core/templates/core/privacy.html:50
+msgid "Guest users"
+msgstr "Pengguna tamu"
+
+#: core/templates/core/privacy.html:52
+msgid ""
+"If you use Breathing Bot without creating an account, we store one "
+"functional cookie — your language preference — so the app remembers your "
+"chosen language between visits. No personal data, no session history, and no"
+" tracking by us beyond what ad partners may collect."
+msgstr ""
+
+#: core/templates/core/privacy.html:57
+msgid "Donations (PayPal)"
+msgstr "Donasi (PayPal)"
+
+#: core/templates/core/privacy.html:59
+msgid ""
+"Donations are processed by PayPal. We do not receive or store your payment "
+"details. PayPal's own privacy policy applies to that transaction."
+msgstr ""
+
+#: core/templates/core/privacy.html:64
+msgid "Your rights"
+msgstr "Hak Anda"
+
+#: core/templates/core/privacy.html:65
+msgid "You can:"
+msgstr "Anda dapat:"
+
+#: core/templates/core/privacy.html:67
+msgid "Export your session history from your profile page at any time."
+msgstr ""
+
+#: core/templates/core/privacy.html:68
+msgid ""
+"Delete your account by contacting us — all your data will be permanently "
+"removed."
+msgstr ""
+
+#: core/templates/core/privacy.html:69
+msgid "Use the app as a guest with no account and no data stored by us."
+msgstr ""
+
+#: core/templates/core/privacy.html:74
+msgid "Data storage"
+msgstr "Penyimpanan data"
+
+#: core/templates/core/privacy.html:76
+msgid ""
+"Your data is stored on a secure server. We use Django's built-in security "
+"features including password hashing, CSRF protection, and session "
+"management."
+msgstr ""
+
+#: core/templates/core/privacy.html:81
+msgid "Contact"
+msgstr "Kontak"
+
+#: core/templates/core/privacy.html:83
+msgid "Questions about this policy? Reach us at"
+msgstr "Pertanyaan tentang kebijakan ini? Hubungi kami di"
+
+#: core/templates/core/profile.html:28
+msgid "Profile Picture"
+msgstr "Foto Profil"
+
+#: core/templates/core/profile.html:38
+msgid "Save"
+msgstr "Simpan"
+
+#: core/templates/core/profile.html:44
+msgid "Your Stats"
+msgstr "Statistik Anda"
+
+#: core/templates/core/profile.html:46
+msgid "Total sessions"
+msgstr "Total sesi"
+
+#: core/templates/core/profile.html:50
+msgid "Minutes meditated"
+msgstr "Menit bermeditasi"
+
+#: core/templates/core/profile.html:54
+msgid "Current streak"
+msgstr "Streak saat ini"
+
+#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
+msgid "days"
+msgstr "hari"
+
+#: core/templates/core/profile.html:58
+msgid "Longest streak"
+msgstr "Streak terpanjang"
+
+#: core/templates/core/profile.html:65
+msgid "Security"
+msgstr "Keamanan"
+
+#: core/templates/core/profile.html:67
+msgid "Change Password"
+msgstr "Ubah Kata Sandi"
+
+#: core/templates/core/profile.html:77
+msgid "Session History"
+msgstr "Riwayat Sesi"
+
+#: core/templates/core/profile.html:79
+msgid "Export CSV"
+msgstr "Ekspor CSV"
+
+#: core/templates/core/profile.html:90
+msgid "Level"
+msgstr "Level"
+
+#: core/templates/core/register.html:8 core/templates/core/register.html:72
+msgid "Create Account"
+msgstr "Buat Akun"
+
+#: core/templates/core/register.html:9
+msgid "Free forever. No credit card needed."
+msgstr "Gratis selamanya. Tidak perlu kartu kredit."
+
+#: core/templates/core/register.html:60
+msgid "Confirm password"
+msgstr "Konfirmasi kata sandi"
+
+#: core/templates/core/register.html:78
+msgid "Already have an account?"
+msgstr "Sudah punya akun?"
+
+#: core/templates/core/register.html:79
+msgid "Log in"
+msgstr "Masuk"
+
+#: core/templates/core/session.html:19
+msgid "Configure Exercise"
+msgstr "Konfigurasi Latihan"
+
+#: core/templates/core/session.html:22
+msgid "Breathing Technique"
+msgstr "Teknik Pernapasan"
+
+#: core/templates/core/session.html:27
+msgid "Custom Manual Rhythm..."
+msgstr "Ritme Manual Kustom..."
+
+#: core/templates/core/session.html:34
+msgid "Intensity Level"
+msgstr "Tingkat Intensitas"
+
+#: core/templates/core/session.html:45
+msgid "Target Exercise Cycles"
+msgstr "Target Siklus Latihan"
+
+#: core/templates/core/session.html:53
+msgid "Initialize Breathing Tracker"
+msgstr "Mulai Pelacak Pernapasan"
+
+#: core/templates/core/session.html:63
+msgid "Ready to Begin"
+msgstr "Siap Dimulai"
+
+#: core/templates/core/session.html:69
+msgid "Cycle"
+msgstr "Siklus"
+
+#: core/views.py:87
+msgid "Hold"
+msgstr "Tahan"
+
+#: core/views.py:89
+msgid "Rest"
+msgstr "Istirahat"
+
+#~ msgid ""
+#~ "Select an optimized medical pacing cycle or build your own manual tracking "
+#~ "rhythm."
+#~ msgstr ""
+#~ "Pilih siklus pemacu medis yang dioptimalkan atau buat ritme pelacakan manual"
+#~ " Anda sendiri."
+
+#~ msgid "Hold (Post-Inhale)"
+#~ msgstr "Tahan (Pasca-Tarik Napas)"
+
+#~ msgid "Rest (Post-Exhale)"
+#~ msgstr "Istirahat (Pasca-Hembuskan Napas)"

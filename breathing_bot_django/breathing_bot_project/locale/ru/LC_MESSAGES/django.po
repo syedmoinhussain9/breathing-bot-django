@@ -1,0 +1,761 @@
+#
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-08 09:03+0000\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: core/presets.py:5
+msgid "1-4-2 Lung Conditioning Pattern"
+msgstr "Метод кондиционирования легких 1-4-2"
+
+#: core/presets.py:13
+msgid ""
+"A classic respiratory conditioning sequence designed to maximize blood "
+"oxygenation and expand vital lung capacity over time."
+msgstr ""
+"Классическая дыхательная последовательность, предназначенная для "
+"максимального насыщения крови кислородом и постепенного увеличения жизненной"
+" емкости легких."
+
+#: core/presets.py:16
+msgid "Box Breathing (Navy SEAL Tactical Clarity)"
+msgstr "Квадратное дыхание (Тактическая ясность «Морских котиков»)"
+
+#: core/presets.py:24
+msgid ""
+"The gold standard for high-stress grounding. Equal duration phases clear "
+"cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr ""
+"Золотой стандарт для заземления при сильном стрессе. Фазы равной "
+"длительности снижают уровень кортизола, успокаивают учащенное сердцебиение и"
+" восстанавливают остроту ума."
+
+#: core/presets.py:27
+msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
+msgstr "Расслабление 4-7-8 (Транквилизатор нервной системы)"
+
+#: core/presets.py:35
+msgid ""
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly"
+" recommended for severe anxiety and floating into deep sleep."
+msgstr ""
+"Действует как естественный химический тормоз для симпатической нервной "
+"системы. Настоятельно рекомендуется при сильной тревоге и для погружения в "
+"глубокий сон."
+
+#: core/presets.py:38
+msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
+msgstr "Когерентное / Резонансное дыхание (Облегчение астмы и паники)"
+
+#: core/presets.py:46
+msgid ""
+"Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
+"hold times make this perfectly safe for active asthma management."
+msgstr ""
+"Балансирует блуждающий нерв и оптимизирует вариабельность сердечного ритма "
+"(ВСР). Отсутствие задержек дыхания делает этот метод абсолютно безопасным "
+"при астме."
+
+#: core/presets.py:49
+msgid "Tactical Breathing (Sustained Equilibrium)"
+msgstr "Тактическое дыхание (Устойчивое равновесие)"
+
+#: core/presets.py:57
+msgid ""
+"A specialized, low-overhead holding variant used by responders to reduce "
+"somatic anxiety without inducing lightheadedness."
+msgstr ""
+"Специализированный, простой вариант задержки дыхания, используемый "
+"спасателями для снижения соматической тревоги без появления головокружения."
+
+#: core/presets.py:60
+msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
+msgstr "Дыхание сквозь поджатые губы (Облегчение при ХОБЛ)"
+
+#: core/presets.py:68
+msgid ""
+"Creates passive mechanical backpressure to keep bronchial pathways open. "
+"Crucial for individuals with emphysema or structural shortness of breath."
+msgstr ""
+"Создает пассивное механическое противодавление для удержания бронхиальных "
+"путей открытыми. Важно для людей с эмфиземой или структурной одышкой."
+
+#: core/presets.py:71
+msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
+msgstr "Физиологический вздох (Купирование острой гипервентиляции)"
+
+#: core/presets.py:79
+msgid ""
+"Simulates the biological double-inhale reflex to instantly re-inflate "
+"collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr ""
+"Имитирует биологический рефлекс двойного вдоха для мгновенного раскрытия "
+"спавшихся альвеол и максимального выведения углекислого газа."
+
+#: core/presets.py:82
+msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
+msgstr "Удлиненный сердечный выдох (Контроль гипертонии / Вагусного тонуса)"
+
+#: core/presets.py:90
+msgid ""
+"Exhale window is mathematically doubled relative to inhale. Maximizes "
+"acetylcholinergic outflow to safely downregulate heart rate and blood "
+"pressure."
+msgstr ""
+"Окно выдоха математически удвоено по сравнению со вдохом. Максимизирует "
+"ацетилхолиновый выброс для безопасного снижения частоты сердечных сокращений"
+" и давления."
+
+#: core/templates/404.html:5
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: core/templates/404.html:13
+msgid "Page not found"
+msgstr "Страница не найдена"
+
+#: core/templates/404.html:15
+msgid ""
+"The page you're looking for doesn't exist. It may have been moved or the URL"
+" might be wrong."
+msgstr ""
+"Страница, которую вы ищете, не существует. Возможно, она была перемещена или"
+" URL неверен."
+
+#: core/templates/404.html:20
+msgid "Go home"
+msgstr "На главную"
+
+#: core/templates/404.html:23
+msgid "Start breathing"
+msgstr "Начать дышать"
+
+#: core/templates/base.html:46
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Breathing"
+msgstr "Дыхание"
+
+#: core/templates/base.html:51 core/templates/core/free.html:22
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Breathing Exercises"
+msgstr "Дыхательные упражнения"
+
+#: core/templates/base.html:56 core/templates/core/dashboard.html:34
+#: core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+msgid "Coherent Breathing"
+msgstr "Когерентное дыхание"
+
+#: core/templates/base.html:61 core/templates/core/dashboard.html:46
+#: core/templates/core/free.html:44 core/templates/core/meditate.html:9
+msgid "Meditation Room"
+msgstr "Комната медитации"
+
+#: core/templates/base.html:70
+msgid "Dashboard"
+msgstr "Панель"
+
+#: core/templates/base.html:75
+msgid "Profile"
+msgstr "Профиль"
+
+#: core/templates/base.html:82
+msgid "Donate"
+msgstr "Пожертвовать"
+
+#: core/templates/base.html:96
+msgid "Language"
+msgstr "Язык"
+
+#: core/templates/base.html:110
+msgid "Logout"
+msgstr "Выйти"
+
+#: core/templates/base.html:115
+msgid "Register"
+msgstr "Зарегистрироваться"
+
+#: core/templates/base.html:130
+msgid "Designed for accessibility. Completely free and open-source."
+msgstr ""
+"Разработан для доступности. Полностью бесплатно и с открытым исходным кодом."
+
+#: core/templates/base.html:133 core/templates/core/privacy.html:5
+#: core/templates/core/privacy.html:10
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: core/templates/base.html:135
+msgid "Support Us"
+msgstr "Поддержите нас"
+
+#: core/templates/core/dashboard.html:9
+msgid "Welcome to Breathing Bot"
+msgstr "Добро пожаловать в Breathing Bot"
+
+#: core/templates/core/dashboard.html:10
+msgid ""
+"Free breathing exercises, coherent breathing, and meditation — all in one "
+"place."
+msgstr ""
+"Бесплатные дыхательные упражнения, когерентное дыхание и медитация — всё в "
+"одном месте."
+
+#: core/templates/core/dashboard.html:22
+msgid "Guided Breathing"
+msgstr "Управляемое дыхание"
+
+#: core/templates/core/dashboard.html:23
+msgid "Guest"
+msgstr "Гость"
+
+#: core/templates/core/dashboard.html:35
+msgid "Panic Relief"
+msgstr "Снятие паники"
+
+#: core/templates/core/dashboard.html:47
+msgid "Brown Noise"
+msgstr "Коричневый шум"
+
+#: core/templates/core/dashboard.html:58
+msgid "Free User Login"
+msgstr "Вход бесплатного пользователя"
+
+#: core/templates/core/dashboard.html:59
+msgid "Login to save progress and track history."
+msgstr "Войдите, чтобы сохранять прогресс и отслеживать историю."
+
+#: core/templates/core/dashboard.html:64
+msgid "Invalid username or password."
+msgstr "Неверное имя пользователя или пароль."
+
+#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+msgid "Password"
+msgstr "Пароль"
+
+#: core/templates/core/dashboard.html:70
+msgid "Login"
+msgstr "Войти"
+
+#: core/templates/core/dashboard.html:74
+msgid "Create account"
+msgstr "Создать аккаунт"
+
+#: core/templates/core/dashboard.html:75
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: core/templates/core/donate.html:11
+msgid "Support Breathing Bot"
+msgstr "Поддержать Breathing Bot"
+
+#: core/templates/core/donate.html:13
+msgid ""
+"Breathing Bot is free and will always stay free. If it has helped you, "
+"consider supporting its development."
+msgstr ""
+"Breathing Bot бесплатен и таким останется. Если он вам помог, рассмотрите "
+"поддержку его развития."
+
+#: core/templates/core/donate.html:27
+msgid ""
+"One-time donation. Any amount helps keep the server running and development "
+"going."
+msgstr ""
+"Разовое пожертвование. Любая сумма помогает поддерживать работу сервера и "
+"продолжать разработку."
+
+#: core/templates/core/donate.html:41
+msgid "Donate with PayPal"
+msgstr "Пожертвовать через PayPal"
+
+#: core/templates/core/donate.html:42
+msgid "Coming Soon"
+msgstr "Скоро"
+
+#: core/templates/core/donate.html:48
+msgid "Other ways to help"
+msgstr "Другие способы помочь"
+
+#: core/templates/core/donate.html:55
+msgid "Spread the word"
+msgstr "Расскажите другим"
+
+#: core/templates/core/donate.html:56
+msgid "Share Breathing Bot with someone who might benefit from it."
+msgstr "Поделитесь Breathing Bot с кем-то, кому это может помочь."
+
+#: core/templates/core/donate.html:64
+msgid "Report bugs"
+msgstr "Сообщить об ошибках"
+
+#: core/templates/core/donate.html:65
+msgid "Found something broken? Let us know so we can fix it."
+msgstr "Нашли что-то сломанное? Сообщите нам, чтобы мы могли исправить."
+
+#: core/templates/core/donate.html:73
+msgid "Give feedback"
+msgstr "Оставить отзыв"
+
+#: core/templates/core/donate.html:74
+msgid "Ideas for new features or languages are always welcome."
+msgstr "Идеи для новых функций или языков всегда приветствуются."
+
+#: core/templates/core/donate.html:81
+msgid "Thank you for using Breathing Bot."
+msgstr "Спасибо за использование Breathing Bot."
+
+#: core/templates/core/free.html:9
+msgid "Welcome back"
+msgstr "Добро пожаловать обратно"
+
+#: core/templates/core/free.html:10
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to breathe?"
+msgstr "Готовы дышать?"
+
+#: core/templates/core/free.html:53
+msgid "Recent Sessions"
+msgstr "Последние сеансы"
+
+#: core/templates/core/free.html:55
+msgid "View all"
+msgstr "Посмотреть все"
+
+#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#, fuzzy
+#| msgid "Breathing Technique"
+msgid "Technique"
+msgstr "Техника"
+
+#: core/templates/core/free.html:64 core/templates/core/profile.html:91
+msgid "Cycles / Min"
+msgstr "Циклы / Мин"
+
+#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+msgid "Date"
+msgstr "Дата"
+
+#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+msgid ""
+"No sessions yet. Complete a breathing exercise to see your history here."
+msgstr ""
+"Сеансов пока нет. Завершите дыхательное упражнение, чтобы увидеть свою "
+"историю здесь."
+
+#: core/templates/core/meditate.html:10
+msgid "Brown noise"
+msgstr "Коричневый шум"
+
+#: core/templates/core/meditate.html:10
+msgid "mathematically generated, no files"
+msgstr "Математически сгенерировано, без файлов"
+
+#: core/templates/core/meditate.html:14
+#, fuzzy
+#| msgid "Session has ended"
+msgid "Session duration"
+msgstr "Продолжительность сеанса"
+
+#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17
+#: core/templates/core/meditate.html:18 core/templates/core/meditate.html:19
+#: core/templates/core/meditate.html:20
+msgid "min"
+msgstr "мин"
+
+#: core/templates/core/meditate.html:23
+msgid "Custom minutes (1–120)"
+msgstr "Пользовательские минуты (1–120)"
+
+#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
+msgid "select a duration to begin"
+msgstr "выберите продолжительность для начала"
+
+#: core/templates/core/meditate.html:31
+msgid "please select a duration first"
+msgstr "пожалуйста, сначала выберите продолжительность"
+
+#: core/templates/core/meditate.html:32
+msgid "session in progress"
+msgstr "сеанс в процессе"
+
+#: core/templates/core/meditate.html:33
+msgid "session complete"
+msgstr "сеанс завершён"
+
+#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
+msgid "Start"
+msgstr "Начать"
+
+#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+msgid "Stop"
+msgstr "Стоп"
+
+#: core/templates/core/panicroom.html:9
+msgid "6 seconds in, 6 seconds out. Calms the nervous system."
+msgstr "6 секунд вдох, 6 секунд выдох. Успокаивает нервную систему."
+
+#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+msgid "Inhale"
+msgstr "Вдохните"
+
+#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+msgid "Exhale"
+msgstr "Выдохните"
+
+#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+msgid "Session has ended"
+msgstr "Сессия завершена"
+
+#: core/templates/core/panicroom.html:23
+msgid "Ready"
+msgstr "Готово"
+
+#: core/templates/core/password_reset_complete.html:8
+msgid "Password updated"
+msgstr "Пароль обновлён"
+
+#: core/templates/core/password_reset_complete.html:9
+msgid "Your password has been set. You can now log in with your new password."
+msgstr "Ваш пароль установлен. Теперь вы можете войти с новым паролем."
+
+#: core/templates/core/password_reset_complete.html:10
+#: core/templates/core/password_reset_done.html:12
+#: core/templates/core/password_reset_form.html:22
+msgid "Back to login"
+msgstr "Вернуться ко входу"
+
+#: core/templates/core/password_reset_confirm.html:7
+msgid "Choose New Password"
+msgstr "Выберите новый пароль"
+
+#: core/templates/core/password_reset_confirm.html:8
+msgid "Enter your new password below."
+msgstr "Введите новый пароль ниже."
+
+#: core/templates/core/password_reset_confirm.html:16
+msgid "New password"
+msgstr "Новый пароль"
+
+#: core/templates/core/password_reset_confirm.html:27
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: core/templates/core/password_reset_confirm.html:37
+msgid "Set New Password"
+msgstr "Установить новый пароль"
+
+#: core/templates/core/password_reset_confirm.html:41
+msgid "This reset link is invalid or has expired."
+msgstr "Эта ссылка для сброса недействительна или истекла."
+
+#: core/templates/core/password_reset_confirm.html:42
+msgid "Request a new link"
+msgstr "Запросить новую ссылку"
+
+#: core/templates/core/password_reset_done.html:8
+msgid "Check your email"
+msgstr "Проверьте электронную почту"
+
+#: core/templates/core/password_reset_done.html:10
+msgid ""
+"If an account exists for that address, a password reset link has been sent. "
+"Check your spam folder if you don't see it."
+msgstr ""
+"Если аккаунт с таким адресом существует, ссылка для сброса пароля была "
+"отправлена. Проверьте папку со спамом, если не видите письма."
+
+#: core/templates/core/password_reset_form.html:7
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: core/templates/core/password_reset_form.html:8
+msgid "Enter your email and we'll send you a reset link."
+msgstr "Введите электронную почту, и мы пришлём вам ссылку для сброса."
+
+#: core/templates/core/password_reset_form.html:14
+#: core/templates/core/register.html:35
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: core/templates/core/password_reset_form.html:17
+msgid "Send Reset Link"
+msgstr "Отправить ссылку для сброса"
+
+#: core/templates/core/privacy.html:11
+msgid "Last updated"
+msgstr "Последнее обновление"
+
+#: core/templates/core/privacy.html:16
+msgid "What we collect"
+msgstr "Что мы собираем"
+
+#: core/templates/core/privacy.html:17
+msgid "When you create an account, we store:"
+msgstr ""
+
+#: core/templates/core/privacy.html:19
+msgid "Username and email address"
+msgstr ""
+
+#: core/templates/core/privacy.html:20
+msgid "Hashed password (we never store your plain password)"
+msgstr ""
+
+#: core/templates/core/privacy.html:21
+msgid "Breathing and meditation session history (technique, cycles, date)"
+msgstr ""
+
+#: core/templates/core/privacy.html:22
+msgid "Language preference"
+msgstr ""
+
+#: core/templates/core/privacy.html:23
+msgid "Profile picture URL (a link you provide — we don't store image files)"
+msgstr ""
+
+#: core/templates/core/privacy.html:28
+msgid "What we don't do"
+msgstr "Что мы не делаем"
+
+#: core/templates/core/privacy.html:30
+msgid "We do not sell your personal data to third parties."
+msgstr ""
+
+#: core/templates/core/privacy.html:31
+msgid ""
+"We do not share your session history or health-related data with "
+"advertisers."
+msgstr ""
+
+#: core/templates/core/privacy.html:32
+msgid "We do not collect health or medical data."
+msgstr ""
+
+#: core/templates/core/privacy.html:37
+msgid "Advertising"
+msgstr "Реклама"
+
+#: core/templates/core/privacy.html:39
+msgid ""
+"Breathing Bot displays ads to support free access to the app. Our ad "
+"partners may use cookies and similar technologies to show relevant ads based"
+" on your browsing activity."
+msgstr ""
+
+#: core/templates/core/privacy.html:42
+msgid "We use Google AdSense (or similar) to serve ads."
+msgstr ""
+
+#: core/templates/core/privacy.html:43
+msgid ""
+"Ad partners may collect device identifiers, IP address, and browsing "
+"behaviour."
+msgstr ""
+
+#: core/templates/core/privacy.html:44
+msgid ""
+"You can opt out of personalised ads via your Google account settings or your"
+" device's ad settings."
+msgstr ""
+
+#: core/templates/core/privacy.html:45
+msgid ""
+"Logged-in users' breathing session data is never shared with advertisers."
+msgstr ""
+
+#: core/templates/core/privacy.html:50
+msgid "Guest users"
+msgstr "Гостевые пользователи"
+
+#: core/templates/core/privacy.html:52
+msgid ""
+"If you use Breathing Bot without creating an account, we store one "
+"functional cookie — your language preference — so the app remembers your "
+"chosen language between visits. No personal data, no session history, and no"
+" tracking by us beyond what ad partners may collect."
+msgstr ""
+
+#: core/templates/core/privacy.html:57
+msgid "Donations (PayPal)"
+msgstr "Пожертвования (PayPal)"
+
+#: core/templates/core/privacy.html:59
+msgid ""
+"Donations are processed by PayPal. We do not receive or store your payment "
+"details. PayPal's own privacy policy applies to that transaction."
+msgstr ""
+
+#: core/templates/core/privacy.html:64
+msgid "Your rights"
+msgstr "Ваши права"
+
+#: core/templates/core/privacy.html:65
+msgid "You can:"
+msgstr "Вы можете:"
+
+#: core/templates/core/privacy.html:67
+msgid "Export your session history from your profile page at any time."
+msgstr ""
+
+#: core/templates/core/privacy.html:68
+msgid ""
+"Delete your account by contacting us — all your data will be permanently "
+"removed."
+msgstr ""
+
+#: core/templates/core/privacy.html:69
+msgid "Use the app as a guest with no account and no data stored by us."
+msgstr ""
+
+#: core/templates/core/privacy.html:74
+msgid "Data storage"
+msgstr "Хранение данных"
+
+#: core/templates/core/privacy.html:76
+msgid ""
+"Your data is stored on a secure server. We use Django's built-in security "
+"features including password hashing, CSRF protection, and session "
+"management."
+msgstr ""
+
+#: core/templates/core/privacy.html:81
+msgid "Contact"
+msgstr "Контакт"
+
+#: core/templates/core/privacy.html:83
+msgid "Questions about this policy? Reach us at"
+msgstr "Вопросы по этой политике? Свяжитесь с нами по адресу"
+
+#: core/templates/core/profile.html:28
+msgid "Profile Picture"
+msgstr "Фото профиля"
+
+#: core/templates/core/profile.html:38
+msgid "Save"
+msgstr "Сохранить"
+
+#: core/templates/core/profile.html:44
+msgid "Your Stats"
+msgstr "Ваша статистика"
+
+#: core/templates/core/profile.html:46
+msgid "Total sessions"
+msgstr "Всего сеансов"
+
+#: core/templates/core/profile.html:50
+msgid "Minutes meditated"
+msgstr "Минут медитации"
+
+#: core/templates/core/profile.html:54
+msgid "Current streak"
+msgstr "Текущая серия"
+
+#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
+msgid "days"
+msgstr "дней"
+
+#: core/templates/core/profile.html:58
+msgid "Longest streak"
+msgstr "Самая длинная серия"
+
+#: core/templates/core/profile.html:65
+msgid "Security"
+msgstr "Безопасность"
+
+#: core/templates/core/profile.html:67
+msgid "Change Password"
+msgstr "Изменить пароль"
+
+#: core/templates/core/profile.html:77
+msgid "Session History"
+msgstr "История сеансов"
+
+#: core/templates/core/profile.html:79
+msgid "Export CSV"
+msgstr "Экспорт CSV"
+
+#: core/templates/core/profile.html:90
+msgid "Level"
+msgstr "Уровень"
+
+#: core/templates/core/register.html:8 core/templates/core/register.html:72
+msgid "Create Account"
+msgstr "Создать аккаунт"
+
+#: core/templates/core/register.html:9
+msgid "Free forever. No credit card needed."
+msgstr "Бесплатно навсегда. Кредитная карта не нужна."
+
+#: core/templates/core/register.html:60
+msgid "Confirm password"
+msgstr "Подтвердите пароль"
+
+#: core/templates/core/register.html:78
+msgid "Already have an account?"
+msgstr "Уже есть аккаунт?"
+
+#: core/templates/core/register.html:79
+msgid "Log in"
+msgstr "Войти"
+
+#: core/templates/core/session.html:19
+msgid "Configure Exercise"
+msgstr "Настройка Упражнения"
+
+#: core/templates/core/session.html:22
+msgid "Breathing Technique"
+msgstr "Техника Дыхания"
+
+#: core/templates/core/session.html:27
+msgid "Custom Manual Rhythm..."
+msgstr "Пользовательский ручной ритм..."
+
+#: core/templates/core/session.html:34
+msgid "Intensity Level"
+msgstr "Уровень Интенсивности"
+
+#: core/templates/core/session.html:45
+msgid "Target Exercise Cycles"
+msgstr "Целевые Циклы Упражнения"
+
+#: core/templates/core/session.html:53
+msgid "Initialize Breathing Tracker"
+msgstr "Запустить Трекер Дыхания"
+
+#: core/templates/core/session.html:63
+msgid "Ready to Begin"
+msgstr "Готово к Началу"
+
+#: core/templates/core/session.html:69
+msgid "Cycle"
+msgstr "Цикл"
+
+#: core/views.py:87
+msgid "Hold"
+msgstr "Задержите"
+
+#: core/views.py:89
+msgid "Rest"
+msgstr "Отдохните"
+
+#~ msgid ""
+#~ "Select an optimized medical pacing cycle or build your own manual tracking "
+#~ "rhythm."
+#~ msgstr ""
+#~ "Выберите оптимизированный медицинский ритмический цикл или создайте свой "
+#~ "собственный режим ручного трекинга."
+
+#~ msgid "Hold (Post-Inhale)"
+#~ msgstr "Задержите дыхание (После Вдоха)"
+
+#~ msgid "Rest (Post-Exhale)"
+#~ msgstr "Отдых (После Выдоха)"

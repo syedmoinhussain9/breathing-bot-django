@@ -1,0 +1,82 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block content %}
+    <div class="container py-4" style="max-width: 860px;">
+
+        <div class="text-center mb-5">
+            <h1 class="fw-bold">{% trans "Welcome to Breathing Bot" %}</h1>
+            <p class="text-muted">{% trans "Free breathing exercises, coherent breathing, and meditation — all in one place." %}</p>
+        </div>
+
+    {# ── Three feature circles ── #}
+        <div class="row g-4 justify-content-center mb-5">
+
+            <div class="col-6 col-md-4 text-center">
+                <a href="{% url 'core:session' %}" class="text-decoration-none">
+                    <div class="mx-auto rounded-circle d-flex flex-column align-items-center justify-content-center border shadow-sm"
+                         style="width: 160px; height: 160px; background: var(--bs-primary, #0d6efd); transition: transform 0.2s;"
+                         onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">
+                        <span style="font-size: 2.2rem;">😮‍💨</span>
+                        <span class="text-white fw-semibold small mt-1 px-2 text-center">{% trans "Guided Breathing" %}</span>
+                        <span class="text-white-50" style="font-size: 11px;">{% trans "Guest" %}</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-6 col-md-4 text-center">
+                <a href="{% url 'core:panicroom' %}" class="text-decoration-none">
+                    <div class="mx-auto rounded-circle d-flex flex-column align-items-center justify-content-center border shadow-sm"
+                         style="width: 160px; height: 160px; background: #dc3545; transition: transform 0.2s;"
+                         onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">
+                        <span style="font-size: 2.2rem;">❤️</span>
+                        <span class="text-white fw-semibold small mt-1 px-2 text-center">{% trans "Coherent Breathing" %}</span>
+                        <span class="text-white-50" style="font-size: 11px;">{% trans "Panic Relief" %}</span>
+                    </div>
+                </a>
+            </div>
+
+            <div class="col-6 col-md-4 text-center">
+                <a href="{% url 'core:meditate' %}" class="text-decoration-none">
+                    <div class="mx-auto rounded-circle d-flex flex-column align-items-center justify-content-center border shadow-sm"
+                         style="width: 160px; height: 160px; background: #198754; transition: transform 0.2s;"
+                         onmouseover="this.style.transform='scale(1.06)'" onmouseout="this.style.transform='scale(1)'">
+                        <span style="font-size: 2.2rem;">🌊</span>
+                        <span class="text-white fw-semibold small mt-1 px-2 text-center">{% trans "Meditation Room" %}</span>
+                        <span class="text-white-50" style="font-size: 11px;">{% trans "Brown Noise" %}</span>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+
+    {# ── Login form ── #}
+        <div class="row justify-content-center">
+            <div class="col-md-5">
+                <div class="card border-0 shadow-sm p-4">
+                    <h5 class="fw-semibold mb-1">{% trans "Free User Login" %}</h5>
+                    <p class="text-muted small mb-3">{% trans "Login to save progress and track history." %}</p>
+
+                    <form method="post" action="{% url 'core:dashboard' %}">
+                        {% csrf_token %}
+                        {% if login_error %}
+                            <div class="alert alert-danger py-1 small mb-2">{% trans "Invalid username or password." %}</div>
+                        {% endif %}
+                        <input type="text" name="username" class="form-control mb-2"
+                               placeholder="{% trans 'Username' %}" required autocomplete="username">
+                        <input type="password" name="password" class="form-control mb-3"
+                               placeholder="{% trans 'Password' %}" required autocomplete="current-password">
+                        <button type="submit" class="btn btn-primary w-100 fw-semibold">{% trans "Login" %}</button>
+                    </form>
+
+                    <div class="d-flex justify-content-between mt-3 small">
+                        <a href="{% url 'core:register' %}">{% trans "Create account" %}</a>
+                        <a href="{% url 'core:password_reset' %}">{% trans "Forgot password?" %}</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}

@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-06-08 10:04+0000\n"
+"PO-Revision-Date: 2026-06-08 16:30+0900\n"
+"Last-Translator: AI Collaborator\n"
+"Language-Team: Korean\n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: core/presets.py:5
+msgid "1-4-2 Lung Conditioning Pattern"
+msgstr "1-4-2 폐 컨디셔닝 패턴"
+
+#: core/presets.py:13
+msgid "A classic respiratory conditioning sequence designed to maximize blood oxygenation and expand vital lung capacity over time."
+msgstr "혈중 산소 포화도를 극대화하고 장기적으로 폐활량을 확장하도록 설계된 고전적인 호흡 컨디셔닝 시퀀스입니다."
+
+#: core/presets.py:16
+msgid "Box Breathing (Navy SEAL Tactical Clarity)"
+msgstr "박스 브리딩 (네이비 씰 전술적 명료함)"
+
+#: core/presets.py:24
+msgid "The gold standard for high-stress grounding. Equal duration phases clear cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr "고도의 스트레스 상황에서 안정을 찾는 표준 방법입니다. 동일한 시간 간격으로 호흡하여 코르티솔을 제거하고, 두근거리는 심장을 진정시키며, 정신을 맑게 합니다."
+
+#: core/presets.py:27
+msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
+msgstr "4-7-8 이완법 (신경계 진정제)"
+
+#: core/presets.py:35
+msgid "Acts as a natural chemical brake for your sympathetic nervous system. Highly recommended for severe anxiety and floating into deep sleep."
+msgstr "교감 신경계를 위한 자연적인 화학적 브레이크 역할을 합니다. 극심한 불안감 해소와 깊은 수면 유도에 매우 권장됩니다."
+
+#: core/presets.py:38
+msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
+msgstr "코히런트/공명 호흡 (천식 및 공황 완화)"
+
+#: core/presets.py:46
+msgid "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero hold times make this perfectly safe for active asthma management."
+msgstr "미주 신경의 균형을 맞추고 심박 변이도(HRV)를 최적화합니다. 숨을 참는 시간이 없어 천식 환자도 안전하게 할 수 있는 호흡법입니다."
+
+#: core/presets.py:49
+msgid "Tactical Breathing (Sustained Equilibrium)"
+msgstr "전술 호흡 (지속적인 평형 유지)"
+
+#: core/presets.py:57
+msgid "A specialized, low-overhead holding variant used by responders to reduce somatic anxiety without inducing lightheadedness."
+msgstr "현장 대응 요원들이 어지러움 없이 신체적 불안을 줄이기 위해 사용하는 전문화된 호흡 유지 변형법입니다."
+
+#: core/presets.py:60
+msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
+msgstr "입술 오므리기 호흡 (COPD 및 공기 갇힘 완화)"
+
+#: core/presets.py:68
+msgid "Creates passive mechanical backpressure to keep bronchial pathways open. Crucial for individuals with emphysema or structural shortness of breath."
+msgstr "수동적인 기계적 배압을 생성하여 기관지 통로를 열어줍니다. 폐기종이나 구조적 호흡 곤란을 겪는 분들에게 필수적입니다."
+
+#: core/presets.py:71
+msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
+msgstr "생리학적 한숨 (급성 과호흡 차단)"
+
+#: core/presets.py:79
+msgid "Simulates the biological double-inhale reflex to instantly re-inflate collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr "생물학적 이중 흡기 반사를 모방하여 찌그러진 폐포를 즉시 재팽창시키고 이산화탄소 배출을 극대화합니다."
+
+#: core/presets.py:82
+msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
+msgstr "연장된 심장성 날숨 (고혈압 / 미주 신경 긴장도)"
+
+#: core/presets.py:90
+msgid "Exhale window is mathematically doubled relative to inhale. Maximizes acetylcholinergic outflow to safely downregulate heart rate and blood pressure."
+msgstr "날숨 시간을 들숨의 두 배로 설정합니다. 아세틸콜린 유출을 극대화하여 심박수와 혈압을 안전하게 낮춥니다."
+
+#: core/templates/404.html:5
+msgid "Page Not Found"
+msgstr "페이지를 찾을 수 없음"
+
+#: core/templates/404.html:13
+msgid "Page not found"
+msgstr "페이지를 찾을 수 없습니다"
+
+#: core/templates/404.html:15
+msgid "The page you're looking for doesn't exist. It may have been moved or the URL might be wrong."
+msgstr "찾으시는 페이지가 존재하지 않습니다. 페이지가 이동되었거나 URL이 잘못되었을 수 있습니다."
+
+#: core/templates/404.html:20
+msgid "Go home"
+msgstr "홈으로 이동"
+
+#: core/templates/404.html:23
+msgid "Start breathing"
+msgstr "호흡 시작하기"
+
+#: core/templates/base.html:47
+msgid "Breathing"
+msgstr "호흡"
+
+#: core/templates/base.html:52 core/templates/core/free.html:22
+msgid "Breathing Exercises"
+msgstr "호흡 운동"
+
+#: core/templates/base.html:57 core/templates/core/dashboard.html:34 core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+msgid "Coherent Breathing"
+msgstr "코히런트 호흡"
+
+#: core/templates/base.html:62 core/templates/core/dashboard.html:46 core/templates/core/free.html:44 core/templates/core/meditate.html:9
+msgid "Meditation Room"
+msgstr "명상실"
+
+#: core/templates/base.html:71
+msgid "Dashboard"
+msgstr "대시보드"
+
+#: core/templates/base.html:76
+msgid "Profile"
+msgstr "프로필"
+
+#: core/templates/base.html:83
+msgid "Donate"
+msgstr "후원하기"
+
+#: core/templates/base.html:97
+msgid "Language"
+msgstr "언어"
+
+#: core/templates/base.html:111
+msgid "Logout"
+msgstr "로그아웃"
+
+#: core/templates/base.html:116
+msgid "Register"
+msgstr "회원가입"
+
+#: core/templates/base.html:131
+msgid "Designed for accessibility. Completely free and open-source."
+msgstr "접근성을 고려하여 설계되었습니다. 완전히 무료이며 오픈 소스입니다."
+
+#: core/templates/base.html:134 core/templates/core/privacy.html:5 core/templates/core/privacy.html:10
+msgid "Privacy Policy"
+msgstr "개인정보 처리방침"
+
+#: core/templates/base.html:136
+msgid "Support Us"
+msgstr "후원하기"
+
+#: core/templates/core/dashboard.html:9
+msgid "Welcome to Breathing Bot"
+msgstr "Breathing Bot에 오신 것을 환영합니다"
+
+#: core/templates/core/dashboard.html:10
+msgid "Free breathing exercises, coherent breathing, and meditation — all in one place."
+msgstr "무료 호흡 운동, 코히런트 호흡, 명상을 한곳에서 만나보세요."
+
+#: core/templates/core/dashboard.html:22
+msgid "Guided Breathing"
+msgstr "가이드 호흡"
+
+#: core/templates/core/dashboard.html:23
+msgid "Guest"
+msgstr "게스트"
+
+#: core/templates/core/dashboard.html:35
+msgid "Panic Relief"
+msgstr "공황 완화"
+
+#: core/templates/core/dashboard.html:47
+msgid "Brown Noise"
+msgstr "브라운 노이즈"
+
+#: core/templates/core/dashboard.html:58
+msgid "Free User Login"
+msgstr "무료 사용자 로그인"
+
+#: core/templates/core/dashboard.html:59
+msgid "Login to save progress and track history."
+msgstr "로그인하여 진행 상황을 저장하고 기록을 추적하세요."
+
+#: core/templates/core/dashboard.html:64
+msgid "Invalid username or password."
+msgstr "사용자 이름 또는 비밀번호가 올바르지 않습니다."
+
+#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+msgid "Username"
+msgstr "사용자 이름"
+
+#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+msgid "Password"
+msgstr "비밀번호"
+
+#: core/templates/core/dashboard.html:70
+msgid "Login"
+msgstr "로그인"
+
+#: core/templates/core/dashboard.html:74
+msgid "Create account"
+msgstr "계정 만들기"
+
+#: core/templates/core/dashboard.html:75
+msgid "Forgot password?"
+msgstr "비밀번호를 잊으셨나요?"
+
+#: core/templates/core/donate.html:11
+msgid "Support Breathing Bot"
+msgstr "Breathing Bot 후원하기"
+
+#: core/templates/core/donate.html:13
+msgid "Breathing Bot is free and will always stay free. If it has helped you, consider supporting its development."
+msgstr "Breathing Bot은 무료이며 항상 무료로 유지될 것입니다. 도움이 되셨다면 개발을 후원해 주세요."
+
+#: core/templates/core/donate.html:27
+msgid "One-time donation. Any amount helps keep the server running and development going."
+msgstr "일회성 후원. 어떤 금액이든 서버 유지 및 개발을 이어가는 데 도움이 됩니다."
+
+#: core/templates/core/donate.html:41
+msgid "Donate with PayPal"
+msgstr "PayPal로 후원하기"
+
+#: core/templates/core/donate.html:42
+msgid "Coming Soon"
+msgstr "준비 중"
+
+#: core/templates/core/donate.html:48
+msgid "Other ways to help"
+msgstr "기타 후원 방법"
+
+#: core/templates/core/donate.html:55
+msgid "Spread the word"
+msgstr "알리기"
+
+#: core/templates/core/donate.html:56
+msgid "Share Breathing Bot with someone who might benefit from it."
+msgstr "도움이 필요한 분들에게 Breathing Bot을 공유해 주세요."
+
+#: core/templates/core/donate.html:64
+msgid "Report bugs"
+msgstr "버그 제보"
+
+#: core/templates/core/donate.html:65
+msgid "Found something broken? Let us know so we can fix it."
+msgstr "오류를 발견하셨나요? 수정할 수 있도록 알려주세요."
+
+#: core/templates/core/donate.html:73
+msgid "Give feedback"
+msgstr "피드백 보내기"
+
+#: core/templates/core/donate.html:74
+msgid "Ideas for new features or languages are always welcome."
+msgstr "새로운 기능이나 언어에 대한 아이디어는 언제나 환영합니다."
+
+#: core/templates/core/donate.html:81
+msgid "Thank you for using Breathing Bot."
+msgstr "Breathing Bot을 이용해 주셔서 감사합니다."
+
+#: core/templates/core/free.html:9
+msgid "Welcome back"
+msgstr "다시 오신 것을 환영합니다"
+
+#: core/templates/core/free.html:10
+msgid "Ready to breathe?"
+msgstr "호흡할 준비가 되셨나요?"
+
+#: core/templates/core/free.html:53
+msgid "Recent Sessions"
+msgstr "최근 세션"
+
+#: core/templates/core/free.html:55
+msgid "View all"
+msgstr "모두 보기"
+
+#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+msgid "Technique"
+msgstr "기술"
+
+#: core/templates/core/free.html:64 core/templates/core/profile.html:91
+msgid "Cycles / Min"
+msgstr "분당 주기"
+
+#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+msgid "Date"
+msgstr "날짜"
+
+#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+msgid "No sessions yet. Complete a breathing exercise to see your history here."
+msgstr "아직 세션이 없습니다. 호흡 운동을 완료하고 기록을 확인하세요."
+
+#: core/templates/core/meditate.html:10
+msgid "Brown noise"
+msgstr "브라운 노이즈"
+
+#: core/templates/core/meditate.html:10
+msgid "mathematically generated, no files"
+msgstr "수학적으로 생성됨, 파일 없음"
+
+#: core/templates/core/meditate.html:14
+msgid "Session duration"
+msgstr "세션 시간"
+
+#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17 core/templates/core/meditate.html:18 core/templates/core/meditate.html:19 core/templates/core/meditate.html:20
+msgid "min"
+msgstr "분"
+
+#: core/templates/core/meditate.html:23
+msgid "Custom minutes (1–120)"
+msgstr "사용자 지정 분 (1–120)"
+
+#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
+msgid "select a duration to begin"
+msgstr "시작할 시간을 선택하세요"
+
+#: core/templates/core/meditate.html:31
+msgid "please select a duration first"
+msgstr "먼저 시간을 선택해 주세요"
+
+#: core/templates/core/meditate.html:32
+msgid "session in progress"
+msgstr "세션 진행 중"
+
+#: core/templates/core/meditate.html:33
+msgid "session complete"
+msgstr "세션 완료"
+
+#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
+msgid "Start"
+msgstr "시작"
+
+#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+msgid "Stop"
+msgstr "정지"
+
+#: core/templates/core/panicroom.html:9
+msgid "6 seconds in, 6 seconds out. Calms the nervous system."
+msgstr "6초 들숨, 6초 날숨. 신경계를 진정시킵니다."
+
+#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+msgid "Inhale"
+msgstr "들이마시세요"
+
+#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+msgid "Exhale"
+msgstr "내쉬세요"
+
+#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+msgid "Session has ended"
+msgstr "세션이 종료되었습니다"
+
+#: core/templates/core/panicroom.html:23
+msgid "Ready"
+msgstr "준비"
+
+#: core/templates/core/password_reset_complete.html:8
+msgid "Password updated"
+msgstr "비밀번호가 업데이트되었습니다"
+
+#: core/templates/core/password_reset_complete.html:9
+msgid "Your password has been set. You can now log in with your new password."
+msgstr "비밀번호가 설정되었습니다. 이제 새 비밀번호로 로그인할 수 있습니다."
+
+#: core/templates/core/password_reset_complete.html:10 core/templates/core/password_reset_done.html:12 core/templates/core/password_reset_form.html:22
+msgid "Back to login"
+msgstr "로그인으로 돌아가기"
+
+#: core/templates/core/password_reset_confirm.html:7
+msgid "Choose New Password"
+msgstr "새 비밀번호 설정"
+
+#: core/templates/core/password_reset_confirm.html:8
+msgid "Enter your new password below."
+msgstr "새 비밀번호를 아래에 입력하세요."
+
+#: core/templates/core/password_reset_confirm.html:16
+msgid "New password"
+msgstr "새 비밀번호"
+
+#: core/templates/core/password_reset_confirm.html:27
+msgid "Confirm new password"
+msgstr "새 비밀번호 확인"
+
+#: core/templates/core/password_reset_confirm.html:37
+msgid "Set New Password"
+msgstr "새 비밀번호 설정"
+
+#: core/templates/core/password_reset_confirm.html:41
+msgid "This reset link is invalid or has expired."
+msgstr "이 재설정 링크는 유효하지 않거나 만료되었습니다."
+
+#: core/templates/core/password_reset_confirm.html:42
+msgid "Request a new link"
+msgstr "새 링크 요청"
+
+#: core/templates/core/password_reset_done.html:8
+msgid "Check your email"
+msgstr "이메일을 확인하세요"
+
+#: core/templates/core/password_reset_done.html:10
+msgid "If an account exists for that address, a password reset link has been sent. Check your spam folder if you don't see it."
+msgstr "해당 이메일로 계정이 존재하면 비밀번호 재설정 링크가 발송되었습니다. 받은 편지함에 없다면 스팸 메일함을 확인해 주세요."
+
+#: core/templates/core/password_reset_form.html:7
+msgid "Reset Password"
+msgstr "비밀번호 재설정"
+
+#: core/templates/core/password_reset_form.html:8
+msgid "Enter your email and we'll send you a reset link."
+msgstr "이메일을 입력하시면 재설정 링크를 보내드립니다."
+
+#: core/templates/core/password_reset_form.html:14 core/templates/core/register.html:35
+msgid "Email address"
+msgstr "이메일 주소"
+
+#: core/templates/core/password_reset_form.html:17
+msgid "Send Reset Link"
+msgstr "재설정 링크 보내기"
+
+#: core/templates/core/privacy.html:11
+msgid "Last updated"
+msgstr "마지막 업데이트"
+
+#: core/templates/core/privacy.html:16
+msgid "What we collect"
+msgstr "수집하는 정보"
+
+#: core/templates/core/privacy.html:17
+msgid "When you create an account, we store:"
+msgstr "계정을 생성할 때 다음 정보를 저장합니다:"
+
+#: core/templates/core/privacy.html:19
+msgid "Username and email address"
+msgstr "사용자 이름 및 이메일 주소"
+
+#: core/templates/core/privacy.html:20
+msgid "Hashed password (we never store your plain password)"
+msgstr "해시된 비밀번호 (비밀번호 원문은 저장하지 않습니다)"
+
+#: core/templates/core/privacy.html:21
+msgid "Breathing and meditation session history (technique, cycles, date)"
+msgstr "호흡 및 명상 세션 기록 (기술, 주기, 날짜)"
+
+#: core/templates/core/privacy.html:22
+msgid "Language preference"
+msgstr "언어 설정"
+
+#: core/templates/core/privacy.html:23
+msgid "Profile picture URL (a link you provide — we don't store image files)"
+msgstr "프로필 사진 URL (사용자가 제공하는 링크 — 이미지 파일을 직접 저장하지 않습니다)"
+
+#: core/templates/core/privacy.html:28
+msgid "What we don't do"
+msgstr "하지 않는 것"
+
+#: core/templates/core/privacy.html:30
+msgid "We do not sell your personal data to third parties."
+msgstr "귀하의 개인 데이터를 제3자에게 판매하지 않습니다."
+
+#: core/templates/core/privacy.html:31
+msgid "We do not share your session history or health-related data with advertisers."
+msgstr "귀하의 세션 기록이나 건강 관련 데이터를 광고주와 공유하지 않습니다."
+
+#: core/templates/core/privacy.html:32
+msgid "We do not collect health or medical data."
+msgstr "건강 또는 의료 데이터를 수집하지 않습니다."
+
+#: core/templates/core/privacy.html:37
+msgid "Advertising"
+msgstr "광고"
+
+#: core/templates/core/privacy.html:39
+msgid "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity."
+msgstr "Breathing Bot은 앱에 대한 무료 액세스를 지원하기 위해 광고를 표시합니다. 광고 파트너는 브라우징 활동을 기반으로 관련 광고를 표시하기 위해 쿠키 및 유사한 기술을 사용할 수 있습니다."
+
+#: core/templates/core/privacy.html:42
+msgid "We use Google AdSense (or similar) to serve ads."
+msgstr "광고 게재를 위해 Google AdSense(또는 유사 서비스)를 사용합니다."
+
+#: core/templates/core/privacy.html:43
+msgid "Ad partners may collect device identifiers, IP address, and browsing behaviour."
+msgstr "광고 파트너는 기기 식별자, IP 주소 및 브라우징 행동을 수집할 수 있습니다."
+
+#: core/templates/core/privacy.html:44
+msgid "You can opt out of personalised ads via your Google account settings or your device's ad settings."
+msgstr "Google 계정 설정 또는 기기 광고 설정을 통해 개인 맞춤형 광고를 거부할 수 있습니다."
+
+#: core/templates/core/privacy.html:45
+msgid "Logged-in users' breathing session data is never shared with advertisers."
+msgstr "로그인한 사용자의 호흡 세션 데이터는 광고주와 절대 공유되지 않습니다."
+
+#: core/templates/core/privacy.html:50
+msgid "Guest users"
+msgstr "게스트 사용자"
+
+#: core/templates/core/privacy.html:52
+msgid "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect."
+msgstr "계정을 생성하지 않고 Breathing Bot을 사용하는 경우, 언어 설정을 기억하기 위한 기능성 쿠키 하나만 저장합니다. 그 외 개인 데이터, 세션 기록은 저장하지 않으며 광고 파트너가 수집하는 범위를 넘어선 추적은 하지 않습니다."
+
+#: core/templates/core/privacy.html:57
+msgid "Donations (PayPal)"
+msgstr "후원 (PayPal)"
+
+#: core/templates/core/privacy.html:59
+msgid "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction."
+msgstr "후원은 PayPal을 통해 처리됩니다. 당사는 귀하의 결제 정보를 받거나 저장하지 않습니다. 해당 거래에는 PayPal의 개인정보 처리방침이 적용됩니다."
+
+#: core/templates/core/privacy.html:64
+msgid "Your rights"
+msgstr "귀하의 권리"
+
+#: core/templates/core/privacy.html:65
+msgid "You can:"
+msgstr "귀하는 다음을 할 수 있습니다:"
+
+#: core/templates/core/privacy.html:67
+msgid "Export your session history from your profile page at any time."
+msgstr "언제든지 프로필 페이지에서 세션 기록을 내보낼 수 있습니다."
+
+#: core/templates/core/privacy.html:68
+msgid "Delete your account by contacting us — all your data will be permanently removed."
+msgstr "당사에 연락하여 계정을 삭제할 수 있으며, 귀하의 모든 데이터는 영구적으로 제거됩니다."
+
+#: core/templates/core/privacy.html:69
+msgid "Use the app as a guest with no account and no data stored by us."
+msgstr "계정 없이 게스트로 앱을 사용할 수 있으며, 데이터는 당사에 저장되지 않습니다."
+
+#: core/templates/core/privacy.html:74
+msgid "Data storage"
+msgstr "데이터 저장"
+
+#: core/templates/core/privacy.html:76
+msgid "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management."
+msgstr "귀하의 데이터는 보안 서버에 저장됩니다. 당사는 비밀번호 해싱, CSRF 보호, 세션 관리를 포함한 Django의 내장 보안 기능을 사용합니다."
+
+#: core/templates/core/privacy.html:81
+msgid "Contact"
+msgstr "문의"
+
+#: core/templates/core/privacy.html:83
+msgid "Questions about this policy? Reach us at"
+msgstr "본 방침에 대해 궁금한 점이 있으신가요? 다음 주소로 연락주세요:"
+
+#: core/templates/core/profile.html:28
+msgid "Profile Picture"
+msgstr "프로필 사진"
+
+#: core/templates/core/profile.html:38
+msgid "Save"
+msgstr "저장"
+
+#: core/templates/core/profile.html:44
+msgid "Your Stats"
+msgstr "통계"
+
+#: core/templates/core/profile.html:46
+msgid "Total sessions"
+msgstr "총 세션"
+
+#: core/templates/core/profile.html:50
+msgid "Minutes meditated"
+msgstr "명상한 시간 (분)"
+
+#: core/templates/core/profile.html:54
+msgid "Current streak"
+msgstr "현재 연속 기록"
+
+#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
+msgid "days"
+msgstr "일"
+
+#: core/templates/core/profile.html:58
+msgid "Longest streak"
+msgstr "최장 연속 기록"
+
+#: core/templates/core/profile.html:65
+msgid "Security"
+msgstr "보안"
+
+#: core/templates/core/profile.html:67
+msgid "Change Password"
+msgstr "비밀번호 변경"
+
+#: core/templates/core/profile.html:77
+msgid "Session History"
+msgstr "세션 기록"
+
+#: core/templates/core/profile.html:79
+msgid "Export CSV"
+msgstr "CSV 내보내기"
+
+#: core/templates/core/profile.html:90
+msgid "Level"
+msgstr "레벨"
+
+#: core/templates/core/register.html:8 core/templates/core/register.html:72
+msgid "Create Account"
+msgstr "계정 만들기"
+
+#: core/templates/core/register.html:9
+msgid "Free forever. No credit card needed."
+msgstr "영원히 무료. 신용카드가 필요 없습니다."
+
+#: core/templates/core/register.html:60
+msgid "Confirm password"
+msgstr "비밀번호 확인"
+
+#: core/templates/core/register.html:78
+msgid "Already have an account?"
+msgstr "이미 계정이 있으신가요?"
+
+#: core/templates/core/register.html:79
+msgid "Log in"
+msgstr "로그인"
+
+#: core/templates/core/session.html:19
+msgid "Configure Exercise"
+msgstr "운동 구성"
+
+#: core/templates/core/session.html:22
+msgid "Breathing Technique"
+msgstr "호흡 기술"
+
+#: core/templates/core/session.html:27
+msgid "Custom Manual Rhythm..."
+msgstr "사용자 지정 리듬..."
+
+#: core/templates/core/session.html:34
+msgid "Intensity Level"
+msgstr "강도 수준"
+
+#: core/templates/core/session.html:45
+msgid "Target Exercise Cycles"
+msgstr "목표 운동 주기"
+
+#: core/templates/core/session.html:53
+msgid "Initialize Breathing Tracker"
+msgstr "호흡 추적기 시작"
+
+#: core/templates/core/session.html:63
+msgid "Ready to Begin"
+msgstr "시작할 준비가 되었습니다"
+
+#: core/templates/core/session.html:69
+msgid "Cycle"
+msgstr "주기"
+
+#: core/views.py:87
+msgid "Hold"
+msgstr "멈추세요"
+
+#: core/views.py:89
+msgid "Rest"
+msgstr "쉬세요"
+
+msgid "Settings"
+msgstr "설정"

@@ -1,0 +1,655 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2026-06-08 10:04+0000\n"
+"PO-Revision-Date: 2026-06-08 16:12+0200\n"
+"Last-Translator: AI Collaborator\n"
+"Language-Team: Swedish\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: core/presets.py:5
+msgid "1-4-2 Lung Conditioning Pattern"
+msgstr "1-4-2 Mönster för lungkonditionering"
+
+#: core/presets.py:13
+msgid "A classic respiratory conditioning sequence designed to maximize blood oxygenation and expand vital lung capacity over time."
+msgstr "En klassisk andningssekvens utformad för att maximera syresättningen i blodet och gradvis utöka den vitala lungkapaciteten."
+
+#: core/presets.py:16
+msgid "Box Breathing (Navy SEAL Tactical Clarity)"
+msgstr "Box Breathing (Navy SEALs taktiska skärpa)"
+
+#: core/presets.py:24
+msgid "The gold standard for high-stress grounding. Equal duration phases clear cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr "Guldstandarden för att hitta lugn vid hög stress. Faserna med lika lång varaktighet rensar ut kortisol, lugnar ett rusande hjärta och återställer mental skärpa."
+
+#: core/presets.py:27
+msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
+msgstr "4-7-8 Avslappning (Lugnande för nervsystemet)"
+
+#: core/presets.py:35
+msgid "Acts as a natural chemical brake for your sympathetic nervous system. Highly recommended for severe anxiety and floating into deep sleep."
+msgstr "Fungerar som en naturlig kemisk broms för ditt sympatiska nervsystem. Rekommenderas starkt vid svår ångest och för att glida in i djup sömn."
+
+#: core/presets.py:38
+msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
+msgstr "Koherent / Resonant andning (Lindring vid astma & panik)"
+
+#: core/presets.py:46
+msgid "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero hold times make this perfectly safe for active asthma management."
+msgstr "Balanserar vagusnerven och optimerar hjärtfrekvensvariabilitet (HRV). Utan behov av att hålla andan är detta helt säkert för aktiv astmahantering."
+
+#: core/presets.py:49
+msgid "Tactical Breathing (Sustained Equilibrium)"
+msgstr "Taktisk andning (Bibehållen balans)"
+
+#: core/presets.py:57
+msgid "A specialized, low-overhead holding variant used by responders to reduce somatic anxiety without inducing lightheadedness."
+msgstr "En specialiserad variant med kort hållfas, som används av räddningspersonal för att minska kroppslig ångest utan att orsaka yrsel."
+
+#: core/presets.py:60
+msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
+msgstr "Pursed-Lip-andning (Lindring vid KOL & instängd luft)"
+
+#: core/presets.py:68
+msgid "Creates passive mechanical backpressure to keep bronchial pathways open. Crucial for individuals with emphysema or structural shortness of breath."
+msgstr "Skapar passivt mekaniskt mottryck för att hålla luftvägarna öppna. Avgörande för personer med emfysem eller strukturell andnöd."
+
+#: core/presets.py:71
+msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
+msgstr "Fysiologisk suck (Avbrott vid akut hyperventilering)"
+
+#: core/presets.py:79
+msgid "Simulates the biological double-inhale reflex to instantly re-inflate collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr "Simulerar den biologiska reflexen för dubbel inandning för att omedelbart återuppblåsa kollapsade alveoler och maximera snabb utvädring av koldioxid."
+
+#: core/presets.py:82
+msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
+msgstr "Utökad utandning (Högt blodtryck / Vagal ton)"
+
+#: core/presets.py:90
+msgid "Exhale window is mathematically doubled relative to inhale. Maximizes acetylcholinergic outflow to safely downregulate heart rate and blood pressure."
+msgstr "Utandningsfasen är matematiskt dubblerad i förhållande till inandningen. Maximerar acetylkolin-utflödet för att säkert sänka hjärtfrekvens och blodtryck."
+
+#: core/templates/404.html:5
+msgid "Page Not Found"
+msgstr "Sidan hittades inte"
+
+#: core/templates/404.html:13
+msgid "Page not found"
+msgstr "Sidan hittades inte"
+
+#: core/templates/404.html:15
+msgid "The page you're looking for doesn't exist. It may have been moved or the URL might be wrong."
+msgstr "Sidan du letar efter finns inte. Den kan ha flyttats eller så kan URL:en vara felaktig."
+
+#: core/templates/404.html:20
+msgid "Go home"
+msgstr "Gå till startsidan"
+
+#: core/templates/404.html:23
+msgid "Start breathing"
+msgstr "Börja andas"
+
+#: core/templates/base.html:47
+msgid "Breathing"
+msgstr "Andning"
+
+#: core/templates/base.html:52 core/templates/core/free.html:22
+msgid "Breathing Exercises"
+msgstr "Andningsövningar"
+
+#: core/templates/base.html:57 core/templates/core/dashboard.html:34 core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+msgid "Coherent Breathing"
+msgstr "Koherent andning"
+
+#: core/templates/base.html:62 core/templates/core/dashboard.html:46 core/templates/core/free.html:44 core/templates/core/meditate.html:9
+msgid "Meditation Room"
+msgstr "Meditationsrum"
+
+#: core/templates/base.html:71
+msgid "Dashboard"
+msgstr "Instrumentpanel"
+
+#: core/templates/base.html:76
+msgid "Profile"
+msgstr "Profil"
+
+#: core/templates/base.html:83
+msgid "Donate"
+msgstr "Donera"
+
+#: core/templates/base.html:97
+msgid "Language"
+msgstr "Språk"
+
+#: core/templates/base.html:111
+msgid "Logout"
+msgstr "Logga ut"
+
+#: core/templates/base.html:116
+msgid "Register"
+msgstr "Registrera"
+
+#: core/templates/base.html:131
+msgid "Designed for accessibility. Completely free and open-source."
+msgstr "Designad för tillgänglighet. Helt gratis och öppen källkod."
+
+#: core/templates/base.html:134 core/templates/core/privacy.html:5 core/templates/core/privacy.html:10
+msgid "Privacy Policy"
+msgstr "Integritetspolicy"
+
+#: core/templates/base.html:136
+msgid "Support Us"
+msgstr "Stöd oss"
+
+#: core/templates/core/dashboard.html:9
+msgid "Welcome to Breathing Bot"
+msgstr "Välkommen till Breathing Bot"
+
+#: core/templates/core/dashboard.html:10
+msgid "Free breathing exercises, coherent breathing, and meditation — all in one place."
+msgstr "Gratis andningsövningar, koherent andning och meditation — allt på ett ställe."
+
+#: core/templates/core/dashboard.html:22
+msgid "Guided Breathing"
+msgstr "Guidad andning"
+
+#: core/templates/core/dashboard.html:23
+msgid "Guest"
+msgstr "Gäst"
+
+#: core/templates/core/dashboard.html:35
+msgid "Panic Relief"
+msgstr "Lindring vid panik"
+
+#: core/templates/core/dashboard.html:47
+msgid "Brown Noise"
+msgstr "Brown noise (brunt brus)"
+
+#: core/templates/core/dashboard.html:58
+msgid "Free User Login"
+msgstr "Logga in"
+
+#: core/templates/core/dashboard.html:59
+msgid "Login to save progress and track history."
+msgstr "Logga in för att spara framsteg och följa din historik."
+
+#: core/templates/core/dashboard.html:64
+msgid "Invalid username or password."
+msgstr "Ogiltigt användarnamn eller lösenord."
+
+#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+msgid "Username"
+msgstr "Användarnamn"
+
+#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+msgid "Password"
+msgstr "Lösenord"
+
+#: core/templates/core/dashboard.html:70
+msgid "Login"
+msgstr "Logga in"
+
+#: core/templates/core/dashboard.html:74
+msgid "Create account"
+msgstr "Skapa konto"
+
+#: core/templates/core/dashboard.html:75
+msgid "Forgot password?"
+msgstr "Glömt lösenordet?"
+
+#: core/templates/core/donate.html:11
+msgid "Support Breathing Bot"
+msgstr "Stöd Breathing Bot"
+
+#: core/templates/core/donate.html:13
+msgid "Breathing Bot is free and will always stay free. If it has helped you, consider supporting its development."
+msgstr "Breathing Bot är gratis och kommer alltid att förbli gratis. Om det har hjälpt dig, överväg att stödja utvecklingen."
+
+#: core/templates/core/donate.html:27
+msgid "One-time donation. Any amount helps keep the server running and development going."
+msgstr "Engångsdonation. Varje bidrag hjälper oss att hålla servern igång och utvecklingen vid liv."
+
+#: core/templates/core/donate.html:41
+msgid "Donate with PayPal"
+msgstr "Donera via PayPal"
+
+#: core/templates/core/donate.html:42
+msgid "Coming Soon"
+msgstr "Kommer snart"
+
+#: core/templates/core/donate.html:48
+msgid "Other ways to help"
+msgstr "Andra sätt att hjälpa till"
+
+#: core/templates/core/donate.html:55
+msgid "Spread the word"
+msgstr "Sprid ordet"
+
+#: core/templates/core/donate.html:56
+msgid "Share Breathing Bot with someone who might benefit from it."
+msgstr "Dela Breathing Bot med någon som kan ha nytta av det."
+
+#: core/templates/core/donate.html:64
+msgid "Report bugs"
+msgstr "Rapportera buggar"
+
+#: core/templates/core/donate.html:65
+msgid "Found something broken? Let us know so we can fix it."
+msgstr "Hittat något som inte fungerar? Låt oss veta så att vi kan fixa det."
+
+#: core/templates/core/donate.html:73
+msgid "Give feedback"
+msgstr "Ge feedback"
+
+#: core/templates/core/donate.html:74
+msgid "Ideas for new features or languages are always welcome."
+msgstr "Idéer för nya funktioner eller språk är alltid välkomna."
+
+#: core/templates/core/donate.html:81
+msgid "Thank you for using Breathing Bot."
+msgstr "Tack för att du använder Breathing Bot."
+
+#: core/templates/core/free.html:9
+msgid "Welcome back"
+msgstr "Välkommen tillbaka"
+
+#: core/templates/core/free.html:10
+msgid "Ready to breathe?"
+msgstr "Redo att andas?"
+
+#: core/templates/core/free.html:53
+msgid "Recent Sessions"
+msgstr "Senaste sessioner"
+
+#: core/templates/core/free.html:55
+msgid "View all"
+msgstr "Visa alla"
+
+#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+msgid "Technique"
+msgstr "Teknik"
+
+#: core/templates/core/free.html:64 core/templates/core/profile.html:91
+msgid "Cycles / Min"
+msgstr "Cykler / Min"
+
+#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+msgid "Date"
+msgstr "Datum"
+
+#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+msgid "No sessions yet. Complete a breathing exercise to see your history here."
+msgstr "Inga sessioner än. Genomför en andningsövning för att se din historik här."
+
+#: core/templates/core/meditate.html:10
+msgid "Brown noise"
+msgstr "Brunt brus"
+
+#: core/templates/core/meditate.html:10
+msgid "mathematically generated, no files"
+msgstr "matematiskt genererat, inga filer"
+
+#: core/templates/core/meditate.html:14
+msgid "Session duration"
+msgstr "Sessionslängd"
+
+#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17 core/templates/core/meditate.html:18 core/templates/core/meditate.html:19 core/templates/core/meditate.html:20
+msgid "min"
+msgstr "min"
+
+#: core/templates/core/meditate.html:23
+msgid "Custom minutes (1–120)"
+msgstr "Eget antal minuter (1–120)"
+
+#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
+msgid "select a duration to begin"
+msgstr "välj en längd för att börja"
+
+#: core/templates/core/meditate.html:31
+msgid "please select a duration first"
+msgstr "vänligen välj en längd först"
+
+#: core/templates/core/meditate.html:32
+msgid "session in progress"
+msgstr "session pågår"
+
+#: core/templates/core/meditate.html:33
+msgid "session complete"
+msgstr "sessionen avslutad"
+
+#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
+msgid "Start"
+msgstr "Starta"
+
+#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+msgid "Stop"
+msgstr "Stoppa"
+
+#: core/templates/core/panicroom.html:9
+msgid "6 seconds in, 6 seconds out. Calms the nervous system."
+msgstr "6 sekunder in, 6 sekunder ut. Lugnar nervsystemet."
+
+#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+msgid "Inhale"
+msgstr "Andas in"
+
+#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+msgid "Exhale"
+msgstr "Andas ut"
+
+#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+msgid "Session has ended"
+msgstr "Sessionen är slut"
+
+#: core/templates/core/panicroom.html:23
+msgid "Ready"
+msgstr "Redo"
+
+#: core/templates/core/password_reset_complete.html:8
+msgid "Password updated"
+msgstr "Lösenord uppdaterat"
+
+#: core/templates/core/password_reset_complete.html:9
+msgid "Your password has been set. You can now log in with your new password."
+msgstr "Ditt lösenord har blivit ändrat. Du kan nu logga in med ditt nya lösenord."
+
+#: core/templates/core/password_reset_complete.html:10 core/templates/core/password_reset_done.html:12 core/templates/core/password_reset_form.html:22
+msgid "Back to login"
+msgstr "Tillbaka till inloggning"
+
+#: core/templates/core/password_reset_confirm.html:7
+msgid "Choose New Password"
+msgstr "Välj nytt lösenord"
+
+#: core/templates/core/password_reset_confirm.html:8
+msgid "Enter your new password below."
+msgstr "Ange ditt nya lösenord nedan."
+
+#: core/templates/core/password_reset_confirm.html:16
+msgid "New password"
+msgstr "Nytt lösenord"
+
+#: core/templates/core/password_reset_confirm.html:27
+msgid "Confirm new password"
+msgstr "Bekräfta nytt lösenord"
+
+#: core/templates/core/password_reset_confirm.html:37
+msgid "Set New Password"
+msgstr "Sätt nytt lösenord"
+
+#: core/templates/core/password_reset_confirm.html:41
+msgid "This reset link is invalid or has expired."
+msgstr "Denna återställningslänk är ogiltig eller har gått ut."
+
+#: core/templates/core/password_reset_confirm.html:42
+msgid "Request a new link"
+msgstr "Begär en ny länk"
+
+#: core/templates/core/password_reset_done.html:8
+msgid "Check your email"
+msgstr "Kontrollera din e-post"
+
+#: core/templates/core/password_reset_done.html:10
+msgid "If an account exists for that address, a password reset link has been sent. Check your spam folder if you don't see it."
+msgstr "Om ett konto finns för den adressen har en länk för lösenordsåterställning skickats. Kontrollera din skräppost om du inte ser den."
+
+#: core/templates/core/password_reset_form.html:7
+msgid "Reset Password"
+msgstr "Återställ lösenord"
+
+#: core/templates/core/password_reset_form.html:8
+msgid "Enter your email and we'll send you a reset link."
+msgstr "Ange din e-postadress så skickar vi en återställningslänk."
+
+#: core/templates/core/password_reset_form.html:14 core/templates/core/register.html:35
+msgid "Email address"
+msgstr "E-postadress"
+
+#: core/templates/core/password_reset_form.html:17
+msgid "Send Reset Link"
+msgstr "Skicka återställningslänk"
+
+#: core/templates/core/privacy.html:11
+msgid "Last updated"
+msgstr "Senast uppdaterad"
+
+#: core/templates/core/privacy.html:16
+msgid "What we collect"
+msgstr "Vad vi samlar in"
+
+#: core/templates/core/privacy.html:17
+msgid "When you create an account, we store:"
+msgstr "När du skapar ett konto lagrar vi:"
+
+#: core/templates/core/privacy.html:19
+msgid "Username and email address"
+msgstr "Användarnamn och e-postadress"
+
+#: core/templates/core/privacy.html:20
+msgid "Hashed password (we never store your plain password)"
+msgstr "Hashat lösenord (vi lagrar aldrig ditt lösenord i klartext)"
+
+#: core/templates/core/privacy.html:21
+msgid "Breathing and meditation session history (technique, cycles, date)"
+msgstr "Historik för andnings- och meditationssessioner (teknik, cykler, datum)"
+
+#: core/templates/core/privacy.html:22
+msgid "Language preference"
+msgstr "Språkinställning"
+
+#: core/templates/core/privacy.html:23
+msgid "Profile picture URL (a link you provide — we don't store image files)"
+msgstr "URL till profilbild (en länk du tillhandahåller — vi lagrar inte bildfiler)"
+
+#: core/templates/core/privacy.html:28
+msgid "What we don't do"
+msgstr "Vad vi inte gör"
+
+#: core/templates/core/privacy.html:30
+msgid "We do not sell your personal data to third parties."
+msgstr "Vi säljer inte dina personuppgifter till tredje part."
+
+#: core/templates/core/privacy.html:31
+msgid "We do not share your session history or health-related data with advertisers."
+msgstr "Vi delar inte din sessionshistorik eller hälsorelaterad data med annonsörer."
+
+#: core/templates/core/privacy.html:32
+msgid "We do not collect health or medical data."
+msgstr "Vi samlar inte in hälso- eller medicinsk data."
+
+#: core/templates/core/privacy.html:37
+msgid "Advertising"
+msgstr "Annonsering"
+
+#: core/templates/core/privacy.html:39
+msgid "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity."
+msgstr "Breathing Bot visar annonser för att stödja fri tillgång till appen. Våra annonspartners kan använda cookies och liknande tekniker för att visa relevanta annonser baserat på din surfaktivitet."
+
+#: core/templates/core/privacy.html:42
+msgid "We use Google AdSense (or similar) to serve ads."
+msgstr "Vi använder Google AdSense (eller liknande) för att visa annonser."
+
+#: core/templates/core/privacy.html:43
+msgid "Ad partners may collect device identifiers, IP address, and browsing behaviour."
+msgstr "Annonspartners kan samla in enhetsidentifierare, IP-adress och surfbeteende."
+
+#: core/templates/core/privacy.html:44
+msgid "You can opt out of personalised ads via your Google account settings or your device's ad settings."
+msgstr "Du kan välja bort personliga annonser via dina Google-kontoinställningar eller din enhets annonsinställningar."
+
+#: core/templates/core/privacy.html:45
+msgid "Logged-in users' breathing session data is never shared with advertisers."
+msgstr "Inloggade användares andningsdata delas aldrig med annonsörer."
+
+#: core/templates/core/privacy.html:50
+msgid "Guest users"
+msgstr "Gästanvändare"
+
+#: core/templates/core/privacy.html:52
+msgid "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect."
+msgstr "Om du använder Breathing Bot utan att skapa ett konto lagrar vi en funktionell cookie — din språkinställning — så att appen kommer ihåg ditt valda språk mellan besöken. Inga personuppgifter, ingen sessionshistorik och ingen spårning från vår sida utöver vad annonspartners kan samla in."
+
+#: core/templates/core/privacy.html:57
+msgid "Donations (PayPal)"
+msgstr "Donationer (PayPal)"
+
+#: core/templates/core/privacy.html:59
+msgid "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction."
+msgstr "Donationer hanteras av PayPal. Vi tar inte emot eller lagrar dina betalningsuppgifter. PayPals egen integritetspolicy gäller för den transaktionen."
+
+#: core/templates/core/privacy.html:64
+msgid "Your rights"
+msgstr "Dina rättigheter"
+
+#: core/templates/core/privacy.html:65
+msgid "You can:"
+msgstr "Du kan:"
+
+#: core/templates/core/privacy.html:67
+msgid "Export your session history from your profile page at any time."
+msgstr "Exportera din sessionshistorik från din profilsida när som helst."
+
+#: core/templates/core/privacy.html:68
+msgid "Delete your account by contacting us — all your data will be permanently removed."
+msgstr "Radera ditt konto genom att kontakta oss — all din data kommer att raderas permanent."
+
+#: core/templates/core/privacy.html:69
+msgid "Use the app as a guest with no account and no data stored by us."
+msgstr "Använda appen som gäst utan konto och utan att vi lagrar någon data."
+
+#: core/templates/core/privacy.html:74
+msgid "Data storage"
+msgstr "Datalagring"
+
+#: core/templates/core/privacy.html:76
+msgid "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management."
+msgstr "Din data lagras på en säker server. Vi använder Djangos inbyggda säkerhetsfunktioner, inklusive lösenordshashning, CSRF-skydd och sessionshantering."
+
+#: core/templates/core/privacy.html:81
+msgid "Contact"
+msgstr "Kontakt"
+
+#: core/templates/core/privacy.html:83
+msgid "Questions about this policy? Reach us at"
+msgstr "Frågor om denna policy? Nå oss på"
+
+#: core/templates/core/profile.html:28
+msgid "Profile Picture"
+msgstr "Profilbild"
+
+#: core/templates/core/profile.html:38
+msgid "Save"
+msgstr "Spara"
+
+#: core/templates/core/profile.html:44
+msgid "Your Stats"
+msgstr "Din statistik"
+
+#: core/templates/core/profile.html:46
+msgid "Total sessions"
+msgstr "Totala sessioner"
+
+#: core/templates/core/profile.html:50
+msgid "Minutes meditated"
+msgstr "Minuter mediterade"
+
+#: core/templates/core/profile.html:54
+msgid "Current streak"
+msgstr "Nuvarande streak"
+
+#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
+msgid "days"
+msgstr "dagar"
+
+#: core/templates/core/profile.html:58
+msgid "Longest streak"
+msgstr "Längsta streak"
+
+#: core/templates/core/profile.html:65
+msgid "Security"
+msgstr "Säkerhet"
+
+#: core/templates/core/profile.html:67
+msgid "Change Password"
+msgstr "Ändra lösenord"
+
+#: core/templates/core/profile.html:77
+msgid "Session History"
+msgstr "Sessionshistorik"
+
+#: core/templates/core/profile.html:79
+msgid "Export CSV"
+msgstr "Exportera CSV"
+
+#: core/templates/core/profile.html:90
+msgid "Level"
+msgstr "Nivå"
+
+#: core/templates/core/register.html:8 core/templates/core/register.html:72
+msgid "Create Account"
+msgstr "Skapa konto"
+
+#: core/templates/core/register.html:9
+msgid "Free forever. No credit card needed."
+msgstr "Gratis för alltid. Inget kreditkort behövs."
+
+#: core/templates/core/register.html:60
+msgid "Confirm password"
+msgstr "Bekräfta lösenord"
+
+#: core/templates/core/register.html:78
+msgid "Already have an account?"
+msgstr "Har du redan ett konto?"
+
+#: core/templates/core/register.html:79
+msgid "Log in"
+msgstr "Logga in"
+
+#: core/templates/core/session.html:19
+msgid "Configure Exercise"
+msgstr "Konfigurera övning"
+
+#: core/templates/core/session.html:22
+msgid "Breathing Technique"
+msgstr "Andningsteknik"
+
+#: core/templates/core/session.html:27
+msgid "Custom Manual Rhythm..."
+msgstr "Egen manuell rytm..."
+
+#: core/templates/core/session.html:34
+msgid "Intensity Level"
+msgstr "Intensitetsnivå"
+
+#: core/templates/core/session.html:45
+msgid "Target Exercise Cycles"
+msgstr "Målantal cykler"
+
+#: core/templates/core/session.html:53
+msgid "Initialize Breathing Tracker"
+msgstr "Starta andningstracker"
+
+#: core/templates/core/session.html:63
+msgid "Ready to Begin"
+msgstr "Redo att börja"
+
+#: core/templates/core/session.html:69
+msgid "Cycle"
+msgstr "Cykel"
+
+#: core/views.py:87
+msgid "Hold"
+msgstr "Håll"
+
+#: core/views.py:89
+msgid "Rest"
+msgstr "Vila"
+
+msgid "Settings"
+msgstr "Inställningar"

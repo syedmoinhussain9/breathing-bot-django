@@ -1,0 +1,94 @@
+{% extends 'base.html' %}
+{% load static %}
+{% load i18n %}
+
+{% block content %}
+    <div class="container py-4" style="max-width: 860px;">
+
+        <div class="mb-4">
+            <h2 class="fw-bold mb-0">{% trans "Welcome back" %}, {{ user.username }}!</h2>
+            <p class="text-muted small">{% trans "Ready to breathe?" %}</p>
+        </div>
+
+    {# ── Quick Launch Cards ── #}
+        <div class="row g-3 mb-4">
+            <div class="col-md-4">
+                <a href="{% url 'core:session' %}" class="text-decoration-none">
+                    <div class="card border-0 shadow-sm p-3 h-100 text-center"
+                         style="background: #0d6efd; transition: transform 0.2s;"
+                         onmouseover="this.style.transform='translateY(-3px)'"
+                         onmouseout="this.style.transform='translateY(0)'">
+                        <div style="font-size: 2rem;">😮‍💨</div>
+                        <p class="text-white fw-semibold mb-0 mt-1">{% trans "Breathing Exercises" %}</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="{% url 'core:panicroom' %}" class="text-decoration-none">
+                    <div class="card border-0 shadow-sm p-3 h-100 text-center"
+                         style="background: #dc3545; transition: transform 0.2s;"
+                         onmouseover="this.style.transform='translateY(-3px)'"
+                         onmouseout="this.style.transform='translateY(0)'">
+                        <div style="font-size: 2rem;">❤️</div>
+                        <p class="text-white fw-semibold mb-0 mt-1">{% trans "Coherent Breathing" %}</p>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-4">
+                <a href="{% url 'core:meditate' %}" class="text-decoration-none">
+                    <div class="card border-0 shadow-sm p-3 h-100 text-center"
+                         style="background: #198754; transition: transform 0.2s;"
+                         onmouseover="this.style.transform='translateY(-3px)'"
+                         onmouseout="this.style.transform='translateY(0)'">
+                        <div style="font-size: 2rem;">🌊</div>
+                        <p class="text-white fw-semibold mb-0 mt-1">{% trans "Meditation Room" %}</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+
+    {# ── Recent Sessions ── #}
+        <div class="card border-0 shadow-sm p-4">
+            <div class="d-flex justify-content-between align-items-center mb-3">
+                <h5 class="fw-semibold mb-0">{% trans "Recent Sessions" %}</h5>
+                <a href="{% url 'core:profile_history' %}" class="btn btn-sm btn-outline-secondary">
+                    {% trans "View all" %} →
+                </a>
+            </div>
+
+            <div class="table-responsive">
+                <table class="table table-sm table-hover mb-0">
+                    <thead class="text-muted small">
+                        <tr>
+                            <th>{% trans "Technique" %}</th>
+                            <th>{% trans "Cycles / Min" %}</th>
+                            <th>{% trans "Date" %}</th>
+                        </tr>
+                    </thead>
+                    <tbody class="small">
+                        {% for session in sessions %}
+                            <tr>
+                                <td>{{ session.technique_name }}</td>
+                                <td>
+                                    {% if session.technique_name == 'Coherent Breathing' %}
+                                        {{ session.cycles_completed }} cycles
+                                    {% else %}
+                                        {{ session.minutes_meditated }} min
+                                    {% endif %}
+                                </td>
+                                <td class="text-muted">{{ session.timestamp|date:"d M Y" }}</td>
+                            </tr>
+                        {% empty %}
+                            <tr>
+                                <td colspan="3" class="text-muted text-center py-3">
+                                    {% trans "No sessions yet. Complete a breathing exercise to see your history here." %}
+                                </td>
+                            </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+{% endblock %}
