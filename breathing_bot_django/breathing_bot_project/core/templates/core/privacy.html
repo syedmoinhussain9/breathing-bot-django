@@ -1,87 +1,83 @@
 {% extends 'base.html' %}
 {% load static %}
-{% load i18n %}
 
-{% block title %}{% trans "Privacy Policy" %} | Breathing Bot{% endblock %}
+{% block title %}Privacy Policy | Breathing Bot{% endblock %}
 
 {% block content %}
     <div class="container py-5" style="max-width: 700px;">
 
-        <h2 class="fw-bold mb-1">{% trans "Privacy Policy" %}</h2>
-        <p class="text-muted small mb-5">{% trans "Last updated" %}: June 2026</p>
+        <h2 class="fw-bold mb-1">Privacy Policy</h2>
+        <p class="text-muted small mb-1">Last updated: June 2026</p>
+        
+        <div class="alert alert-warning small mb-5" role="alert">
+            <strong>Note:</strong> Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience.
+        </div>
 
         <div class="d-flex flex-column gap-4">
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "What we collect" %}</h6>
-                <p class="text-muted small mb-2">{% trans "When you create an account, we store:" %}</p>
+                <h6 class="fw-semibold mb-2">What we collect</h6>
+                <p class="text-muted small mb-2">When you create an account, we store:</p>
                 <ul class="text-muted small mb-0">
-                    <li>{% trans "Username and email address" %}</li>
-                    <li>{% trans "Hashed password (we never store your plain password)" %}</li>
-                    <li>{% trans "Breathing and meditation session history (technique, cycles, date)" %}</li>
-                    <li>{% trans "Language preference" %}</li>
-                    <li>{% trans "Profile picture URL (a link you provide — we don't store image files)" %}</li>
+                    <li>Username and email address</li>
+                    <li>Hashed password (we never store your plain password)</li>
+                    <li>Breathing and meditation session history (technique, cycles, date)</li>
+                    <li>Language preference</li>
+                    <li>Profile picture URL (a link you provide — we don't store image files)</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "What we don't do" %}</h6>
+                <h6 class="fw-semibold mb-2">What we don't do</h6>
                 <ul class="text-muted small mb-0">
-                    <li>{% trans "We do not sell your personal data to third parties." %}</li>
-                    <li>{% trans "We do not share your session history or health-related data with advertisers." %}</li>
-                    <li>{% trans "We do not collect health or medical data." %}</li>
+                    <li>We do not sell your personal data to third parties.</li>
+                    <li>We do not share your session history or health-related data with advertisers.</li>
+                    <li>We do not collect health or medical data.</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Advertising" %}</h6>
+                <h6 class="fw-semibold mb-2">Advertising</h6>
                 <p class="text-muted small mb-2">
-                    {% trans "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity." %}
+                    Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity.
                 </p>
                 <ul class="text-muted small mb-0">
-                    <li>{% trans "We use Google AdSense (or similar) to serve ads." %}</li>
-                    <li>{% trans "Ad partners may collect device identifiers, IP address, and browsing behaviour." %}</li>
-                    <li>{% trans "You can opt out of personalised ads via your Google account settings or your device's ad settings." %}</li>
-                    <li>{% trans "Logged-in users' breathing session data is never shared with advertisers." %}</li>
+                    <li>We use Google AdSense (or similar) to serve ads.</li>
+                    <li>Ad partners may collect device identifiers, IP address, and browsing behaviour.</li>
+                    <li>You can opt out of personalised ads via your Google account settings or your device's ad settings.</li>
+                    <li>Logged-in users' breathing session data is never shared with advertisers.</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Guest users" %}</h6>
+                <h6 class="fw-semibold mb-2">Guest users</h6>
                 <p class="text-muted small mb-0">
-                    {% trans "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect." %}
+                    If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect.
                 </p>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Donations (PayPal)" %}</h6>
-                <p class="text-muted small mb-0">
-                    {% trans "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction." %}
-                </p>
-            </div>
-
-            <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Your rights" %}</h6>
-                <p class="text-muted small mb-2">{% trans "You can:" %}</p>
+                <h6 class="fw-semibold mb-2">Your rights</h6>
+                <p class="text-muted small mb-2">You can:</p>
                 <ul class="text-muted small mb-0">
-                    <li>{% trans "Export your session history from your profile page at any time." %}</li>
-                    <li>{% trans "Delete your account by contacting us — all your data will be permanently removed." %}</li>
-                    <li>{% trans "Use the app as a guest with no account and no data stored by us." %}</li>
+                    <li>Export your session history from your profile page at any time.</li>
+                    <li>Delete your account by contacting us — all your data will be permanently removed.</li>
+                    <li>Use the app as a guest with no account and no data stored by us.</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Data storage" %}</h6>
+                <h6 class="fw-semibold mb-2">Data storage</h6>
                 <p class="text-muted small mb-0">
-                    {% trans "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management." %}
+                    Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management.
                 </p>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">{% trans "Contact" %}</h6>
+                <h6 class="fw-semibold mb-2">Contact</h6>
                 <p class="text-muted small mb-0">
-                    {% trans "Questions about this policy? Reach us at" %}
-                    <a href="mailto:privacy@breathingbot.app">privacy@breathingbot.app</a>
+                    Questions about this policy? Reach us at 
+                    <a href="mailto:breathing_bot_syed@outlook.com">breathing_bot_syed@outlook.com</a>
                 </p>
             </div>
 
