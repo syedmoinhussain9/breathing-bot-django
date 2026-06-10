@@ -15,6 +15,7 @@ urlpatterns = [
     path('logout/', auth_views.LogoutView.as_view(next_page='core:dashboard'), name='logout'),
     path('privacy/', views.PrivacyView.as_view(), name='privacy'),
     path('404-preview/', lambda request: page_not_found(request, None), name='404_preview'),
+    path('profile/delete/', views.DeleteAccountView.as_view(), name='delete_account'),
 
     # --- BREATHING & MEDITATION ROOMS ---
     path('session/', views.SessionView.as_view(), name='session'),

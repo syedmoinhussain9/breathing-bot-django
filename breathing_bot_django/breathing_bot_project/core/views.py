@@ -17,6 +17,8 @@ from django.conf import settings
 from .models import Profile, BreathingSession, CustomPreset
 from .presets import BREATHING_PRESETS
 from django.http import HttpResponse
+from django.contrib.auth import logout
+from django.contrib import messages
 
 
 # ─── REGISTRATION FORM ──────────────────────────────────────────────────────────
@@ -52,6 +54,21 @@ class RegisterView(View):
             login(request, user)
             return redirect('core:free_breathing')
         return render(request, self.template_name, {'form': form})
+    
+    
+    
+class DeleteAccountView(LoginRequiredMixin, View):
+    def get(self, request):
+        # Render a simple confirmation page
+        return render(request, 'core/delete_confirm.html')
+
+    def post(self, request):
+        user = request.user
+        # Log out the user before deleting the object
+        logout(request)
+        user.delete()
+        messages.success(request, "Your account has been permanently deleted.")
+        return redirect('core:dashboard')
 
 
 # ─── DASHBOARD (handles login form POST) ────────────────────────────────────────
