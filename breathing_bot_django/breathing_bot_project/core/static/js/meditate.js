@@ -97,14 +97,24 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function playEndingTing() {
         if (!audioCtx) return;
+        
+        // Ensure the context is running
+        if (audioCtx.state === 'suspended') {
+            audioCtx.resume();
+        }
+        
         const osc = audioCtx.createOscillator();
         const g = audioCtx.createGain();
+        
         osc.type = 'sine';
         osc.frequency.setValueAtTime(880, audioCtx.currentTime);
+        
         g.gain.setValueAtTime(0.1, audioCtx.currentTime);
         g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 1.5);
+        
         osc.connect(g);
         g.connect(audioCtx.destination);
+        
         osc.start();
         osc.stop(audioCtx.currentTime + 1.5);
     }
@@ -149,32 +159,44 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     function startSession() {
-        // 1. Check if the user has entered a custom value
         const customInput = document.getElementById('custom-minutes-input');
         const customVal = parseInt(customInput.value, 10);
 
-        // 2. If valid number (1–120), prioritize it as totalSeconds
+        // 1. Set the duration
         if (!isNaN(customVal) && customVal >= 1 && customVal <= 120) {
             totalSeconds = customVal * 60;
         }
 
-        // 3. Prevent start if not ready
-        if (isRunning || totalSeconds <= 0) return;
+        // 2. Safety check: If totalSeconds is still <= 0, do not start
+        if (totalSeconds <= 0) {
+            console.error("Timer duration is invalid:", totalSeconds);
+            return;
+        }
 
+        if (isRunning) return;
+
+        // 3. Reset state
         isRunning = true;
         startBtn.disabled = true;
-        remainingSeconds = totalSeconds;
-        updateDisplay(remainingSeconds);
+        remainingSeconds = totalSeconds; // Explicit assignment
+        
+        console.log("Starting session. Duration:", remainingSeconds, "seconds");
 
+        updateDisplay(remainingSeconds);
         startBtn?.classList.add('d-none');
         stopBtn?.classList.remove('d-none');
 
         startAudio();
 
+        // 4. Start interval
         intervalId = setInterval(() => {
             remainingSeconds--;
             updateDisplay(remainingSeconds);
-            if (remainingSeconds <= 0) endSession();
+            
+            if (remainingSeconds <= 0) {
+                console.log("Timer hit zero. Ending session...");
+                endSession(true); 
+            }
         }, 1000);
     }
 
@@ -198,12 +220,16 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // ── 2. Updated End Session ────────────────────────────────────────────
-    function endSession() {
+    function endSession(isAutomatic = false) {
         clearInterval(intervalId);
 
-        // Log the session before resetting everything
-        logSession(totalSeconds);
+        // Only log the session if it finished naturally
+        if (isAutomatic) {
+            logSession(totalSeconds);
+            playEndingTing(); // Keep your "ting" here
+        }
 
+        // UI Cleanup (happens whether manual or automatic)
         isRunning = false;
         if (gainNode) {
             gainNode.gain.linearRampToValueAtTime(0, audioCtx.currentTime + 2);
@@ -214,6 +240,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 sourceNode = null;
             }, 2100);
         }
+        
         startBtn?.classList.remove('d-none');
         stopBtn?.classList.add('d-none');
         startBtn.disabled = false;
@@ -221,5 +248,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     startBtn?.addEventListener('click', startSession);
-    stopBtn?.addEventListener('click', endSession);
+    stopBtn?.addEventListener('click', () => endSession(false));
 });
