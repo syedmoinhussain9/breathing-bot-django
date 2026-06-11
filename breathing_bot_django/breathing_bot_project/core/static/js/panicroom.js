@@ -30,6 +30,28 @@ document.addEventListener("DOMContentLoaded", () => {
     let cycleCount = 0;
 
     // ── 3-7. Utility Functions (Voice, Audio, Cues) ────────────────────────
+    function playCue(key) {
+        // 1. Stop any currently playing audio
+        if (currentAudio) {
+            currentAudio.pause();
+            currentAudio.currentTime = 0;
+        }
+
+        // 2. Build the path: staticAudioBase / lang / key.mp3
+        // Ensure key is lowercase to match your filenames
+        const fileName = key.toLowerCase(); 
+        const audioPath = `${staticAudioBase}/${currentLangCode}/${fileName}.mp3`;
+
+        console.log("Attempting to play:", audioPath);
+
+        // 3. Create and play the audio
+        currentAudio = new Audio(audioPath);
+        
+        currentAudio.play().catch(error => {
+            console.error("Playback failed for:", audioPath, error);
+            // Fallback: If file fails, you might want to try a default 'en' folder
+        });
+    }
     // ... (Keep your existing findBestVoice, playAudioCue, speakCue, and playCue functions) ...
     // [Note: Keep these exact as they are in your original code to maintain compatibility]
 
@@ -127,9 +149,16 @@ document.addEventListener("DOMContentLoaded", () => {
 
         if (cycleCount > 0) logSession(cycleCount);
 
-        if (currentAudio) { currentAudio.pause();
-            currentAudio.currentTime = 0; }
-        if ('speechSynthesis' in window) window.speechSynthesis.cancel();
+        // Stop audio file if it exists
+        if (currentAudio) { 
+            currentAudio.pause();
+            currentAudio.currentTime = 0; 
+        }
+        
+        // Stop browser speech synthesis if it's running
+        if ('speechSynthesis' in window) {
+            window.speechSynthesis.cancel();
+        } 
 
         actionBtn?.classList.remove('d-none');
         stopBtn?.classList.add('d-none');
@@ -140,6 +169,14 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // ── 13. Event Listeners ────────────────────────────────────────────────
-    actionBtn?.addEventListener('click', startPanicSession);
-    stopBtn?.addEventListener('click', stopSession);
+    actionBtn?.addEventListener('click', () => {
+        // Disable button immediately so no double-clicks occur
+        actionBtn.disabled = true;
+        startPanicSession();
+    });
+    stopBtn?.addEventListener('click', () => {
+        stopSession();
+        // Re-enable start button when stopped
+        actionBtn.disabled = false;
+    });
 });

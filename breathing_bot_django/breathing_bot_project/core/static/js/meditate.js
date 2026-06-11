@@ -95,6 +95,20 @@ document.addEventListener("DOMContentLoaded", () => {
         sourceNode.start(0);
     }
 
+    function playEndingTing() {
+        if (!audioCtx) return;
+        const osc = audioCtx.createOscillator();
+        const g = audioCtx.createGain();
+        osc.type = 'sine';
+        osc.frequency.setValueAtTime(880, audioCtx.currentTime);
+        g.gain.setValueAtTime(0.1, audioCtx.currentTime);
+        g.gain.exponentialRampToValueAtTime(0.001, audioCtx.currentTime + 1.5);
+        osc.connect(g);
+        g.connect(audioCtx.destination);
+        osc.start();
+        osc.stop(audioCtx.currentTime + 1.5);
+    }
+
     // ── 5. UI Handlers ────────────────────────────────────────────────────
     const noiseChips = document.querySelectorAll('.noise-chip');
     const timeChips = document.querySelectorAll('.time-chip');
@@ -148,9 +162,8 @@ document.addEventListener("DOMContentLoaded", () => {
         if (isRunning || totalSeconds <= 0) return;
 
         isRunning = true;
+        startBtn.disabled = true;
         remainingSeconds = totalSeconds;
-
-        // 4. Update the UI timer immediately
         updateDisplay(remainingSeconds);
 
         startBtn?.classList.add('d-none');
@@ -203,8 +216,7 @@ document.addEventListener("DOMContentLoaded", () => {
         }
         startBtn?.classList.remove('d-none');
         stopBtn?.classList.add('d-none');
-
-        // Reset display
+        startBtn.disabled = false;
         updateDisplay(totalSeconds);
     }
 
