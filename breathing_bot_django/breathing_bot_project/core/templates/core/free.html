@@ -61,7 +61,7 @@
                     <thead class="text-muted small">
                         <tr>
                             <th>{% trans "Technique" %}</th>
-                            <th>{% trans "Cycles / Min" %}</th>
+                            <th>{% trans "Minutes" %}</th>
                             <th>{% trans "Date" %}</th>
                         </tr>
                     </thead>
@@ -69,13 +69,7 @@
                         {% for session in sessions %}
                             <tr>
                                 <td>{{ session.technique_name }}</td>
-                                <td>
-                                    {% if session.technique_name == 'Coherent Breathing' %}
-                                        {{ session.cycles_completed }} cycles
-                                    {% else %}
-                                        {{ session.minutes_meditated }} min
-                                    {% endif %}
-                                </td>
+                                <td>{{ session.minutes_meditated }} min</td>
                                 <td class="text-muted">{{ session.timestamp|date:"d M Y" }}</td>
                             </tr>
                         {% empty %}
