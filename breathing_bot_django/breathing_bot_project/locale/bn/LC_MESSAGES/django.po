@@ -2,77 +2,75 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-08 09:03+0000\n"
+"POT-Creation-Date: 2026-06-24 17:09+0530\n"
 "Language: bn\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-#: core/presets.py:5
+#: .\core\presets.py:5
 msgid "1-4-2 Lung Conditioning Pattern"
 msgstr "১-৪-২ ফুসফুস কন্ডিশনিং প্যাটার্ন"
 
-#: core/presets.py:13
+#: .\core\presets.py:13
 msgid ""
 "A classic respiratory conditioning sequence designed to maximize blood "
 "oxygenation and expand vital lung capacity over time."
 msgstr ""
-"রক্তে অক্সিজেন সরবরাহ সর্বাধিক করতে এবং সময়ের সাথে সাথে ফুসফুসের "
-"কার্যক্ষমতা বৃদ্ধি করতে একটি ক্লাসিক শ্বাস-প্রশ্বাসের কন্ডিশনিং সিকোয়েন্স।"
+"রক্তে অক্সিজেন সরবরাহ সর্বাধিক করতে এবং সময়ের সাথে সাথে ফুসফুসের কার্যক্ষমতা বৃদ্ধি "
+"করতে একটি ক্লাসিক শ্বাস-প্রশ্বাসের কন্ডিশনিং সিকোয়েন্স।"
 
-#: core/presets.py:16
+#: .\core\presets.py:16
 msgid "Box Breathing (Navy SEAL Tactical Clarity)"
 msgstr "বক্স ব্রীদিং (ন্যাভি সিল ট্যাকটিক্যাল ক্ল্যারিটি)"
 
-#: core/presets.py:24
+#: .\core\presets.py:24
 msgid ""
 "The gold standard for high-stress grounding. Equal duration phases clear "
 "cortisol, settle racing hearts, and restore sharp mental clarity."
 msgstr ""
-"উচ্চ মানসিক চাপ ও উত্তেজনা কমানোর একটি নির্ভরযোগ্য উপায়। সমান মেয়াদের "
-"প্রতিটি ধাপ কর্টিসল দূর করে, দ্রুত হৃদস্পন্দন শান্ত করে এবং মানসিক স্বচ্ছতা "
-"ফিরিয়ে আনে।"
+"উচ্চ মানসিক চাপ ও উত্তেজনা কমানোর একটি নির্ভরযোগ্য উপায়। সমান মেয়াদের প্রতিটি ধাপ "
+"কর্টিসল দূর করে, দ্রুত হৃদস্পন্দন শান্ত করে এবং মানসিক স্বচ্ছতা ফিরিয়ে আনে।"
 
-#: core/presets.py:27
+#: .\core\presets.py:27
 msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
 msgstr "৪-৭-৮ রিল্যাক্সেশন (স্নায়ুতন্ত্র শান্তকারী)"
 
-#: core/presets.py:35
+#: .\core\presets.py:35
 msgid ""
-"Acts as a natural chemical brake for your sympathetic nervous system. Highly"
-" recommended for severe anxiety and floating into deep sleep."
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly "
+"recommended for severe anxiety and floating into deep sleep."
 msgstr ""
-"আপনার সিমপ্যাথেটিক স্নায়ুতন্ত্রের জন্য একটি প্রাকৃতিক রাসায়নিক ব্রেক হিসেবে "
-"কাজ করে। তীব্র উদ্বেগ কমাতে এবং গভীর ঘুমে নিমগ্ন হতে অত্যন্ত কার্যকরী।"
+"আপনার সিমপ্যাথেটিক স্নায়ুতন্ত্রের জন্য একটি প্রাকৃতিক রাসায়নিক ব্রেক হিসেবে কাজ করে। "
+"তীব্র উদ্বেগ কমাতে এবং গভীর ঘুমে নিমগ্ন হতে অত্যন্ত কার্যকরী।"
 
-#: core/presets.py:38
+#: .\core\presets.py:38
 msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
 msgstr "কোহেরেন্ট / রেজোন্যান্ট ব্রীদিং (অ্যাজমা ও প্যানিক রিলিফ)"
 
-#: core/presets.py:46
+#: .\core\presets.py:46
 msgid ""
 "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
 "hold times make this perfectly safe for active asthma management."
 msgstr ""
-"ভেগাস স্নায়ুর ভারসাম্য রক্ষা করে এবং হার্ট রেট ভ্যারিয়েবিলিটি (HRV) উন্নত "
-"করে। কোনো হোল্ড টাইম (দম আটকে রাখা) না থাকায় এটি অ্যাজমা ব্যবস্থাপনার জন্য "
-"সম্পূর্ণ নিরাপদ।"
+"ভেগাস স্নায়ুর ভারসাম্য রক্ষা করে এবং হার্ট রেট ভ্যারিয়েবিলিটি (HRV) উন্নত করে। কোনো "
+"হোল্ড টাইম (দম আটকে রাখা) না থাকায় এটি অ্যাজমা ব্যবস্থাপনার জন্য সম্পূর্ণ নিরাপদ।"
 
-#: core/presets.py:49
+#: .\core\presets.py:49
 msgid "Tactical Breathing (Sustained Equilibrium)"
 msgstr "ট্যাকটিক্যাল ব্রীদিং (স্থায়ী ভারসাম্য)"
 
-#: core/presets.py:57
+#: .\core\presets.py:57
 msgid ""
 "A specialized, low-overhead holding variant used by responders to reduce "
 "somatic anxiety without inducing lightheadedness."
 msgstr ""
-"উদ্ধারকারী ও ফার্স্ট রেসপন্ডারদের ব্যবহৃত একটি বিশেষ পদ্ধতি, যা মাথা ঝিমঝিম "
-"না করে শারীরিক উদ্বেগ ও ছটফটানি দ্রুত হ্রাস করে।"
+"উদ্ধারকারী ও ফার্স্ট রেসপন্ডারদের ব্যবহৃত একটি বিশেষ পদ্ধতি, যা মাথা ঝিমঝিম না করে "
+"শারীরিক উদ্বেগ ও ছটফটানি দ্রুত হ্রাস করে।"
 
-#: core/presets.py:60
+#: .\core\presets.py:60
 msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
 msgstr "পার্সড-লিপ স্প্লিন্টিং (COPD এবং এয়ার-ট্র্যাপিং উপশম)"
 
-#: core/presets.py:68
+#: .\core\presets.py:68
 msgid ""
 "Creates passive mechanical backpressure to keep bronchial pathways open. "
 "Crucial for individuals with emphysema or structural shortness of breath."
@@ -80,682 +78,643 @@ msgstr ""
 "শ্বাসনালী খোলা রাখতে পরোক্ষ মেকানিক্যাল ব্যাকপ্রেসার তৈরি করে। এমফিসেমা বা "
 "শ্বাসকষ্টজনিত সমস্যায় আক্রান্ত ব্যক্তিদের জন্য অত্যন্ত গুরুত্বপূর্ণ।"
 
-#: core/presets.py:71
+#: .\core\presets.py:71
 msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
 msgstr "ফিজিওলজিক্যাল সাই (তীব্র হাইপারভেন্টিলেশন প্রতিরোধ)"
 
-#: core/presets.py:79
+#: .\core\presets.py:79
 msgid ""
 "Simulates the biological double-inhale reflex to instantly re-inflate "
 "collapsed alveoli and maximize immediate carbon dioxide unloading."
 msgstr ""
-"দেহের স্বাভাবিক ডাবল-ইনহেল রিফ্লেক্সকে অনুকরণ করে ফুসফুসের সংকুচিত "
-"অ্যালভিওলাইকে তাত্ক্ষণিকভাবে প্রসারিত করে এবং দ্রুত কার্বন ডাই অক্সাইড বের "
-"করে দেয়।"
+"দেহের স্বাভাবিক ডাবল-ইনহেল রিফ্লেক্সকে অনুকরণ করে ফুসফুসের সংকুচিত অ্যালভিওলাইকে "
+"তাত্ক্ষণিকভাবে প্রসারিত করে এবং দ্রুত কার্বন ডাই অক্সাইড বের করে দেয়।"
 
-#: core/presets.py:82
+#: .\core\presets.py:82
 msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
 msgstr "এক্সটেন্ডেড কার্ডিয়াক এক্সহেল (উচ্চ রক্তচাপ ও ভেগাল টোন নিয়ন্ত্রণ)"
 
-#: core/presets.py:90
+#: .\core\presets.py:90
 msgid ""
 "Exhale window is mathematically doubled relative to inhale. Maximizes "
 "acetylcholinergic outflow to safely downregulate heart rate and blood "
 "pressure."
 msgstr ""
-"শ্বাস নেওয়ার সময়ের তুলনায় শ্বাস ছাড়ার সময়কাল গাণিতিকভাবে দ্বিগুণ করা হয়। এটি"
-" নিরাপদে হৃদস্পন্দন এবং রক্তচাপ নিয়ন্ত্রণে সাহায্য করে।"
+"শ্বাস নেওয়ার সময়ের তুলনায় শ্বাস ছাড়ার সময়কাল গাণিতিকভাবে দ্বিগুণ করা হয়। এটি "
+"নিরাপদে হৃদস্পন্দন এবং রক্তচাপ নিয়ন্ত্রণে সাহায্য করে।"
 
-#: core/templates/404.html:5
+#: .\core\templates\404.html:5
 msgid "Page Not Found"
 msgstr "পৃষ্ঠাটি পাওয়া যায়নি"
 
-#: core/templates/404.html:13
+#: .\core\templates\404.html:13
 msgid "Page not found"
 msgstr "পৃষ্ঠাটি পাওয়া যায়নি"
 
-#: core/templates/404.html:15
+#: .\core\templates\404.html:15
 msgid ""
-"The page you're looking for doesn't exist. It may have been moved or the URL"
-" might be wrong."
+"The page you're looking for doesn't exist. It may have been moved or the URL "
+"might be wrong."
 msgstr ""
-"আপনি যে পৃষ্ঠাটি খুঁজছেন সেটি বিদ্যমান নেই। এটি সরানো হয়েছে বা URL টি ভুল "
-"হতে পারে।"
+"আপনি যে পৃষ্ঠাটি খুঁজছেন সেটি বিদ্যমান নেই। এটি সরানো হয়েছে বা URL টি ভুল হতে পারে।"
 
-#: core/templates/404.html:20
+#: .\core\templates\404.html:20
 msgid "Go home"
 msgstr "হোমে যান"
 
-#: core/templates/404.html:23
+#: .\core\templates\404.html:23
 msgid "Start breathing"
 msgstr "শ্বাস শুরু করুন"
 
-#: core/templates/base.html:46
+#: .\core\templates\base.html:47
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing"
 msgstr "শ্বাস-প্রশ্বাস"
 
-#: core/templates/base.html:51 core/templates/core/free.html:22
+#: .\core\templates\base.html:52 .\core\templates\core\free.html:22
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing Exercises"
 msgstr "শ্বাস-প্রশ্বাসের ব্যায়াম"
 
-#: core/templates/base.html:56 core/templates/core/dashboard.html:34
-#: core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+#: .\core\templates\base.html:57 .\core\templates\core\dashboard.html:34
+#: .\core\templates\core\free.html:33 .\core\templates\core\panicroom.html:8
 msgid "Coherent Breathing"
 msgstr "কোহেরেন্ট ব্রিদিং"
 
-#: core/templates/base.html:61 core/templates/core/dashboard.html:46
-#: core/templates/core/free.html:44 core/templates/core/meditate.html:9
+#: .\core\templates\base.html:62 .\core\templates\core\dashboard.html:46
+#: .\core\templates\core\free.html:44 .\core\templates\core\meditate.html:9
 msgid "Meditation Room"
 msgstr "ধ্যান কক্ষ"
 
-#: core/templates/base.html:70
+#: .\core\templates\base.html:71
 msgid "Dashboard"
 msgstr "ড্যাশবোর্ড"
 
-#: core/templates/base.html:75
+#: .\core\templates\base.html:76
 msgid "Profile"
 msgstr "প্রোফাইল"
 
-#: core/templates/base.html:82
-msgid "Donate"
-msgstr "দান করুন"
-
-#: core/templates/base.html:96
+#: .\core\templates\base.html:91
 msgid "Language"
 msgstr "ভাষা"
 
-#: core/templates/base.html:110
+#: .\core\templates\base.html:105
 msgid "Logout"
 msgstr "লগ আউট"
 
-#: core/templates/base.html:115
+#: .\core\templates\base.html:110
 msgid "Register"
 msgstr "নিবন্ধন"
 
-#: core/templates/base.html:130
+#: .\core\templates\base.html:125
 msgid "Designed for accessibility. Completely free and open-source."
-msgstr ""
-"অ্যাক্সেসযোগ্যতার জন্য ডিজাইন করা হয়েছে। সম্পূর্ণ বিনামূল্যে এবং "
-"ওপেন-সোর্স।"
+msgstr "অ্যাক্সেসযোগ্যতার জন্য ডিজাইন করা হয়েছে। সম্পূর্ণ বিনামূল্যে এবং ওপেন-সোর্স।"
 
-#: core/templates/base.html:133 core/templates/core/privacy.html:5
-#: core/templates/core/privacy.html:10
+#: .\core\templates\base.html:128
 msgid "Privacy Policy"
 msgstr "গোপনীয়তা নীতি"
 
-#: core/templates/base.html:135
-msgid "Support Us"
-msgstr "আমাদের সমর্থন করুন"
-
-#: core/templates/core/dashboard.html:9
+#: .\core\templates\core\dashboard.html:9
 msgid "Welcome to Breathing Bot"
 msgstr "Breathing Bot-এ স্বাগতম"
 
-#: core/templates/core/dashboard.html:10
+#: .\core\templates\core\dashboard.html:10
 msgid ""
 "Free breathing exercises, coherent breathing, and meditation — all in one "
 "place."
 msgstr ""
-"বিনামূল্যে শ্বাস-প্রশ্বাসের ব্যায়াম, কোহেরেন্ট ব্রিদিং এবং ধ্যান — সবকিছু "
-"এক জায়গায়।"
+"বিনামূল্যে শ্বাস-প্রশ্বাসের ব্যায়াম, কোহেরেন্ট ব্রিদিং এবং ধ্যান — সবকিছু এক জায়গায়।"
 
-#: core/templates/core/dashboard.html:22
+#: .\core\templates\core\dashboard.html:22
 msgid "Guided Breathing"
 msgstr "গাইডেড ব্রিদিং"
 
-#: core/templates/core/dashboard.html:23
+#: .\core\templates\core\dashboard.html:23
 msgid "Guest"
 msgstr "অতিথি"
 
-#: core/templates/core/dashboard.html:35
+#: .\core\templates\core\dashboard.html:35
 msgid "Panic Relief"
 msgstr "প্যানিক রিলিফ"
 
-#: core/templates/core/dashboard.html:47
+#: .\core\templates\core\dashboard.html:47
 msgid "Brown Noise"
 msgstr "ব্রাউন নয়েজ"
 
-#: core/templates/core/dashboard.html:58
+#: .\core\templates\core\dashboard.html:58
 msgid "Free User Login"
 msgstr "বিনামূল্যে ব্যবহারকারী লগইন"
 
-#: core/templates/core/dashboard.html:59
+#: .\core\templates\core\dashboard.html:59
 msgid "Login to save progress and track history."
 msgstr "অগ্রগতি সংরক্ষণ ও ইতিহাস ট্র্যাক করতে লগইন করুন।"
 
-#: core/templates/core/dashboard.html:64
+#: .\core\templates\core\dashboard.html:64
 msgid "Invalid username or password."
 msgstr "ব্যবহারকারীর নাম বা পাসওয়ার্ড ভুল।"
 
-#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+#: .\core\templates\core\dashboard.html:67
+#: .\core\templates\core\register.html:22
 msgid "Username"
 msgstr "ব্যবহারকারীর নাম"
 
-#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+#: .\core\templates\core\dashboard.html:69
+#: .\core\templates\core\register.html:48
 msgid "Password"
 msgstr "পাসওয়ার্ড"
 
-#: core/templates/core/dashboard.html:70
+#: .\core\templates\core\dashboard.html:70
 msgid "Login"
 msgstr "লগইন"
 
-#: core/templates/core/dashboard.html:74
+#: .\core\templates\core\dashboard.html:74
 msgid "Create account"
 msgstr "অ্যাকাউন্ট তৈরি করুন"
 
-#: core/templates/core/dashboard.html:75
+#: .\core\templates\core\dashboard.html:75
 msgid "Forgot password?"
 msgstr "পাসওয়ার্ড ভুলে গেছেন?"
 
-#: core/templates/core/donate.html:11
-msgid "Support Breathing Bot"
-msgstr "Breathing Bot সমর্থন করুন"
+#: .\core\templates\core\delete_confirm.html:7
+#: .\core\templates\core\profile.html:63
+#, fuzzy
+#| msgid "Create Account"
+msgid "Delete Account"
+msgstr "অ্যাকাউন্ট তৈরি করুন"
 
-#: core/templates/core/donate.html:13
+#: .\core\templates\core\delete_confirm.html:8
 msgid ""
-"Breathing Bot is free and will always stay free. If it has helped you, "
-"consider supporting its development."
+"Are you sure you want to delete your account? This action is permanent and "
+"cannot be undone."
 msgstr ""
-"Breathing Bot বিনামূল্যে এবং সবসময় বিনামূল্যেই থাকবে। যদি এটি আপনার কাজে "
-"এসে থাকে, তাহলে এর উন্নয়নে সহায়তার কথা বিবেচনা করুন।"
 
-#: core/templates/core/donate.html:27
-msgid ""
-"One-time donation. Any amount helps keep the server running and development "
-"going."
+#: .\core\templates\core\delete_confirm.html:13
+#, fuzzy
+#| msgid "Create Account"
+msgid "Yes, Delete My Account"
+msgstr "অ্যাকাউন্ট তৈরি করুন"
+
+#: .\core\templates\core\delete_confirm.html:14
+msgid "Cancel"
 msgstr ""
-"একটি একক দান। যেকোনো পরিমাণ সার্ভার চালু রাখতে এবং উন্নয়ন অব্যাহত রাখতে "
-"সাহায্য করে।"
 
-#: core/templates/core/donate.html:41
-msgid "Donate with PayPal"
-msgstr "PayPal দিয়ে দান করুন"
-
-#: core/templates/core/donate.html:42
-msgid "Coming Soon"
-msgstr "শীঘ্রই আসছে"
-
-#: core/templates/core/donate.html:48
-msgid "Other ways to help"
-msgstr "সাহায্যের অন্যান্য উপায়"
-
-#: core/templates/core/donate.html:55
-msgid "Spread the word"
-msgstr "কথা ছড়িয়ে দিন"
-
-#: core/templates/core/donate.html:56
-msgid "Share Breathing Bot with someone who might benefit from it."
-msgstr "Breathing Bot কাউকে শেয়ার করুন যে এটি থেকে উপকৃত হতে পারে।"
-
-#: core/templates/core/donate.html:64
-msgid "Report bugs"
-msgstr "বাগ রিপোর্ট করুন"
-
-#: core/templates/core/donate.html:65
-msgid "Found something broken? Let us know so we can fix it."
-msgstr "কিছু ভাঙা পেয়েছেন? আমাদের জানান যাতে আমরা ঠিক করতে পারি।"
-
-#: core/templates/core/donate.html:73
-msgid "Give feedback"
-msgstr "মতামত দিন"
-
-#: core/templates/core/donate.html:74
-msgid "Ideas for new features or languages are always welcome."
-msgstr "নতুন বৈশিষ্ট্য বা ভাষার জন্য ধারণা সবসময় স্বাগত।"
-
-#: core/templates/core/donate.html:81
-msgid "Thank you for using Breathing Bot."
-msgstr "Breathing Bot ব্যবহার করার জন্য ধন্যবাদ।"
-
-#: core/templates/core/free.html:9
+#: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "আবার স্বাগতম"
 
-#: core/templates/core/free.html:10
+#: .\core\templates\core\free.html:10
 #, fuzzy
 #| msgid "Ready to Begin"
 msgid "Ready to breathe?"
 msgstr "শ্বাস নিতে প্রস্তুত?"
 
-#: core/templates/core/free.html:53
+#: .\core\templates\core\free.html:53
 msgid "Recent Sessions"
 msgstr "সাম্প্রতিক সেশন"
 
-#: core/templates/core/free.html:55
+#: .\core\templates\core\free.html:55
 msgid "View all"
 msgstr "সব দেখুন"
 
-#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#: .\core\templates\core\free.html:63 .\core\templates\core\profile.html:85
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Technique"
 msgstr "কৌশল"
 
-#: core/templates/core/free.html:64 core/templates/core/profile.html:91
-msgid "Cycles / Min"
-msgstr "সাইকেল / মিনিট"
+#: .\core\templates\core\free.html:64 .\core\templates\core\profile.html:87
+msgid "Minutes"
+msgstr ""
 
-#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+#: .\core\templates\core\free.html:65 .\core\templates\core\profile.html:84
 msgid "Date"
 msgstr "তারিখ"
 
-#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+#: .\core\templates\core\free.html:78 .\core\templates\core\profile.html:125
 msgid ""
 "No sessions yet. Complete a breathing exercise to see your history here."
 msgstr ""
-"এখনো কোনো সেশন নেই। আপনার ইতিহাস এখানে দেখতে একটি শ্বাস ব্যায়াম সম্পন্ন "
-"করুন।"
+"এখনো কোনো সেশন নেই। আপনার ইতিহাস এখানে দেখতে একটি শ্বাস ব্যায়াম সম্পন্ন করুন।"
 
-#: core/templates/core/meditate.html:10
-msgid "Brown noise"
+#: .\core\templates\core\meditate.html:10
+msgid "Pure sound, no distractions"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:15
+msgid "Sound texture"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:17
+#, fuzzy
+#| msgid "Brown Noise"
+msgid "Brown"
 msgstr "ব্রাউন নয়েজ"
 
-#: core/templates/core/meditate.html:10
-msgid "mathematically generated, no files"
-msgstr "গাণিতিকভাবে তৈরি, কোনো ফাইল নেই"
+#: .\core\templates\core\meditate.html:18
+msgid "White"
+msgstr ""
 
-#: core/templates/core/meditate.html:14
-#, fuzzy
-#| msgid "Session has ended"
-msgid "Session duration"
-msgstr "সেশনের সময়কাল"
+#: .\core\templates\core\meditate.html:19
+msgid "Pink"
+msgstr ""
 
-#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17
-#: core/templates/core/meditate.html:18 core/templates/core/meditate.html:19
-#: core/templates/core/meditate.html:20
-msgid "min"
-msgstr "মিনিট"
+#: .\core\templates\core\meditate.html:25
+msgid "Duration"
+msgstr ""
 
-#: core/templates/core/meditate.html:23
+#: .\core\templates\core\meditate.html:35
 msgid "Custom minutes (1–120)"
 msgstr "কাস্টম মিনিট (১–১২০)"
 
-#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
-msgid "select a duration to begin"
-msgstr "শুরু করতে একটি সময়কাল নির্বাচন করুন"
+#: .\core\templates\core\meditate.html:46
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to begin"
+msgstr "শুরু করার জন্য প্রস্তুত"
 
-#: core/templates/core/meditate.html:31
-msgid "please select a duration first"
-msgstr "প্রথমে একটি সময়কাল নির্বাচন করুন"
+#: .\core\templates\core\meditate.html:51
+#, fuzzy
+#| msgid "Total sessions"
+msgid "Start Session"
+msgstr "মোট সেশন"
 
-#: core/templates/core/meditate.html:32
-msgid "session in progress"
-msgstr "সেশন চলছে"
-
-#: core/templates/core/meditate.html:33
-msgid "session complete"
-msgstr "সেশন সম্পন্ন"
-
-#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
-msgid "Start"
-msgstr "শুরু করুন"
-
-#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+#: .\core\templates\core\meditate.html:54
+#: .\core\templates\core\panicroom.html:32
 msgid "Stop"
 msgstr "বন্ধ করুন"
 
-#: core/templates/core/panicroom.html:9
+#: .\core\templates\core\panicroom.html:9
 msgid "6 seconds in, 6 seconds out. Calms the nervous system."
 msgstr "৬ সেকেন্ড ভেতরে, ৬ সেকেন্ড বাইরে। স্নায়ুতন্ত্রকে শান্ত করে।"
 
-#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+#: .\core\templates\core\panicroom.html:14 .\core\views.py:103
+#: .\core\views.py:134
 msgid "Inhale"
 msgstr "শ্বাস নিন"
 
-#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+#: .\core\templates\core\panicroom.html:15 .\core\views.py:105
+#: .\core\views.py:135
 msgid "Exhale"
 msgstr "শ্বাস ছাড়ুন"
 
-#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+#: .\core\templates\core\panicroom.html:16 .\core\views.py:107
+#: .\core\views.py:136
 msgid "Session has ended"
 msgstr "অধিবেশন শেষ হয়েছে"
 
-#: core/templates/core/panicroom.html:23
+#: .\core\templates\core\panicroom.html:23
 msgid "Ready"
 msgstr "প্রস্তুত"
 
-#: core/templates/core/password_reset_complete.html:8
+#: .\core\templates\core\panicroom.html:29
+msgid "Start"
+msgstr "শুরু করুন"
+
+#: .\core\templates\core\password_reset_complete.html:8
 msgid "Password updated"
 msgstr "পাসওয়ার্ড আপডেট হয়েছে"
 
-#: core/templates/core/password_reset_complete.html:9
+#: .\core\templates\core\password_reset_complete.html:9
 msgid "Your password has been set. You can now log in with your new password."
-msgstr ""
-"আপনার পাসওয়ার্ড সেট করা হয়েছে। এখন নতুন পাসওয়ার্ড দিয়ে লগইন করতে পারেন।"
+msgstr "আপনার পাসওয়ার্ড সেট করা হয়েছে। এখন নতুন পাসওয়ার্ড দিয়ে লগইন করতে পারেন।"
 
-#: core/templates/core/password_reset_complete.html:10
-#: core/templates/core/password_reset_done.html:12
-#: core/templates/core/password_reset_form.html:22
+#: .\core\templates\core\password_reset_complete.html:10
+#: .\core\templates\core\password_reset_done.html:12
+#: .\core\templates\core\password_reset_form.html:22
 msgid "Back to login"
 msgstr "লগইনে ফিরে যান"
 
-#: core/templates/core/password_reset_confirm.html:7
+#: .\core\templates\core\password_reset_confirm.html:7
 msgid "Choose New Password"
 msgstr "নতুন পাসওয়ার্ড বেছে নিন"
 
-#: core/templates/core/password_reset_confirm.html:8
+#: .\core\templates\core\password_reset_confirm.html:8
 msgid "Enter your new password below."
 msgstr "নিচে আপনার নতুন পাসওয়ার্ড লিখুন।"
 
-#: core/templates/core/password_reset_confirm.html:16
+#: .\core\templates\core\password_reset_confirm.html:16
 msgid "New password"
 msgstr "নতুন পাসওয়ার্ড"
 
-#: core/templates/core/password_reset_confirm.html:27
+#: .\core\templates\core\password_reset_confirm.html:27
 msgid "Confirm new password"
 msgstr "নতুন পাসওয়ার্ড নিশ্চিত করুন"
 
-#: core/templates/core/password_reset_confirm.html:37
+#: .\core\templates\core\password_reset_confirm.html:37
 msgid "Set New Password"
 msgstr "নতুন পাসওয়ার্ড সেট করুন"
 
-#: core/templates/core/password_reset_confirm.html:41
+#: .\core\templates\core\password_reset_confirm.html:41
 msgid "This reset link is invalid or has expired."
 msgstr "এই রিসেট লিঙ্কটি অবৈধ বা মেয়াদ শেষ হয়ে গেছে।"
 
-#: core/templates/core/password_reset_confirm.html:42
+#: .\core\templates\core\password_reset_confirm.html:42
 msgid "Request a new link"
 msgstr "নতুন লিঙ্কের অনুরোধ করুন"
 
-#: core/templates/core/password_reset_done.html:8
+#: .\core\templates\core\password_reset_done.html:8
 msgid "Check your email"
 msgstr "আপনার ইমেইল চেক করুন"
 
-#: core/templates/core/password_reset_done.html:10
+#: .\core\templates\core\password_reset_done.html:10
 msgid ""
 "If an account exists for that address, a password reset link has been sent. "
 "Check your spam folder if you don't see it."
 msgstr ""
-"যদি সেই ঠিকানায় কোনো অ্যাকাউন্ট থাকে, তাহলে একটি পাসওয়ার্ড রিসেট লিঙ্ক "
-"পাঠানো হয়েছে। না দেখলে স্প্যাম ফোল্ডার চেক করুন।"
+"যদি সেই ঠিকানায় কোনো অ্যাকাউন্ট থাকে, তাহলে একটি পাসওয়ার্ড রিসেট লিঙ্ক পাঠানো "
+"হয়েছে। না দেখলে স্প্যাম ফোল্ডার চেক করুন।"
 
-#: core/templates/core/password_reset_form.html:7
+#: .\core\templates\core\password_reset_form.html:7
 msgid "Reset Password"
 msgstr "পাসওয়ার্ড রিসেট করুন"
 
-#: core/templates/core/password_reset_form.html:8
+#: .\core\templates\core\password_reset_form.html:8
 msgid "Enter your email and we'll send you a reset link."
 msgstr "আপনার ইমেইল দিন, আমরা একটি রিসেট লিঙ্ক পাঠাব।"
 
-#: core/templates/core/password_reset_form.html:14
-#: core/templates/core/register.html:35
+#: .\core\templates\core\password_reset_form.html:14
+#: .\core\templates\core\register.html:35
 msgid "Email address"
 msgstr "ইমেইল ঠিকানা"
 
-#: core/templates/core/password_reset_form.html:17
+#: .\core\templates\core\password_reset_form.html:17
 msgid "Send Reset Link"
 msgstr "রিসেট লিঙ্ক পাঠান"
 
-#: core/templates/core/privacy.html:11
-msgid "Last updated"
-msgstr "সর্বশেষ আপডেট"
-
-#: core/templates/core/privacy.html:16
-msgid "What we collect"
-msgstr "আমরা যা সংগ্রহ করি"
-
-#: core/templates/core/privacy.html:17
-msgid "When you create an account, we store:"
-msgstr ""
-
-#: core/templates/core/privacy.html:19
-msgid "Username and email address"
-msgstr ""
-
-#: core/templates/core/privacy.html:20
-msgid "Hashed password (we never store your plain password)"
-msgstr ""
-
-#: core/templates/core/privacy.html:21
-msgid "Breathing and meditation session history (technique, cycles, date)"
-msgstr ""
-
-#: core/templates/core/privacy.html:22
-msgid "Language preference"
-msgstr ""
-
-#: core/templates/core/privacy.html:23
-msgid "Profile picture URL (a link you provide — we don't store image files)"
-msgstr ""
-
-#: core/templates/core/privacy.html:28
-msgid "What we don't do"
-msgstr "আমরা যা করি না"
-
-#: core/templates/core/privacy.html:30
-msgid "We do not sell your personal data to third parties."
-msgstr ""
-
-#: core/templates/core/privacy.html:31
-msgid ""
-"We do not share your session history or health-related data with "
-"advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:32
-msgid "We do not collect health or medical data."
-msgstr ""
-
-#: core/templates/core/privacy.html:37
-msgid "Advertising"
-msgstr "বিজ্ঞাপন"
-
-#: core/templates/core/privacy.html:39
-msgid ""
-"Breathing Bot displays ads to support free access to the app. Our ad "
-"partners may use cookies and similar technologies to show relevant ads based"
-" on your browsing activity."
-msgstr ""
-
-#: core/templates/core/privacy.html:42
-msgid "We use Google AdSense (or similar) to serve ads."
-msgstr ""
-
-#: core/templates/core/privacy.html:43
-msgid ""
-"Ad partners may collect device identifiers, IP address, and browsing "
-"behaviour."
-msgstr ""
-
-#: core/templates/core/privacy.html:44
-msgid ""
-"You can opt out of personalised ads via your Google account settings or your"
-" device's ad settings."
-msgstr ""
-
-#: core/templates/core/privacy.html:45
-msgid ""
-"Logged-in users' breathing session data is never shared with advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:50
-msgid "Guest users"
-msgstr "অতিথি ব্যবহারকারী"
-
-#: core/templates/core/privacy.html:52
-msgid ""
-"If you use Breathing Bot without creating an account, we store one "
-"functional cookie — your language preference — so the app remembers your "
-"chosen language between visits. No personal data, no session history, and no"
-" tracking by us beyond what ad partners may collect."
-msgstr ""
-
-#: core/templates/core/privacy.html:57
-msgid "Donations (PayPal)"
-msgstr "দান (PayPal)"
-
-#: core/templates/core/privacy.html:59
-msgid ""
-"Donations are processed by PayPal. We do not receive or store your payment "
-"details. PayPal's own privacy policy applies to that transaction."
-msgstr ""
-
-#: core/templates/core/privacy.html:64
-msgid "Your rights"
-msgstr "আপনার অধিকার"
-
-#: core/templates/core/privacy.html:65
-msgid "You can:"
-msgstr "আপনি পারেন:"
-
-#: core/templates/core/privacy.html:67
-msgid "Export your session history from your profile page at any time."
-msgstr ""
-
-#: core/templates/core/privacy.html:68
-msgid ""
-"Delete your account by contacting us — all your data will be permanently "
-"removed."
-msgstr ""
-
-#: core/templates/core/privacy.html:69
-msgid "Use the app as a guest with no account and no data stored by us."
-msgstr ""
-
-#: core/templates/core/privacy.html:74
-msgid "Data storage"
-msgstr "ডেটা সঞ্চয়"
-
-#: core/templates/core/privacy.html:76
-msgid ""
-"Your data is stored on a secure server. We use Django's built-in security "
-"features including password hashing, CSRF protection, and session "
-"management."
-msgstr ""
-
-#: core/templates/core/privacy.html:81
-msgid "Contact"
-msgstr "যোগাযোগ"
-
-#: core/templates/core/privacy.html:83
-msgid "Questions about this policy? Reach us at"
-msgstr "এই নীতি সম্পর্কে প্রশ্ন? আমাদের সাথে যোগাযোগ করুন"
-
-#: core/templates/core/profile.html:28
+#: .\core\templates\core\profile.html:28
 msgid "Profile Picture"
 msgstr "প্রোফাইল ছবি"
 
-#: core/templates/core/profile.html:38
+#: .\core\templates\core\profile.html:38
 msgid "Save"
 msgstr "সংরক্ষণ করুন"
 
-#: core/templates/core/profile.html:44
+#: .\core\templates\core\profile.html:44
 msgid "Your Stats"
 msgstr "আপনার পরিসংখ্যান"
 
-#: core/templates/core/profile.html:46
+#: .\core\templates\core\profile.html:46
 msgid "Total sessions"
 msgstr "মোট সেশন"
 
-#: core/templates/core/profile.html:50
+#: .\core\templates\core\profile.html:50
 msgid "Minutes meditated"
 msgstr "ধ্যানের মিনিট"
 
-#: core/templates/core/profile.html:54
-msgid "Current streak"
-msgstr "বর্তমান ধারা"
-
-#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
-msgid "days"
-msgstr "দিন"
-
-#: core/templates/core/profile.html:58
-msgid "Longest streak"
-msgstr "দীর্ঘতম ধারা"
-
-#: core/templates/core/profile.html:65
+#: .\core\templates\core\profile.html:57
 msgid "Security"
 msgstr "নিরাপত্তা"
 
-#: core/templates/core/profile.html:67
+#: .\core\templates\core\profile.html:59
 msgid "Change Password"
 msgstr "পাসওয়ার্ড পরিবর্তন করুন"
 
-#: core/templates/core/profile.html:77
+#: .\core\templates\core\profile.html:73
 msgid "Session History"
 msgstr "সেশনের ইতিহাস"
 
-#: core/templates/core/profile.html:79
+#: .\core\templates\core\profile.html:75
 msgid "Export CSV"
 msgstr "CSV রপ্তানি করুন"
 
-#: core/templates/core/profile.html:90
+#: .\core\templates\core\profile.html:86
 msgid "Level"
 msgstr "স্তর"
 
-#: core/templates/core/register.html:8 core/templates/core/register.html:72
+#: .\core\templates\core\register.html:8 .\core\templates\core\register.html:72
 msgid "Create Account"
 msgstr "অ্যাকাউন্ট তৈরি করুন"
 
-#: core/templates/core/register.html:9
+#: .\core\templates\core\register.html:9
 msgid "Free forever. No credit card needed."
 msgstr "চিরকাল বিনামূল্যে। কোনো ক্রেডিট কার্ডের দরকার নেই।"
 
-#: core/templates/core/register.html:60
+#: .\core\templates\core\register.html:60
 msgid "Confirm password"
 msgstr "পাসওয়ার্ড নিশ্চিত করুন"
 
-#: core/templates/core/register.html:78
+#: .\core\templates\core\register.html:78
 msgid "Already have an account?"
 msgstr "ইতিমধ্যে একটি অ্যাকাউন্ট আছে?"
 
-#: core/templates/core/register.html:79
+#: .\core\templates\core\register.html:79
 msgid "Log in"
 msgstr "লগ ইন করুন"
 
-#: core/templates/core/session.html:19
+#: .\core\templates\core\session.html:19
 msgid "Configure Exercise"
 msgstr "ব্যায়াম কনফিগার করুন"
 
-#: core/templates/core/session.html:22
+#: .\core\templates\core\session.html:22
 msgid "Breathing Technique"
 msgstr "শ্বাসের কৌশল"
 
-#: core/templates/core/session.html:27
+#: .\core\templates\core\session.html:27
 msgid "Custom Manual Rhythm..."
 msgstr "কাস্টম ম্যানুয়াল রিদম..."
 
-#: core/templates/core/session.html:34
+#: .\core\templates\core\session.html:34
 msgid "Intensity Level"
 msgstr "তীব্রতার মাত্রা"
 
-#: core/templates/core/session.html:45
+#: .\core\templates\core\session.html:45
 msgid "Target Exercise Cycles"
 msgstr "টার্গেট ব্যায়াম চক্র"
 
-#: core/templates/core/session.html:53
+#: .\core\templates\core\session.html:53
 msgid "Initialize Breathing Tracker"
 msgstr "ব্রীদিং ট্র্যাকার শুরু করুন"
 
-#: core/templates/core/session.html:63
+#: .\core\templates\core\session.html:63
 msgid "Ready to Begin"
 msgstr "শুরু করার জন্য প্রস্তুত"
 
-#: core/templates/core/session.html:69
+#: .\core\templates\core\session.html:69
 msgid "Cycle"
 msgstr "চক্র"
 
-#: core/views.py:87
+#: .\core\views.py:104
 msgid "Hold"
 msgstr "ধরে রাখুন"
 
-#: core/views.py:89
+#: .\core\views.py:106
 msgid "Rest"
 msgstr "বিশ্রাম"
 
-#~ msgid ""
-#~ "Select an optimized medical pacing cycle or build your own manual tracking "
-#~ "rhythm."
-#~ msgstr ""
-#~ "একটি অপ্টিমাইজড মেডিকেল পেসিং চক্র চয়ন করুন বা আপনার নিজস্ব ম্যানুয়াল "
-#~ "ট্র্যাকিং রিদম তৈরি করুন।"
+#: .\core\templates\privacy.html:10
+msgid "Privacy Policy | Breathing Bot"
+msgstr "গোপনীয়তা নীতি | Breathing Bot"
 
-#~ msgid "Hold (Post-Inhale)"
-#~ msgstr "ধরে রাখুন (শ্বাস নেওয়ার পর)"
+#: .\core\templates\privacy.html:13
+msgid "Last updated: June 2026"
+msgstr "সর্বশেষ আপডেট: জুন ২০২৬"
 
-#~ msgid "Rest (Post-Exhale)"
-#~ msgstr "বিশ্রাম (শ্বাস ছাড়ার পর)"
+#: .\core\templates\privacy.html:16
+msgid "Note:"
+msgstr "দ্রষ্টব্য:"
+
+#: .\core\templates\privacy.html:16
+msgid "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience."
+msgstr "Breathing Bot বর্তমানে একটি পরীক্ষামূলক বিটা পর্যায়ে রয়েছে। বৈশিষ্ট্যগুলি আপডেট করা হতে পারে এবং আমরা অভিজ্ঞতার উন্নতি করার সাথে সাথে আপনার প্রতিক্রিয়া অত্যন্ত প্রশংসিত।"
+
+#: .\core\templates\privacy.html:22
+msgid "What We Collect"
+msgstr "আমরা যা সংগ্রহ করি"
+
+#: .\core\templates\privacy.html:23
+msgid "When you create an account, we securely store:"
+msgstr "আপনি যখন একটি অ্যাকাউন্ট তৈরি করেন, আমরা নিরাপদে সংরক্ষণ করি:"
+
+#: .\core\templates\privacy.html:25
+msgid "Account Credentials:"
+msgstr "অ্যাকাউন্টের শংসাপত্র:"
+
+#: .\core\templates\privacy.html:25
+msgid "Username and email address."
+msgstr "ব্যবহারকারীর নাম এবং ইমেল ঠিকানা।"
+
+#: .\core\templates\privacy.html:26
+msgid "Security:"
+msgstr "নিরাপত্তা:"
+
+#: .\core\templates\privacy.html:26
+msgid "Cryptographically hashed passwords (we never store or have access to your plain-text password)."
+msgstr "ক্রিপ্টোগ্রাফিকভাবে হ্যাশ করা পাসওয়ার্ড (আমরা কখনই আপনার প্লেইন-টেক্সট পাসওয়ার্ড সংরক্ষণ করি না বা এতে অ্যাক্সেস পাই না)।"
+
+#: .\core\templates\privacy.html:27
+msgid "Application Data:"
+msgstr "অ্যাপ্লিকেশন ডেটা:"
+
+#: .\core\templates\privacy.html:27
+msgid "Breathing and meditation session history (selected technique, completed cycles, and timestamps)."
+msgstr "শ্বাস-প্রশ্বাস এবং ধ্যানের সেশনের ইতিহাস (নির্বাচিত কৌশল, সম্পন্ন চক্র এবং টাইমস্ট্যাম্প)।"
+
+#: .\core\templates\privacy.html:28
+msgid "Preferences:"
+msgstr "পছন্দসমূহ:"
+
+#: .\core\templates\privacy.html:28
+msgid "Localized language preferences."
+msgstr "স্থানীয় ভাষার পছন্দসমূহ।"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile Assets:"
+msgstr "প্রোফাইল সম্পদ:"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile picture URL (an external link you provide — we do not host or store image files on our servers)."
+msgstr "প্রোফাইল ছবির URL (আপনার দেওয়া একটি বাহ্যিক লিঙ্ক — আমরা আমাদের সার্ভারে ইমেজ ফাইল হোস্ট বা সংরক্ষণ করি না)।"
+
+#: .\core\templates\privacy.html:34
+msgid "What We Do Not Do"
+msgstr "আমরা যা করি না"
+
+#: .\core\templates\privacy.html:36
+msgid "No Data Selling:"
+msgstr "কোনো ডেটা বিক্রি করা হয় না:"
+
+#: .\core\templates\privacy.html:36
+msgid "We do not sell your personal data to third parties."
+msgstr "আমরা তৃতীয় পক্ষের কাছে আপনার ব্যক্তিগত ডেটা বিক্রি করি না।"
+
+#: .\core\templates\privacy.html:37
+msgid "No Data Sharing:"
+msgstr "কোনো ডেটা শেয়ার করা হয় না:"
+
+#: .\core\templates\privacy.html:37
+msgid "We do not share your individual session history or usage habits with advertisers."
+msgstr "আমরা বিজ্ঞাপনদাতাদের সাথে আপনার ব্যক্তিগত সেশনের ইতিহাস বা ব্যবহারের অভ্যাস শেয়ার করি না।"
+
+#: .\core\templates\privacy.html:38
+msgid "No Medical Tracking:"
+msgstr "কোনো মেডিকেল ট্র্যাকিং করা হয় না:"
+
+#: .\core\templates\privacy.html:38
+msgid "We do not collect medical or biometric health metrics."
+msgstr "আমরা কোনো চিকিৎসা বা বায়োমেট্রিক স্বাস্থ্য মেট্রিক্স সংগ্রহ করি না।"
+
+#: .\core\templates\privacy.html:43
+msgid "Advertising & Third-Party Cookies"
+msgstr "বিজ্ঞাপন এবং তৃতীয় পক্ষের কুকিজ"
+
+#: .\core\templates\privacy.html:44
+msgid "Breathing Bot displays minimalist advertisements to support free access to the application."
+msgstr "বিনামূল্যে অ্যাপ্লিকেশন অ্যাক্সেস সমর্থন করার জন্য Breathing Bot মিনিমালিস্ট বিজ্ঞাপন প্রদর্শন করে।"
+
+#: .\core\templates\privacy.html:47
+msgid "We partner with Google AdSense (or similar networks) to serve advertisements."
+msgstr "বিজ্ঞাপন পরিবেশন করার জন্য আমরা Google AdSense (বা অনুরূপ নেটওয়ার্ক) এর সাথে অংশীদারি করি।"
+
+#: .\core\templates\privacy.html:48
+msgid "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads."
+msgstr "বিজ্ঞাপন অংশীদাররা প্রাসঙ্গিক বিজ্ঞাপন পরিবেশন করতে ডিভাইসের শনাক্তকারী, আইপি ঠিকানা এবং ব্রাউজিং আচরণ সংগ্রহ করতে কুকি এবং অনুরূপ প্রযুক্তি ব্যবহার করতে পারে।"
+
+#: .\core\templates\privacy.html:49
+msgid "Your Privacy First: Logged-in users' specific breathing session data is strictly isolated and never shared with advertisers."
+msgstr "আপনার গোপনীয়তা প্রথমে: লগ-ইন করা ব্যবহারকারীদের নির্দিষ্ট শ্বাস-প্রশ্বাসের সেশনের ডেটা কঠোরভাবে বিচ্ছিন্ন এবং বিজ্ঞাপনদাতাদের সাথে কখনই শেয়ার করা হয় না।"
+
+#: .\core\templates\privacy.html:50
+msgid "Control:"
+msgstr "নিয়ন্ত্রণ:"
+
+#: .\core\templates\privacy.html:50
+msgid "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences."
+msgstr "আপনি আপনার Google অ্যাকাউন্ট সেটিংস বা আপনার স্থানীয় ডিভাইসের বিজ্ঞাপন ট্র্যাকিং পছন্দের মাধ্যমে যেকোনো সময় ব্যক্তিগতকৃত বিজ্ঞাপন থেকে অপ্ট-আউট করতে পারেন।"
+
+#: .\core\templates\privacy.html:55
+msgid "Guest Users"
+msgstr "অতিথি ব্যবহারকারী"
+
+#: .\core\templates\privacy.html:56
+msgid "If you utilize Breathing Bot without creating an account, we store exactly one functional cookie—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized."
+msgstr "আপনি যদি অ্যাকাউন্ট তৈরি না করে Breathing Bot ব্যবহার করেন, তবে আমরা ঠিক একটি কার্যকরী কুকি—আপনার ভাষার পছন্দ—সংরক্ষণ করি যাতে ইন্টারফেসটি ভিজিটের মধ্যে আপনার নির্বাচিত ভাষা মনে রাখে। কোনো ব্যক্তিগত পরিচয়, সেশন লগ এবং কাস্টম ট্র্যাকিং প্যারামিটার শুরু করা হয় না।"
+
+#: .\core\templates\privacy.html:61
+msgid "Your Rights & Data Autonomy"
+msgstr "আপনার অধিকার ও ডেটা স্বায়ত্তশাসন"
+
+#: .\core\templates\privacy.html:62
+msgid "We believe in absolute data ownership. At any time, you can:"
+msgstr "আমরা সম্পূর্ণ ডেটা মালিকানায় বিশ্বাস করি। যেকোনো সময়, আপনি করতে পারেন:"
+
+#: .\core\templates\privacy.html:64
+msgid "Export Your Data:"
+msgstr "আপনার ডেটা রপ্তানি করুন:"
+
+#: .\core\templates\privacy.html:64
+msgid "Download your entire compiled session history directly from your profile page."
+msgstr "আপনার প্রোফাইল পৃষ্ঠা থেকে সরাসরি আপনার সম্পূর্ণ সংকলিত সেশনের ইতিহাস ডাউনলোড করুন।"
+
+#: .\core\templates\privacy.html:65
+msgid "Absolute Deletion:"
+msgstr "স্থায়ীভাবে মুছে ফেলা:"
+
+#: .\core\templates\privacy.html:65
+msgid "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases."
+msgstr "আপনার প্রোফাইল ড্যাশবোর্ডের মাধ্যমে অবিলম্বে আপনার অ্যাকাউন্টটি মুছে ফেলুন, যা আমাদের সক্রিয় ডেটাবেস থেকে আপনার সম্পূর্ণ ব্যবহারকারীর রেকর্ড স্থায়ীভাবে মুছে ফেলে।"
+
+#: .\core\templates\privacy.html:66
+msgid "Anonymous Access:"
+msgstr "বেনামী অ্যাক্সেস:"
+
+#: .\core\templates\privacy.html:66
+msgid "Use the application entirely as a guest without an account to minimize data presence."
+msgstr "ডেটার উপস্থিতি কমাতে কোনো অ্যাকাউন্ট ছাড়াই সম্পূর্ণ অতিথি হিসেবে অ্যাপ্লিকেশনটি ব্যবহার করুন।"
+
+#: .\core\templates\privacy.html:71
+msgid "Infrastructure & Data Storage"
+msgstr "অবকাঠামো এবং ডেটা স্টোরেজ"
+
+#: .\core\templates\privacy.html:72
+msgid "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware."
+msgstr "আপনার ডেটা প্রোডাকশন-গ্রেড, সুরক্ষিত ক্লাউড সার্ভার পরিবেশে সংরক্ষিত হয়। আমরা এন্টারপ্রাইজ-স্ট্যান্ডার্ড সুরক্ষা বাস্তবায়ন ব্যবহার করি, যার মধ্যে রয়েছে স্বয়ংক্রিয় ডেটাবেস নেটওয়ার্ক আইসোলেশন, ক্রস-সাইট স্ক্রিপ্টিং গার্ড এবং সুরক্ষিত সেশন ম্যানেজমেন্ট মিডলওয়্যার।"
+
+#: .\core\templates\privacy.html:77
+msgid "Contact & Support"
+msgstr "যোগাযোগ এবং সহায়তা"
+
+#: .\core\templates\privacy.html:78
+msgid "If you have questions regarding this policy or data handling practices, please contact us at:"
+msgstr "এই নীতি বা ডেটা হ্যান্ডলিং অনুশীলনের বিষয়ে আপনার কোনো প্রশ্ন থাকলে, অনুগ্রহ করে আমাদের সাথে এখানে যোগাযোগ করুন:"

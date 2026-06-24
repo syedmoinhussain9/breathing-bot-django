@@ -2,69 +2,68 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-08 09:03+0000\n"
+"POT-Creation-Date: 2026-06-24 17:09+0530\n"
 "Language: fr\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-#: core/presets.py:5
+#: .\core\presets.py:5
 msgid "1-4-2 Lung Conditioning Pattern"
 msgstr "Modèle de conditionnement pulmonaire 1-4-2"
 
-#: core/presets.py:13
+#: .\core\presets.py:13
 msgid ""
 "A classic respiratory conditioning sequence designed to maximize blood "
 "oxygenation and expand vital lung capacity over time."
 msgstr ""
-"Une séquence classique de conditionnement respiratoire conçue pour maximiser"
-" l'oxygénation du sang et augmenter la capacité pulmonaire vitale au fil du "
+"Une séquence classique de conditionnement respiratoire conçue pour maximiser "
+"l'oxygénation du sang et augmenter la capacité pulmonaire vitale au fil du "
 "temps."
 
-#: core/presets.py:16
+#: .\core\presets.py:16
 msgid "Box Breathing (Navy SEAL Tactical Clarity)"
 msgstr "Respiration carrée (Clarté tactique des Navy SEAL)"
 
-#: core/presets.py:24
+#: .\core\presets.py:24
 msgid ""
 "The gold standard for high-stress grounding. Equal duration phases clear "
 "cortisol, settle racing hearts, and restore sharp mental clarity."
 msgstr ""
 "La référence absolue pour l'ancrage en cas de stress intense. Des phases de "
-"durée égale éliminent le cortisol, calment les battements de cœur rapides et"
-" rétablissent une clarté mentale aiguisée."
+"durée égale éliminent le cortisol, calment les battements de cœur rapides et "
+"rétablissent une clarté mentale aiguisée."
 
-#: core/presets.py:27
+#: .\core\presets.py:27
 msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
 msgstr "Relaxation 4-7-8 (Tranquillisant du système nerveux)"
 
-#: core/presets.py:35
+#: .\core\presets.py:35
 msgid ""
-"Acts as a natural chemical brake for your sympathetic nervous system. Highly"
-" recommended for severe anxiety and floating into deep sleep."
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly "
+"recommended for severe anxiety and floating into deep sleep."
 msgstr ""
-"Agit comme un frein chimique naturel pour votre système nerveux sympathique."
-" Fortement recommandé pour l'anxiété sévère et pour glisser dans un sommeil "
+"Agit comme un frein chimique naturel pour votre système nerveux sympathique. "
+"Fortement recommandé pour l'anxiété sévère et pour glisser dans un sommeil "
 "profond."
 
-#: core/presets.py:38
+#: .\core\presets.py:38
 msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
 msgstr ""
-"Respiration cohérente / résonnante (Soulagement de l'asthme et de la "
-"panique)"
+"Respiration cohérente / résonnante (Soulagement de l'asthme et de la panique)"
 
-#: core/presets.py:46
+#: .\core\presets.py:46
 msgid ""
 "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
 "hold times make this perfectly safe for active asthma management."
 msgstr ""
-"Équilibre le nerf vague et optimise la variabilité de la fréquence cardiaque"
-" (HRV). L'absence de temps de rétention rend cet exercice parfaitement sûr "
+"Équilibre le nerf vague et optimise la variabilité de la fréquence cardiaque "
+"(HRV). L'absence de temps de rétention rend cet exercice parfaitement sûr "
 "pour la gestion active de l'asthme."
 
-#: core/presets.py:49
+#: .\core\presets.py:49
 msgid "Tactical Breathing (Sustained Equilibrium)"
 msgstr "Respiration tactique (Équilibre soutenu)"
 
-#: core/presets.py:57
+#: .\core\presets.py:57
 msgid ""
 "A specialized, low-overhead holding variant used by responders to reduce "
 "somatic anxiety without inducing lightheadedness."
@@ -72,12 +71,12 @@ msgstr ""
 "Une variante de rétention spécialisée et légère utilisée par les "
 "intervenants pour réduire l'anxiété somatique sans provoquer de vertiges."
 
-#: core/presets.py:60
+#: .\core\presets.py:60
 msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
 msgstr ""
 "Respiration lèvres pincées (Soulagement de la BPCO et du piégeage d'air)"
 
-#: core/presets.py:68
+#: .\core\presets.py:68
 msgid ""
 "Creates passive mechanical backpressure to keep bronchial pathways open. "
 "Crucial for individuals with emphysema or structural shortness of breath."
@@ -86,11 +85,11 @@ msgstr ""
 "bronchiques ouvertes. Crucial pour les personnes souffrant d'emphysème ou "
 "d'essoufflement structurel."
 
-#: core/presets.py:71
+#: .\core\presets.py:71
 msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
 msgstr "Soupir physiologique (Interception de l'hyperventilation aiguë)"
 
-#: core/presets.py:79
+#: .\core\presets.py:79
 msgid ""
 "Simulates the biological double-inhale reflex to instantly re-inflate "
 "collapsed alveoli and maximize immediate carbon dioxide unloading."
@@ -99,11 +98,11 @@ msgstr ""
 "instantanément les alvéoles affaissées et maximiser l'évacuation immédiate "
 "du dioxyde de carbone."
 
-#: core/presets.py:82
+#: .\core\presets.py:82
 msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
 msgstr "Expiration cardiaque prolongée (Hypertension / Tonus vagal)"
 
-#: core/presets.py:90
+#: .\core\presets.py:90
 msgid ""
 "Exhale window is mathematically doubled relative to inhale. Maximizes "
 "acetylcholinergic outflow to safely downregulate heart rate and blood "
@@ -113,94 +112,85 @@ msgstr ""
 "l'inspiration. Maximise le flux acétylcholinergique pour abaisser en toute "
 "sécurité la fréquence cardiaque et la pression artérielle."
 
-#: core/templates/404.html:5
+#: .\core\templates\404.html:5
 msgid "Page Not Found"
 msgstr "Page introuvable"
 
-#: core/templates/404.html:13
+#: .\core\templates\404.html:13
 msgid "Page not found"
 msgstr "Page introuvable"
 
-#: core/templates/404.html:15
+#: .\core\templates\404.html:15
 msgid ""
-"The page you're looking for doesn't exist. It may have been moved or the URL"
-" might be wrong."
+"The page you're looking for doesn't exist. It may have been moved or the URL "
+"might be wrong."
 msgstr ""
 "La page que vous recherchez n'existe pas. Elle a peut-être été déplacée ou "
 "l'URL est incorrecte."
 
-#: core/templates/404.html:20
+#: .\core\templates\404.html:20
 msgid "Go home"
 msgstr "Retour à l'accueil"
 
-#: core/templates/404.html:23
+#: .\core\templates\404.html:23
 msgid "Start breathing"
 msgstr "Commencer à respirer"
 
-#: core/templates/base.html:46
+#: .\core\templates\base.html:47
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing"
 msgstr "Respiration"
 
-#: core/templates/base.html:51 core/templates/core/free.html:22
+#: .\core\templates\base.html:52 .\core\templates\core\free.html:22
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing Exercises"
 msgstr "Exercices de respiration"
 
-#: core/templates/base.html:56 core/templates/core/dashboard.html:34
-#: core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+#: .\core\templates\base.html:57 .\core\templates\core\dashboard.html:34
+#: .\core\templates\core\free.html:33 .\core\templates\core\panicroom.html:8
 msgid "Coherent Breathing"
 msgstr "Respiration cohérente"
 
-#: core/templates/base.html:61 core/templates/core/dashboard.html:46
-#: core/templates/core/free.html:44 core/templates/core/meditate.html:9
+#: .\core\templates\base.html:62 .\core\templates\core\dashboard.html:46
+#: .\core\templates\core\free.html:44 .\core\templates\core\meditate.html:9
 msgid "Meditation Room"
 msgstr "Salle de méditation"
 
-#: core/templates/base.html:70
+#: .\core\templates\base.html:71
 msgid "Dashboard"
 msgstr "Tableau de bord"
 
-#: core/templates/base.html:75
+#: .\core\templates\base.html:76
 msgid "Profile"
 msgstr "Profil"
 
-#: core/templates/base.html:82
-msgid "Donate"
-msgstr "Faire un don"
-
-#: core/templates/base.html:96
+#: .\core\templates\base.html:91
 msgid "Language"
 msgstr "Langue"
 
-#: core/templates/base.html:110
+#: .\core\templates\base.html:105
 msgid "Logout"
 msgstr "Déconnexion"
 
-#: core/templates/base.html:115
+#: .\core\templates\base.html:110
 msgid "Register"
 msgstr "S'inscrire"
 
-#: core/templates/base.html:130
+#: .\core\templates\base.html:125
 msgid "Designed for accessibility. Completely free and open-source."
 msgstr "Conçu pour l'accessibilité. Entièrement gratuit et open-source."
 
-#: core/templates/base.html:133 core/templates/core/privacy.html:5
-#: core/templates/core/privacy.html:10
+#: .\core\templates\base.html:128
 msgid "Privacy Policy"
 msgstr "Politique de confidentialité"
 
-#: core/templates/base.html:135
-msgid "Support Us"
-msgstr "Nous soutenir"
-
-#: core/templates/core/dashboard.html:9
+#: .\core\templates\core\dashboard.html:9
 msgid "Welcome to Breathing Bot"
 msgstr "Bienvenue sur Breathing Bot"
 
-#: core/templates/core/dashboard.html:10
+#: .\core\templates\core\dashboard.html:10
 msgid ""
 "Free breathing exercises, coherent breathing, and meditation — all in one "
 "place."
@@ -208,275 +198,243 @@ msgstr ""
 "Exercices de respiration gratuits, respiration cohérente et méditation — "
 "tout en un seul endroit."
 
-#: core/templates/core/dashboard.html:22
+#: .\core\templates\core\dashboard.html:22
 msgid "Guided Breathing"
 msgstr "Respiration guidée"
 
-#: core/templates/core/dashboard.html:23
+#: .\core\templates\core\dashboard.html:23
 msgid "Guest"
 msgstr "Invité"
 
-#: core/templates/core/dashboard.html:35
+#: .\core\templates\core\dashboard.html:35
 msgid "Panic Relief"
 msgstr "Soulagement de la panique"
 
-#: core/templates/core/dashboard.html:47
+#: .\core\templates\core\dashboard.html:47
 msgid "Brown Noise"
 msgstr "Bruit brun"
 
-#: core/templates/core/dashboard.html:58
+#: .\core\templates\core\dashboard.html:58
 msgid "Free User Login"
 msgstr "Connexion utilisateur gratuit"
 
-#: core/templates/core/dashboard.html:59
+#: .\core\templates\core\dashboard.html:59
 msgid "Login to save progress and track history."
 msgstr ""
 "Connectez-vous pour sauvegarder vos progrès et suivre votre historique."
 
-#: core/templates/core/dashboard.html:64
+#: .\core\templates\core\dashboard.html:64
 msgid "Invalid username or password."
 msgstr "Nom d'utilisateur ou mot de passe invalide."
 
-#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+#: .\core\templates\core\dashboard.html:67
+#: .\core\templates\core\register.html:22
 msgid "Username"
 msgstr "Nom d'utilisateur"
 
-#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+#: .\core\templates\core\dashboard.html:69
+#: .\core\templates\core\register.html:48
 msgid "Password"
 msgstr "Mot de passe"
 
-#: core/templates/core/dashboard.html:70
+#: .\core\templates\core\dashboard.html:70
 msgid "Login"
 msgstr "Se connecter"
 
-#: core/templates/core/dashboard.html:74
+#: .\core\templates\core\dashboard.html:74
 msgid "Create account"
 msgstr "Créer un compte"
 
-#: core/templates/core/dashboard.html:75
+#: .\core\templates\core\dashboard.html:75
 msgid "Forgot password?"
 msgstr "Mot de passe oublié ?"
 
-#: core/templates/core/donate.html:11
-msgid "Support Breathing Bot"
-msgstr "Soutenir Breathing Bot"
+#: .\core\templates\core\delete_confirm.html:7
+#: .\core\templates\core\profile.html:63
+#, fuzzy
+#| msgid "Create Account"
+msgid "Delete Account"
+msgstr "Créer un compte"
 
-#: core/templates/core/donate.html:13
+#: .\core\templates\core\delete_confirm.html:8
 msgid ""
-"Breathing Bot is free and will always stay free. If it has helped you, "
-"consider supporting its development."
+"Are you sure you want to delete your account? This action is permanent and "
+"cannot be undone."
 msgstr ""
-"Breathing Bot est gratuit et le restera toujours. S'il vous a aidé, "
-"envisagez de soutenir son développement."
 
-#: core/templates/core/donate.html:27
-msgid ""
-"One-time donation. Any amount helps keep the server running and development "
-"going."
+#: .\core\templates\core\delete_confirm.html:13
+#, fuzzy
+#| msgid "Create Account"
+msgid "Yes, Delete My Account"
+msgstr "Créer un compte"
+
+#: .\core\templates\core\delete_confirm.html:14
+msgid "Cancel"
 msgstr ""
-"Don unique. Tout montant aide à maintenir le serveur et le développement."
 
-#: core/templates/core/donate.html:41
-msgid "Donate with PayPal"
-msgstr "Faire un don avec PayPal"
-
-#: core/templates/core/donate.html:42
-msgid "Coming Soon"
-msgstr "Bientôt disponible"
-
-#: core/templates/core/donate.html:48
-msgid "Other ways to help"
-msgstr "D'autres façons d'aider"
-
-#: core/templates/core/donate.html:55
-msgid "Spread the word"
-msgstr "Faites passer le mot"
-
-#: core/templates/core/donate.html:56
-msgid "Share Breathing Bot with someone who might benefit from it."
-msgstr "Partagez Breathing Bot avec quelqu'un qui pourrait en bénéficier."
-
-#: core/templates/core/donate.html:64
-msgid "Report bugs"
-msgstr "Signaler des bugs"
-
-#: core/templates/core/donate.html:65
-msgid "Found something broken? Let us know so we can fix it."
-msgstr ""
-"Vous avez trouvé quelque chose de cassé ? Dites-le nous pour que nous "
-"puissions le corriger."
-
-#: core/templates/core/donate.html:73
-msgid "Give feedback"
-msgstr "Donner un avis"
-
-#: core/templates/core/donate.html:74
-msgid "Ideas for new features or languages are always welcome."
-msgstr ""
-"Les idées pour de nouvelles fonctionnalités ou langues sont toujours les "
-"bienvenues."
-
-#: core/templates/core/donate.html:81
-msgid "Thank you for using Breathing Bot."
-msgstr "Merci d'utiliser Breathing Bot."
-
-#: core/templates/core/free.html:9
+#: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "Bon retour"
 
-#: core/templates/core/free.html:10
+#: .\core\templates\core\free.html:10
 #, fuzzy
 #| msgid "Ready to Begin"
 msgid "Ready to breathe?"
 msgstr "Prêt à respirer ?"
 
-#: core/templates/core/free.html:53
+#: .\core\templates\core\free.html:53
 msgid "Recent Sessions"
 msgstr "Sessions récentes"
 
-#: core/templates/core/free.html:55
+#: .\core\templates\core\free.html:55
 msgid "View all"
 msgstr "Voir tout"
 
-#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#: .\core\templates\core\free.html:63 .\core\templates\core\profile.html:85
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Technique"
 msgstr "Technique"
 
-#: core/templates/core/free.html:64 core/templates/core/profile.html:91
-msgid "Cycles / Min"
-msgstr "Cycles / Min"
+#: .\core\templates\core\free.html:64 .\core\templates\core\profile.html:87
+msgid "Minutes"
+msgstr ""
 
-#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+#: .\core\templates\core\free.html:65 .\core\templates\core\profile.html:84
 msgid "Date"
 msgstr "Date"
 
-#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+#: .\core\templates\core\free.html:78 .\core\templates\core\profile.html:125
 msgid ""
 "No sessions yet. Complete a breathing exercise to see your history here."
 msgstr ""
 "Pas encore de sessions. Terminez un exercice de respiration pour voir votre "
 "historique ici."
 
-#: core/templates/core/meditate.html:10
-msgid "Brown noise"
+#: .\core\templates\core\meditate.html:10
+msgid "Pure sound, no distractions"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:15
+msgid "Sound texture"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:17
+#, fuzzy
+#| msgid "Brown Noise"
+msgid "Brown"
 msgstr "Bruit brun"
 
-#: core/templates/core/meditate.html:10
-msgid "mathematically generated, no files"
-msgstr "Généré mathématiquement, sans fichiers"
+#: .\core\templates\core\meditate.html:18
+msgid "White"
+msgstr ""
 
-#: core/templates/core/meditate.html:14
-#, fuzzy
-#| msgid "Session has ended"
-msgid "Session duration"
-msgstr "Durée de la session"
+#: .\core\templates\core\meditate.html:19
+msgid "Pink"
+msgstr ""
 
-#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17
-#: core/templates/core/meditate.html:18 core/templates/core/meditate.html:19
-#: core/templates/core/meditate.html:20
-msgid "min"
-msgstr "min"
+#: .\core\templates\core\meditate.html:25
+msgid "Duration"
+msgstr ""
 
-#: core/templates/core/meditate.html:23
+#: .\core\templates\core\meditate.html:35
 msgid "Custom minutes (1–120)"
 msgstr "Minutes personnalisées (1–120)"
 
-#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
-msgid "select a duration to begin"
-msgstr "sélectionnez une durée pour commencer"
+#: .\core\templates\core\meditate.html:46
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to begin"
+msgstr "Prêt à commencer"
 
-#: core/templates/core/meditate.html:31
-msgid "please select a duration first"
-msgstr "veuillez d'abord sélectionner une durée"
+#: .\core\templates\core\meditate.html:51
+#, fuzzy
+#| msgid "Total sessions"
+msgid "Start Session"
+msgstr "Sessions totales"
 
-#: core/templates/core/meditate.html:32
-msgid "session in progress"
-msgstr "session en cours"
-
-#: core/templates/core/meditate.html:33
-msgid "session complete"
-msgstr "session terminée"
-
-#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
-msgid "Start"
-msgstr "Démarrer"
-
-#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+#: .\core\templates\core\meditate.html:54
+#: .\core\templates\core\panicroom.html:32
 msgid "Stop"
 msgstr "Arrêter"
 
-#: core/templates/core/panicroom.html:9
+#: .\core\templates\core\panicroom.html:9
 msgid "6 seconds in, 6 seconds out. Calms the nervous system."
 msgstr ""
 "6 secondes inspiration, 6 secondes expiration. Apaise le système nerveux."
 
-#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+#: .\core\templates\core\panicroom.html:14 .\core\views.py:103
+#: .\core\views.py:134
 msgid "Inhale"
 msgstr "Inspirez"
 
-#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+#: .\core\templates\core\panicroom.html:15 .\core\views.py:105
+#: .\core\views.py:135
 msgid "Exhale"
 msgstr "Expirez"
 
-#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+#: .\core\templates\core\panicroom.html:16 .\core\views.py:107
+#: .\core\views.py:136
 msgid "Session has ended"
 msgstr "La session est terminée"
 
-#: core/templates/core/panicroom.html:23
+#: .\core\templates\core\panicroom.html:23
 msgid "Ready"
 msgstr "Prêt"
 
-#: core/templates/core/password_reset_complete.html:8
+#: .\core\templates\core\panicroom.html:29
+msgid "Start"
+msgstr "Démarrer"
+
+#: .\core\templates\core\password_reset_complete.html:8
 msgid "Password updated"
 msgstr "Mot de passe mis à jour"
 
-#: core/templates/core/password_reset_complete.html:9
+#: .\core\templates\core\password_reset_complete.html:9
 msgid "Your password has been set. You can now log in with your new password."
 msgstr ""
 "Votre mot de passe a été défini. Vous pouvez maintenant vous connecter avec "
 "votre nouveau mot de passe."
 
-#: core/templates/core/password_reset_complete.html:10
-#: core/templates/core/password_reset_done.html:12
-#: core/templates/core/password_reset_form.html:22
+#: .\core\templates\core\password_reset_complete.html:10
+#: .\core\templates\core\password_reset_done.html:12
+#: .\core\templates\core\password_reset_form.html:22
 msgid "Back to login"
 msgstr "Retour à la connexion"
 
-#: core/templates/core/password_reset_confirm.html:7
+#: .\core\templates\core\password_reset_confirm.html:7
 msgid "Choose New Password"
 msgstr "Choisir un nouveau mot de passe"
 
-#: core/templates/core/password_reset_confirm.html:8
+#: .\core\templates\core\password_reset_confirm.html:8
 msgid "Enter your new password below."
 msgstr "Entrez votre nouveau mot de passe ci-dessous."
 
-#: core/templates/core/password_reset_confirm.html:16
+#: .\core\templates\core\password_reset_confirm.html:16
 msgid "New password"
 msgstr "Nouveau mot de passe"
 
-#: core/templates/core/password_reset_confirm.html:27
+#: .\core\templates\core\password_reset_confirm.html:27
 msgid "Confirm new password"
 msgstr "Confirmer le nouveau mot de passe"
 
-#: core/templates/core/password_reset_confirm.html:37
+#: .\core\templates\core\password_reset_confirm.html:37
 msgid "Set New Password"
 msgstr "Définir le nouveau mot de passe"
 
-#: core/templates/core/password_reset_confirm.html:41
+#: .\core\templates\core\password_reset_confirm.html:41
 msgid "This reset link is invalid or has expired."
 msgstr "Ce lien de réinitialisation est invalide ou a expiré."
 
-#: core/templates/core/password_reset_confirm.html:42
+#: .\core\templates\core\password_reset_confirm.html:42
 msgid "Request a new link"
 msgstr "Demander un nouveau lien"
 
-#: core/templates/core/password_reset_done.html:8
+#: .\core\templates\core\password_reset_done.html:8
 msgid "Check your email"
 msgstr "Vérifiez votre e-mail"
 
-#: core/templates/core/password_reset_done.html:10
+#: .\core\templates\core\password_reset_done.html:10
 msgid ""
 "If an account exists for that address, a password reset link has been sent. "
 "Check your spam folder if you don't see it."
@@ -484,290 +442,296 @@ msgstr ""
 "Si un compte existe pour cette adresse, un lien de réinitialisation de mot "
 "de passe a été envoyé. Vérifiez votre dossier spam si vous ne le voyez pas."
 
-#: core/templates/core/password_reset_form.html:7
+#: .\core\templates\core\password_reset_form.html:7
 msgid "Reset Password"
 msgstr "Réinitialiser le mot de passe"
 
-#: core/templates/core/password_reset_form.html:8
+#: .\core\templates\core\password_reset_form.html:8
 msgid "Enter your email and we'll send you a reset link."
 msgstr ""
 "Entrez votre e-mail et nous vous enverrons un lien de réinitialisation."
 
-#: core/templates/core/password_reset_form.html:14
-#: core/templates/core/register.html:35
+#: .\core\templates\core\password_reset_form.html:14
+#: .\core\templates\core\register.html:35
 msgid "Email address"
 msgstr "Adresse e-mail"
 
-#: core/templates/core/password_reset_form.html:17
+#: .\core\templates\core\password_reset_form.html:17
 msgid "Send Reset Link"
 msgstr "Envoyer le lien de réinitialisation"
 
-#: core/templates/core/privacy.html:11
-msgid "Last updated"
-msgstr "Dernière mise à jour"
-
-#: core/templates/core/privacy.html:16
-msgid "What we collect"
-msgstr "Ce que nous collectons"
-
-#: core/templates/core/privacy.html:17
-msgid "When you create an account, we store:"
-msgstr ""
-
-#: core/templates/core/privacy.html:19
-msgid "Username and email address"
-msgstr ""
-
-#: core/templates/core/privacy.html:20
-msgid "Hashed password (we never store your plain password)"
-msgstr ""
-
-#: core/templates/core/privacy.html:21
-msgid "Breathing and meditation session history (technique, cycles, date)"
-msgstr ""
-
-#: core/templates/core/privacy.html:22
-msgid "Language preference"
-msgstr ""
-
-#: core/templates/core/privacy.html:23
-msgid "Profile picture URL (a link you provide — we don't store image files)"
-msgstr ""
-
-#: core/templates/core/privacy.html:28
-msgid "What we don't do"
-msgstr "Ce que nous ne faisons pas"
-
-#: core/templates/core/privacy.html:30
-msgid "We do not sell your personal data to third parties."
-msgstr ""
-
-#: core/templates/core/privacy.html:31
-msgid ""
-"We do not share your session history or health-related data with "
-"advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:32
-msgid "We do not collect health or medical data."
-msgstr ""
-
-#: core/templates/core/privacy.html:37
-msgid "Advertising"
-msgstr "Publicité"
-
-#: core/templates/core/privacy.html:39
-msgid ""
-"Breathing Bot displays ads to support free access to the app. Our ad "
-"partners may use cookies and similar technologies to show relevant ads based"
-" on your browsing activity."
-msgstr ""
-
-#: core/templates/core/privacy.html:42
-msgid "We use Google AdSense (or similar) to serve ads."
-msgstr ""
-
-#: core/templates/core/privacy.html:43
-msgid ""
-"Ad partners may collect device identifiers, IP address, and browsing "
-"behaviour."
-msgstr ""
-
-#: core/templates/core/privacy.html:44
-msgid ""
-"You can opt out of personalised ads via your Google account settings or your"
-" device's ad settings."
-msgstr ""
-
-#: core/templates/core/privacy.html:45
-msgid ""
-"Logged-in users' breathing session data is never shared with advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:50
-msgid "Guest users"
-msgstr "Utilisateurs invités"
-
-#: core/templates/core/privacy.html:52
-msgid ""
-"If you use Breathing Bot without creating an account, we store one "
-"functional cookie — your language preference — so the app remembers your "
-"chosen language between visits. No personal data, no session history, and no"
-" tracking by us beyond what ad partners may collect."
-msgstr ""
-
-#: core/templates/core/privacy.html:57
-msgid "Donations (PayPal)"
-msgstr "Dons (PayPal)"
-
-#: core/templates/core/privacy.html:59
-msgid ""
-"Donations are processed by PayPal. We do not receive or store your payment "
-"details. PayPal's own privacy policy applies to that transaction."
-msgstr ""
-
-#: core/templates/core/privacy.html:64
-msgid "Your rights"
-msgstr "Vos droits"
-
-#: core/templates/core/privacy.html:65
-msgid "You can:"
-msgstr "Vous pouvez :"
-
-#: core/templates/core/privacy.html:67
-msgid "Export your session history from your profile page at any time."
-msgstr ""
-
-#: core/templates/core/privacy.html:68
-msgid ""
-"Delete your account by contacting us — all your data will be permanently "
-"removed."
-msgstr ""
-
-#: core/templates/core/privacy.html:69
-msgid "Use the app as a guest with no account and no data stored by us."
-msgstr ""
-
-#: core/templates/core/privacy.html:74
-msgid "Data storage"
-msgstr "Stockage des données"
-
-#: core/templates/core/privacy.html:76
-msgid ""
-"Your data is stored on a secure server. We use Django's built-in security "
-"features including password hashing, CSRF protection, and session "
-"management."
-msgstr ""
-
-#: core/templates/core/privacy.html:81
-msgid "Contact"
-msgstr "Contact"
-
-#: core/templates/core/privacy.html:83
-msgid "Questions about this policy? Reach us at"
-msgstr "Des questions sur cette politique ? Contactez-nous à"
-
-#: core/templates/core/profile.html:28
+#: .\core\templates\core\profile.html:28
 msgid "Profile Picture"
 msgstr "Photo de profil"
 
-#: core/templates/core/profile.html:38
+#: .\core\templates\core\profile.html:38
 msgid "Save"
 msgstr "Enregistrer"
 
-#: core/templates/core/profile.html:44
+#: .\core\templates\core\profile.html:44
 msgid "Your Stats"
 msgstr "Vos statistiques"
 
-#: core/templates/core/profile.html:46
+#: .\core\templates\core\profile.html:46
 msgid "Total sessions"
 msgstr "Sessions totales"
 
-#: core/templates/core/profile.html:50
+#: .\core\templates\core\profile.html:50
 msgid "Minutes meditated"
 msgstr "Minutes méditées"
 
-#: core/templates/core/profile.html:54
-msgid "Current streak"
-msgstr "Série actuelle"
-
-#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
-msgid "days"
-msgstr "jours"
-
-#: core/templates/core/profile.html:58
-msgid "Longest streak"
-msgstr "Série la plus longue"
-
-#: core/templates/core/profile.html:65
+#: .\core\templates\core\profile.html:57
 msgid "Security"
 msgstr "Sécurité"
 
-#: core/templates/core/profile.html:67
+#: .\core\templates\core\profile.html:59
 msgid "Change Password"
 msgstr "Changer le mot de passe"
 
-#: core/templates/core/profile.html:77
+#: .\core\templates\core\profile.html:73
 msgid "Session History"
 msgstr "Historique des sessions"
 
-#: core/templates/core/profile.html:79
+#: .\core\templates\core\profile.html:75
 msgid "Export CSV"
 msgstr "Exporter CSV"
 
-#: core/templates/core/profile.html:90
+#: .\core\templates\core\profile.html:86
 msgid "Level"
 msgstr "Niveau"
 
-#: core/templates/core/register.html:8 core/templates/core/register.html:72
+#: .\core\templates\core\register.html:8 .\core\templates\core\register.html:72
 msgid "Create Account"
 msgstr "Créer un compte"
 
-#: core/templates/core/register.html:9
+#: .\core\templates\core\register.html:9
 msgid "Free forever. No credit card needed."
 msgstr "Gratuit pour toujours. Pas besoin de carte de crédit."
 
-#: core/templates/core/register.html:60
+#: .\core\templates\core\register.html:60
 msgid "Confirm password"
 msgstr "Confirmer le mot de passe"
 
-#: core/templates/core/register.html:78
+#: .\core\templates\core\register.html:78
 msgid "Already have an account?"
 msgstr "Vous avez déjà un compte ?"
 
-#: core/templates/core/register.html:79
+#: .\core\templates\core\register.html:79
 msgid "Log in"
 msgstr "Se connecter"
 
-#: core/templates/core/session.html:19
+#: .\core\templates\core\session.html:19
 msgid "Configure Exercise"
 msgstr "Configurer l'exercice"
 
-#: core/templates/core/session.html:22
+#: .\core\templates\core\session.html:22
 msgid "Breathing Technique"
 msgstr "Technique de respiration"
 
-#: core/templates/core/session.html:27
+#: .\core\templates\core\session.html:27
 msgid "Custom Manual Rhythm..."
 msgstr "Rythme manuel personnalisé..."
 
-#: core/templates/core/session.html:34
+#: .\core\templates\core\session.html:34
 msgid "Intensity Level"
 msgstr "Niveau d'intensité"
 
-#: core/templates/core/session.html:45
+#: .\core\templates\core\session.html:45
 msgid "Target Exercise Cycles"
 msgstr "Cycles d'exercices cibles"
 
-#: core/templates/core/session.html:53
+#: .\core\templates\core\session.html:53
 msgid "Initialize Breathing Tracker"
 msgstr "Initialiser le suivi respiratoire"
 
-#: core/templates/core/session.html:63
+#: .\core\templates\core\session.html:63
 msgid "Ready to Begin"
 msgstr "Prêt à commencer"
 
-#: core/templates/core/session.html:69
+#: .\core\templates\core\session.html:69
 msgid "Cycle"
 msgstr "Cycle"
 
-#: core/views.py:87
+#: .\core\views.py:104
 msgid "Hold"
 msgstr "Retenez"
 
-#: core/views.py:89
+#: .\core\views.py:106
 msgid "Rest"
 msgstr "Reposez"
 
-#~ msgid ""
-#~ "Select an optimized medical pacing cycle or build your own manual tracking "
-#~ "rhythm."
-#~ msgstr ""
-#~ "Sélectionnez un cycle de rythme médical optimisé ou créez votre propre "
-#~ "rythme de suivi manuel."
+#: .\core\templates\privacy.html:10
+msgid "Privacy Policy | Breathing Bot"
+msgstr "Politique de Confidentialité | Breathing Bot"
 
-#~ msgid "Hold (Post-Inhale)"
-#~ msgstr "Retenez (Post-Inspiration)"
+#: .\core\templates\privacy.html:13
+msgid "Last updated: June 2026"
+msgstr "Dernière mise à jour : Juin 2026"
 
-#~ msgid "Rest (Post-Exhale)"
-#~ msgstr "Reposez (Post-Expiration)"
+#: .\core\templates\privacy.html:16
+msgid "Note:"
+msgstr "Note :"
+
+#: .\core\templates\privacy.html:16
+msgid "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience."
+msgstr "Breathing Bot est actuellement en phase bêta expérimentale. Les fonctionnalités peuvent être mises à jour, et vos commentaires sont grandement appréciés pour améliorer l'expérience."
+
+#: .\core\templates\privacy.html:22
+msgid "What We Collect"
+msgstr "Ce Que Nous Collectons"
+
+#: .\core\templates\privacy.html:23
+msgid "When you create an account, we securely store:"
+msgstr "Lorsque vous créez un compte, nous stockons en toute sécurité :"
+
+#: .\core\templates\privacy.html:25
+msgid "Account Credentials:"
+msgstr "Identifiants de Compte :"
+
+#: .\core\templates\privacy.html:25
+msgid "Username and email address."
+msgstr "Nom d'utilisateur et adresse e-mail."
+
+#: .\core\templates\privacy.html:26
+msgid "Security:"
+msgstr "Sécurité :"
+
+#: .\core\templates\privacy.html:26
+msgid "Cryptographically hashed passwords (we never store or have access to your plain-text password)."
+msgstr "Mots de passe hachés de manière cryptographique (nous ne stockons jamais et n'avons jamais accès à votre mot de passe en texte clair)."
+
+#: .\core\templates\privacy.html:27
+msgid "Application Data:"
+msgstr "Données de l'Application :"
+
+#: .\core\templates\privacy.html:27
+msgid "Breathing and meditation session history (selected technique, completed cycles, and timestamps)."
+msgstr "Historique des sessions de respiration et de méditation (technique sélectionnée, cycles complétés et horodatages)."
+
+#: .\core\templates\privacy.html:28
+msgid "Preferences:"
+msgstr "Préférences :"
+
+#: .\core\templates\privacy.html:28
+msgid "Localized language preferences."
+msgstr "Préférences de langue localisées."
+
+#: .\core\templates\privacy.html:29
+msgid "Profile Assets:"
+msgstr "Ressources du Profil :"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile picture URL (an external link you provide — we do not host or store image files on our servers)."
+msgstr "URL de la photo de profil (un lien externe que vous fournissez — nous n'hébergeons ni ne stockons de fichiers d'image sur nos serveurs)."
+
+#: .\core\templates\privacy.html:34
+msgid "What We Do Not Do"
+msgstr "Ce Que Nous Ne Faisons Pas"
+
+#: .\core\templates\privacy.html:36
+msgid "No Data Selling:"
+msgstr "Pas de Vente de Données :"
+
+#: .\core\templates\privacy.html:36
+msgid "We do not sell your personal data to third parties."
+msgstr "Nous ne vendons pas vos données personnelles à des tiers."
+
+#: .\core\templates\privacy.html:37
+msgid "No Data Sharing:"
+msgstr "Pas de Partage de Données :"
+
+#: .\core\templates\privacy.html:37
+msgid "We do not share your individual session history or usage habits with advertisers."
+msgstr "Nous ne partageons pas votre historique de session individuel ou vos habitudes d'utilisation avec des annonceurs."
+
+#: .\core\templates\privacy.html:38
+msgid "No Medical Tracking:"
+msgstr "Pas de Suivi Médical :"
+
+#: .\core\templates\privacy.html:38
+msgid "We do not collect medical or biometric health metrics."
+msgstr "Nous ne collectons pas de paramètres de santé médicaux ou biométriques."
+
+#: .\core\templates\privacy.html:43
+msgid "Advertising & Third-Party Cookies"
+msgstr "Publicité et Cookies Tiers"
+
+#: .\core\templates\privacy.html:44
+msgid "Breathing Bot displays minimalist advertisements to support free access to the application."
+msgstr "Breathing Bot affiche des publicités minimalistes pour soutenir l'accès gratuit à l'application."
+
+#: .\core\templates\privacy.html:47
+msgid "We partner with Google AdSense (or similar networks) to serve advertisements."
+msgstr "Nous nous associons à Google AdSense (ou des réseaux similaires) pour diffuser des publicités."
+
+#: .\core\templates\privacy.html:48
+msgid "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads."
+msgstr "Les partenaires publicitaires peuvent utiliser des cookies et des technologies similaires pour collecter des identifiants d'appareils, des adresses IP et des comportements de navigation afin de diffuser des annonces pertinentes."
+
+#: .\core\templates\privacy.html:49
+msgid "Your Privacy First: Logged-in users' specific breathing session data is strictly isolated and never shared with advertisers."
+msgstr "Votre Confidentialité d'Abord : Les données de session de respiration spécifiques des utilisateurs connectés sont strictement isolées et ne sont jamais partagées avec les annonceurs."
+
+#: .\core\templates\privacy.html:50
+msgid "Control:"
+msgstr "Contrôle :"
+
+#: .\core\templates\privacy.html:50
+msgid "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences."
+msgstr "Vous pouvez désactiver la publicité personnalisée à tout moment via les paramètres de votre compte Google ou les préférences de suivi des publicités de votre appareil local."
+
+#: .\core\templates\privacy.html:55
+msgid "Guest Users"
+msgstr "Utilisateurs Invités"
+
+#: .\core\templates\privacy.html:56
+msgid "If you utilize Breathing Bot without creating an account, we store exactly one functional cookie—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized."
+msgstr "Si vous utilisez Breathing Bot sans créer de compte, nous stockons exactement un cookie fonctionnel — votre préférence linguistique — afin que l'interface se souvienne de la langue choisie entre vos visites. Aucun identifiant personnel, aucun journal de session et aucun paramètre de suivi personnalisé ne sont initialisés."
+
+#: .\core\templates\privacy.html:61
+msgid "Your Rights & Data Autonomy"
+msgstr "Vos Droits et Autonomie des Données"
+
+#: .\core\templates\privacy.html:62
+msgid "We believe in absolute data ownership. At any time, you can:"
+msgstr "Nous croyons en la propriété absolue des données. À tout moment, vous pouvez :"
+
+#: .\core\templates\privacy.html:64
+msgid "Export Your Data:"
+msgstr "Exporter Vos Données :"
+
+#: .\core\templates\privacy.html:64
+msgid "Download your entire compiled session history directly from your profile page."
+msgstr "Téléchargez l'intégralité de votre historique de session compilé directement depuis votre page de profil."
+
+#: .\core\templates\privacy.html:65
+msgid "Absolute Deletion:"
+msgstr "Suppression Absolue :"
+
+#: .\core\templates\privacy.html:65
+msgid "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases."
+msgstr "Supprimez votre compte instantanément via votre tableau de bord de profil, ce qui supprime définitivement l'intégralité de votre dossier utilisateur de nos bases de données actives."
+
+#: .\core\templates\privacy.html:66
+msgid "Anonymous Access:"
+msgstr "Accès Anonyme :"
+
+#: .\core\templates\privacy.html:66
+msgid "Use the application entirely as a guest without an account to minimize data presence."
+msgstr "Utilisez l'application entièrement en tant qu'invité sans compte pour minimiser la présence de données."
+
+#: .\core\templates\privacy.html:71
+msgid "Infrastructure & Data Storage"
+msgstr "Infrastructure et Stockage des Données"
+
+#: .\core\templates\privacy.html:72
+msgid "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware."
+msgstr "Vos données sont stockées dans des environnements de serveurs cloud sécurisés et de qualité de production. Nous exploitons des implémentations de sécurité conformes aux normes de l'entreprise, notamment l'isolement automatisé du réseau de bases de données, des protections contre les scripts intersites et un middleware de gestion de session sécurisé."
+
+#: .\core\templates\privacy.html:77
+msgid "Contact & Support"
+msgstr "Contact & Support"
+
+#: .\core\templates\privacy.html:78
+msgid "If you have questions regarding this policy or data handling practices, please contact us at:"
+msgstr "Si vous avez des questions concernant cette politique ou les pratiques de traitement des données, veuillez nous contacter à l'adresse suivante :"

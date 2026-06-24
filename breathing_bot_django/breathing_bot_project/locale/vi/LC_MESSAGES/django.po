@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-06-08 10:04+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-24 17:09+0530\n"
 "PO-Revision-Date: 2026-06-08 16:15+0700\n"
 "Last-Translator: AI Collaborator\n"
 "Language-Team: Vietnamese\n"
@@ -11,645 +12,712 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: core/presets.py:5
+#: .\core\presets.py:5
 msgid "1-4-2 Lung Conditioning Pattern"
 msgstr "Phương pháp rèn luyện phổi 1-4-2"
 
-#: core/presets.py:13
-msgid "A classic respiratory conditioning sequence designed to maximize blood oxygenation and expand vital lung capacity over time."
-msgstr "Một chuỗi bài tập điều hòa hô hấp cổ điển được thiết kế để tối đa hóa lượng oxy trong máu và tăng dung tích phổi theo thời gian."
+#: .\core\presets.py:13
+msgid ""
+"A classic respiratory conditioning sequence designed to maximize blood "
+"oxygenation and expand vital lung capacity over time."
+msgstr ""
+"Một chuỗi bài tập điều hòa hô hấp cổ điển được thiết kế để tối đa hóa lượng "
+"oxy trong máu và tăng dung tích phổi theo thời gian."
 
-#: core/presets.py:16
+#: .\core\presets.py:16
 msgid "Box Breathing (Navy SEAL Tactical Clarity)"
-msgstr "Box Breathing (Kỹ thuật tăng cường sự tập trung của đặc nhiệm Navy SEAL)"
+msgstr ""
+"Box Breathing (Kỹ thuật tăng cường sự tập trung của đặc nhiệm Navy SEAL)"
 
-#: core/presets.py:24
-msgid "The gold standard for high-stress grounding. Equal duration phases clear cortisol, settle racing hearts, and restore sharp mental clarity."
-msgstr "Tiêu chuẩn vàng giúp trấn tĩnh khi căng thẳng cao độ. Các giai đoạn có thời gian bằng nhau giúp loại bỏ cortisol, ổn định nhịp tim và phục hồi sự minh mẫn."
+#: .\core\presets.py:24
+msgid ""
+"The gold standard for high-stress grounding. Equal duration phases clear "
+"cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr ""
+"Tiêu chuẩn vàng giúp trấn tĩnh khi căng thẳng cao độ. Các giai đoạn có thời "
+"gian bằng nhau giúp loại bỏ cortisol, ổn định nhịp tim và phục hồi sự minh "
+"mẫn."
 
-#: core/presets.py:27
+#: .\core\presets.py:27
 msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
 msgstr "Kỹ thuật thư giãn 4-7-8 (Giúp trấn an hệ thần kinh)"
 
-#: core/presets.py:35
-msgid "Acts as a natural chemical brake for your sympathetic nervous system. Highly recommended for severe anxiety and floating into deep sleep."
-msgstr "Hoạt động như một 'phanh hóa học' tự nhiên cho hệ thần kinh giao cảm. Rất khuyến khích cho tình trạng lo âu nghiêm trọng và đi vào giấc ngủ sâu."
+#: .\core\presets.py:35
+msgid ""
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly "
+"recommended for severe anxiety and floating into deep sleep."
+msgstr ""
+"Hoạt động như một 'phanh hóa học' tự nhiên cho hệ thần kinh giao cảm. Rất "
+"khuyến khích cho tình trạng lo âu nghiêm trọng và đi vào giấc ngủ sâu."
 
-#: core/presets.py:38
+#: .\core\presets.py:38
 msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
 msgstr "Thở cộng hưởng (Hỗ trợ giảm hen suyễn & hoảng loạn)"
 
-#: core/presets.py:46
-msgid "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero hold times make this perfectly safe for active asthma management."
-msgstr "Cân bằng dây thần kinh phế vị và tối ưu hóa sự biến thiên nhịp tim (HRV). Không nín thở giúp phương pháp này hoàn toàn an toàn cho người bị hen suyễn."
+#: .\core\presets.py:46
+msgid ""
+"Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
+"hold times make this perfectly safe for active asthma management."
+msgstr ""
+"Cân bằng dây thần kinh phế vị và tối ưu hóa sự biến thiên nhịp tim (HRV). "
+"Không nín thở giúp phương pháp này hoàn toàn an toàn cho người bị hen suyễn."
 
-#: core/presets.py:49
+#: .\core\presets.py:49
 msgid "Tactical Breathing (Sustained Equilibrium)"
 msgstr "Thở chiến thuật (Duy trì trạng thái cân bằng)"
 
-#: core/presets.py:57
-msgid "A specialized, low-overhead holding variant used by responders to reduce somatic anxiety without inducing lightheadedness."
-msgstr "Một biến thể nín thở chuyên biệt được các nhân viên phản ứng nhanh sử dụng để giảm lo âu thể chất mà không gây choáng váng."
+#: .\core\presets.py:57
+msgid ""
+"A specialized, low-overhead holding variant used by responders to reduce "
+"somatic anxiety without inducing lightheadedness."
+msgstr ""
+"Một biến thể nín thở chuyên biệt được các nhân viên phản ứng nhanh sử dụng "
+"để giảm lo âu thể chất mà không gây choáng váng."
 
-#: core/presets.py:60
+#: .\core\presets.py:60
 msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
 msgstr "Thở chúm môi (Hỗ trợ COPD & giảm khí tồn dư)"
 
-#: core/presets.py:68
-msgid "Creates passive mechanical backpressure to keep bronchial pathways open. Crucial for individuals with emphysema or structural shortness of breath."
-msgstr "Tạo áp lực ngược cơ học thụ động để giữ cho đường phế quản luôn mở. Rất quan trọng đối với người bị khí phế thũng hoặc khó thở do cấu trúc phổi."
+#: .\core\presets.py:68
+msgid ""
+"Creates passive mechanical backpressure to keep bronchial pathways open. "
+"Crucial for individuals with emphysema or structural shortness of breath."
+msgstr ""
+"Tạo áp lực ngược cơ học thụ động để giữ cho đường phế quản luôn mở. Rất quan "
+"trọng đối với người bị khí phế thũng hoặc khó thở do cấu trúc phổi."
 
-#: core/presets.py:71
+#: .\core\presets.py:71
 msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
 msgstr "Tiếng thở dài sinh lý (Ngắt quãng tình trạng tăng thông khí cấp tính)"
 
-#: core/presets.py:79
-msgid "Simulates the biological double-inhale reflex to instantly re-inflate collapsed alveoli and maximize immediate carbon dioxide unloading."
-msgstr "Mô phỏng phản xạ hít vào kép sinh học để làm phồng lại các phế nang bị xẹp và tối đa hóa việc giải phóng khí carbon dioxide ngay lập tức."
+#: .\core\presets.py:79
+msgid ""
+"Simulates the biological double-inhale reflex to instantly re-inflate "
+"collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr ""
+"Mô phỏng phản xạ hít vào kép sinh học để làm phồng lại các phế nang bị xẹp "
+"và tối đa hóa việc giải phóng khí carbon dioxide ngay lập tức."
 
-#: core/presets.py:82
+#: .\core\presets.py:82
 msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
 msgstr "Thở ra kéo dài (Hỗ trợ cao huyết áp / Tăng cường dây thần kinh phế vị)"
 
-#: core/presets.py:90
-msgid "Exhale window is mathematically doubled relative to inhale. Maximizes acetylcholinergic outflow to safely downregulate heart rate and blood pressure."
-msgstr "Thời gian thở ra được kéo dài gấp đôi so với hít vào. Tối đa hóa dòng acetylcholinergic để điều chỉnh giảm nhịp tim và huyết áp một cách an toàn."
+#: .\core\presets.py:90
+msgid ""
+"Exhale window is mathematically doubled relative to inhale. Maximizes "
+"acetylcholinergic outflow to safely downregulate heart rate and blood "
+"pressure."
+msgstr ""
+"Thời gian thở ra được kéo dài gấp đôi so với hít vào. Tối đa hóa dòng "
+"acetylcholinergic để điều chỉnh giảm nhịp tim và huyết áp một cách an toàn."
 
-#: core/templates/404.html:5
+#: .\core\templates\404.html:5
 msgid "Page Not Found"
 msgstr "Không tìm thấy trang"
 
-#: core/templates/404.html:13
+#: .\core\templates\404.html:13
 msgid "Page not found"
 msgstr "Không tìm thấy trang"
 
-#: core/templates/404.html:15
-msgid "The page you're looking for doesn't exist. It may have been moved or the URL might be wrong."
-msgstr "Trang bạn đang tìm không tồn tại. Nó có thể đã được di chuyển hoặc URL không chính xác."
+#: .\core\templates\404.html:15
+msgid ""
+"The page you're looking for doesn't exist. It may have been moved or the URL "
+"might be wrong."
+msgstr ""
+"Trang bạn đang tìm không tồn tại. Nó có thể đã được di chuyển hoặc URL không "
+"chính xác."
 
-#: core/templates/404.html:20
+#: .\core\templates\404.html:20
 msgid "Go home"
 msgstr "Về trang chủ"
 
-#: core/templates/404.html:23
+#: .\core\templates\404.html:23
 msgid "Start breathing"
 msgstr "Bắt đầu tập thở"
 
-#: core/templates/base.html:47
+#: .\core\templates\base.html:47
 msgid "Breathing"
 msgstr "Hô hấp"
 
-#: core/templates/base.html:52 core/templates/core/free.html:22
+#: .\core\templates\base.html:52 .\core\templates\core\free.html:22
 msgid "Breathing Exercises"
 msgstr "Bài tập thở"
 
-#: core/templates/base.html:57 core/templates/core/dashboard.html:34 core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+#: .\core\templates\base.html:57 .\core\templates\core\dashboard.html:34
+#: .\core\templates\core\free.html:33 .\core\templates\core\panicroom.html:8
 msgid "Coherent Breathing"
 msgstr "Thở cộng hưởng"
 
-#: core/templates/base.html:62 core/templates/core/dashboard.html:46 core/templates/core/free.html:44 core/templates/core/meditate.html:9
+#: .\core\templates\base.html:62 .\core\templates\core\dashboard.html:46
+#: .\core\templates\core\free.html:44 .\core\templates\core\meditate.html:9
 msgid "Meditation Room"
 msgstr "Phòng thiền"
 
-#: core/templates/base.html:71
+#: .\core\templates\base.html:71
 msgid "Dashboard"
 msgstr "Bảng điều khiển"
 
-#: core/templates/base.html:76
+#: .\core\templates\base.html:76
 msgid "Profile"
 msgstr "Hồ sơ"
 
-#: core/templates/base.html:83
-msgid "Donate"
-msgstr "Ủng hộ"
-
-#: core/templates/base.html:97
+#: .\core\templates\base.html:91
 msgid "Language"
 msgstr "Ngôn ngữ"
 
-#: core/templates/base.html:111
+#: .\core\templates\base.html:105
 msgid "Logout"
 msgstr "Đăng xuất"
 
-#: core/templates/base.html:116
+#: .\core\templates\base.html:110
 msgid "Register"
 msgstr "Đăng ký"
 
-#: core/templates/base.html:131
+#: .\core\templates\base.html:125
 msgid "Designed for accessibility. Completely free and open-source."
-msgstr "Được thiết kế cho khả năng truy cập. Hoàn toàn miễn phí và mã nguồn mở."
+msgstr ""
+"Được thiết kế cho khả năng truy cập. Hoàn toàn miễn phí và mã nguồn mở."
 
-#: core/templates/base.html:134 core/templates/core/privacy.html:5 core/templates/core/privacy.html:10
+#: .\core\templates\base.html:128
 msgid "Privacy Policy"
 msgstr "Chính sách bảo mật"
 
-#: core/templates/base.html:136
-msgid "Support Us"
-msgstr "Ủng hộ chúng tôi"
-
-#: core/templates/core/dashboard.html:9
+#: .\core\templates\core\dashboard.html:9
 msgid "Welcome to Breathing Bot"
 msgstr "Chào mừng đến với Breathing Bot"
 
-#: core/templates/core/dashboard.html:10
-msgid "Free breathing exercises, coherent breathing, and meditation — all in one place."
-msgstr "Các bài tập thở, thở cộng hưởng và thiền định miễn phí — tất cả tại một nơi."
+#: .\core\templates\core\dashboard.html:10
+msgid ""
+"Free breathing exercises, coherent breathing, and meditation — all in one "
+"place."
+msgstr ""
+"Các bài tập thở, thở cộng hưởng và thiền định miễn phí — tất cả tại một nơi."
 
-#: core/templates/core/dashboard.html:22
+#: .\core\templates\core\dashboard.html:22
 msgid "Guided Breathing"
 msgstr "Thở có hướng dẫn"
 
-#: core/templates/core/dashboard.html:23
+#: .\core\templates\core\dashboard.html:23
 msgid "Guest"
 msgstr "Khách"
 
-#: core/templates/core/dashboard.html:35
+#: .\core\templates\core\dashboard.html:35
 msgid "Panic Relief"
 msgstr "Giảm hoảng loạn"
 
-#: core/templates/core/dashboard.html:47
+#: .\core\templates\core\dashboard.html:47
 msgid "Brown Noise"
 msgstr "Tiếng ồn nâu (Brown Noise)"
 
-#: core/templates/core/dashboard.html:58
+#: .\core\templates\core\dashboard.html:58
 msgid "Free User Login"
 msgstr "Đăng nhập người dùng"
 
-#: core/templates/core/dashboard.html:59
+#: .\core\templates\core\dashboard.html:59
 msgid "Login to save progress and track history."
 msgstr "Đăng nhập để lưu tiến trình và theo dõi lịch sử."
 
-#: core/templates/core/dashboard.html:64
+#: .\core\templates\core\dashboard.html:64
 msgid "Invalid username or password."
 msgstr "Tên người dùng hoặc mật khẩu không hợp lệ."
 
-#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+#: .\core\templates\core\dashboard.html:67
+#: .\core\templates\core\register.html:22
 msgid "Username"
 msgstr "Tên người dùng"
 
-#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+#: .\core\templates\core\dashboard.html:69
+#: .\core\templates\core\register.html:48
 msgid "Password"
 msgstr "Mật khẩu"
 
-#: core/templates/core/dashboard.html:70
+#: .\core\templates\core\dashboard.html:70
 msgid "Login"
 msgstr "Đăng nhập"
 
-#: core/templates/core/dashboard.html:74
+#: .\core\templates\core\dashboard.html:74
 msgid "Create account"
 msgstr "Tạo tài khoản"
 
-#: core/templates/core/dashboard.html:75
+#: .\core\templates\core\dashboard.html:75
 msgid "Forgot password?"
 msgstr "Quên mật khẩu?"
 
-#: core/templates/core/donate.html:11
-msgid "Support Breathing Bot"
-msgstr "Ủng hộ Breathing Bot"
+#: .\core\templates\core\delete_confirm.html:7
+#: .\core\templates\core\profile.html:63
+#, fuzzy
+#| msgid "Create Account"
+msgid "Delete Account"
+msgstr "Tạo tài khoản"
 
-#: core/templates/core/donate.html:13
-msgid "Breathing Bot is free and will always stay free. If it has helped you, consider supporting its development."
-msgstr "Breathing Bot miễn phí và sẽ luôn miễn phí. Nếu ứng dụng hữu ích với bạn, hãy cân nhắc ủng hộ sự phát triển của nó."
+#: .\core\templates\core\delete_confirm.html:8
+msgid ""
+"Are you sure you want to delete your account? This action is permanent and "
+"cannot be undone."
+msgstr ""
 
-#: core/templates/core/donate.html:27
-msgid "One-time donation. Any amount helps keep the server running and development going."
-msgstr "Ủng hộ một lần. Bất kỳ khoản đóng góp nào cũng giúp duy trì máy chủ và sự phát triển của ứng dụng."
+#: .\core\templates\core\delete_confirm.html:13
+#, fuzzy
+#| msgid "Create Account"
+msgid "Yes, Delete My Account"
+msgstr "Tạo tài khoản"
 
-#: core/templates/core/donate.html:41
-msgid "Donate with PayPal"
-msgstr "Ủng hộ qua PayPal"
+#: .\core\templates\core\delete_confirm.html:14
+msgid "Cancel"
+msgstr ""
 
-#: core/templates/core/donate.html:42
-msgid "Coming Soon"
-msgstr "Sắp ra mắt"
-
-#: core/templates/core/donate.html:48
-msgid "Other ways to help"
-msgstr "Các cách khác để giúp đỡ"
-
-#: core/templates/core/donate.html:55
-msgid "Spread the word"
-msgstr "Chia sẻ ứng dụng"
-
-#: core/templates/core/donate.html:56
-msgid "Share Breathing Bot with someone who might benefit from it."
-msgstr "Chia sẻ Breathing Bot với những người có thể cần đến nó."
-
-#: core/templates/core/donate.html:64
-msgid "Report bugs"
-msgstr "Báo cáo lỗi"
-
-#: core/templates/core/donate.html:65
-msgid "Found something broken? Let us know so we can fix it."
-msgstr "Tìm thấy lỗi? Hãy cho chúng tôi biết để khắc phục."
-
-#: core/templates/core/donate.html:73
-msgid "Give feedback"
-msgstr "Gửi phản hồi"
-
-#: core/templates/core/donate.html:74
-msgid "Ideas for new features or languages are always welcome."
-msgstr "Mọi ý tưởng cho các tính năng hoặc ngôn ngữ mới đều được hoan nghênh."
-
-#: core/templates/core/donate.html:81
-msgid "Thank you for using Breathing Bot."
-msgstr "Cảm ơn bạn đã sử dụng Breathing Bot."
-
-#: core/templates/core/free.html:9
+#: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "Chào mừng bạn đã quay lại"
 
-#: core/templates/core/free.html:10
+#: .\core\templates\core\free.html:10
 msgid "Ready to breathe?"
 msgstr "Sẵn sàng tập thở?"
 
-#: core/templates/core/free.html:53
+#: .\core\templates\core\free.html:53
 msgid "Recent Sessions"
 msgstr "Phiên gần đây"
 
-#: core/templates/core/free.html:55
+#: .\core\templates\core\free.html:55
 msgid "View all"
 msgstr "Xem tất cả"
 
-#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#: .\core\templates\core\free.html:63 .\core\templates\core\profile.html:85
 msgid "Technique"
 msgstr "Kỹ thuật"
 
-#: core/templates/core/free.html:64 core/templates/core/profile.html:91
-msgid "Cycles / Min"
-msgstr "Chu kỳ / Phút"
+#: .\core\templates\core\free.html:64 .\core\templates\core\profile.html:87
+msgid "Minutes"
+msgstr ""
 
-#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+#: .\core\templates\core\free.html:65 .\core\templates\core\profile.html:84
 msgid "Date"
 msgstr "Ngày"
 
-#: core/templates/core/free.html:78 core/templates/core/profile.html:129
-msgid "No sessions yet. Complete a breathing exercise to see your history here."
-msgstr "Chưa có phiên nào. Hãy hoàn thành một bài tập thở để xem lịch sử tại đây."
+#: .\core\templates\core\free.html:78 .\core\templates\core\profile.html:125
+msgid ""
+"No sessions yet. Complete a breathing exercise to see your history here."
+msgstr ""
+"Chưa có phiên nào. Hãy hoàn thành một bài tập thở để xem lịch sử tại đây."
 
-#: core/templates/core/meditate.html:10
-msgid "Brown noise"
-msgstr "Tiếng ồn nâu"
+#: .\core\templates\core\meditate.html:10
+msgid "Pure sound, no distractions"
+msgstr ""
 
-#: core/templates/core/meditate.html:10
-msgid "mathematically generated, no files"
-msgstr "được tạo bằng thuật toán, không tệp tin"
+#: .\core\templates\core\meditate.html:15
+msgid "Sound texture"
+msgstr ""
 
-#: core/templates/core/meditate.html:14
-msgid "Session duration"
-msgstr "Thời lượng phiên"
+#: .\core\templates\core\meditate.html:17
+#, fuzzy
+#| msgid "Brown Noise"
+msgid "Brown"
+msgstr "Tiếng ồn nâu (Brown Noise)"
 
-#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17 core/templates/core/meditate.html:18 core/templates/core/meditate.html:19 core/templates/core/meditate.html:20
-msgid "min"
-msgstr "phút"
+#: .\core\templates\core\meditate.html:18
+msgid "White"
+msgstr ""
 
-#: core/templates/core/meditate.html:23
+#: .\core\templates\core\meditate.html:19
+msgid "Pink"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:25
+msgid "Duration"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:35
 msgid "Custom minutes (1–120)"
 msgstr "Tùy chỉnh phút (1–120)"
 
-#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
-msgid "select a duration to begin"
-msgstr "chọn thời lượng để bắt đầu"
+#: .\core\templates\core\meditate.html:46
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to begin"
+msgstr "Sẵn sàng bắt đầu"
 
-#: core/templates/core/meditate.html:31
-msgid "please select a duration first"
-msgstr "vui lòng chọn thời lượng trước"
+#: .\core\templates\core\meditate.html:51
+#, fuzzy
+#| msgid "Total sessions"
+msgid "Start Session"
+msgstr "Tổng số phiên"
 
-#: core/templates/core/meditate.html:32
-msgid "session in progress"
-msgstr "phiên đang diễn ra"
-
-#: core/templates/core/meditate.html:33
-msgid "session complete"
-msgstr "phiên đã hoàn thành"
-
-#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
-msgid "Start"
-msgstr "Bắt đầu"
-
-#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+#: .\core\templates\core\meditate.html:54
+#: .\core\templates\core\panicroom.html:32
 msgid "Stop"
 msgstr "Dừng"
 
-#: core/templates/core/panicroom.html:9
+#: .\core\templates\core\panicroom.html:9
 msgid "6 seconds in, 6 seconds out. Calms the nervous system."
 msgstr "Hít vào 6 giây, thở ra 6 giây. Làm dịu hệ thần kinh."
 
-#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+#: .\core\templates\core\panicroom.html:14 .\core\views.py:103
+#: .\core\views.py:134
 msgid "Inhale"
 msgstr "Hít vào"
 
-#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+#: .\core\templates\core\panicroom.html:15 .\core\views.py:105
+#: .\core\views.py:135
 msgid "Exhale"
 msgstr "Thở ra"
 
-#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+#: .\core\templates\core\panicroom.html:16 .\core\views.py:107
+#: .\core\views.py:136
 msgid "Session has ended"
 msgstr "Phiên đã kết thúc"
 
-#: core/templates/core/panicroom.html:23
+#: .\core\templates\core\panicroom.html:23
 msgid "Ready"
 msgstr "Sẵn sàng"
 
-#: core/templates/core/password_reset_complete.html:8
+#: .\core\templates\core\panicroom.html:29
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: .\core\templates\core\password_reset_complete.html:8
 msgid "Password updated"
 msgstr "Đã cập nhật mật khẩu"
 
-#: core/templates/core/password_reset_complete.html:9
+#: .\core\templates\core\password_reset_complete.html:9
 msgid "Your password has been set. You can now log in with your new password."
-msgstr "Mật khẩu của bạn đã được thiết lập. Bạn có thể đăng nhập bằng mật khẩu mới."
+msgstr ""
+"Mật khẩu của bạn đã được thiết lập. Bạn có thể đăng nhập bằng mật khẩu mới."
 
-#: core/templates/core/password_reset_complete.html:10 core/templates/core/password_reset_done.html:12 core/templates/core/password_reset_form.html:22
+#: .\core\templates\core\password_reset_complete.html:10
+#: .\core\templates\core\password_reset_done.html:12
+#: .\core\templates\core\password_reset_form.html:22
 msgid "Back to login"
 msgstr "Quay lại đăng nhập"
 
-#: core/templates/core/password_reset_confirm.html:7
+#: .\core\templates\core\password_reset_confirm.html:7
 msgid "Choose New Password"
 msgstr "Chọn mật khẩu mới"
 
-#: core/templates/core/password_reset_confirm.html:8
+#: .\core\templates\core\password_reset_confirm.html:8
 msgid "Enter your new password below."
 msgstr "Nhập mật khẩu mới của bạn bên dưới."
 
-#: core/templates/core/password_reset_confirm.html:16
+#: .\core\templates\core\password_reset_confirm.html:16
 msgid "New password"
 msgstr "Mật khẩu mới"
 
-#: core/templates/core/password_reset_confirm.html:27
+#: .\core\templates\core\password_reset_confirm.html:27
 msgid "Confirm new password"
 msgstr "Xác nhận mật khẩu mới"
 
-#: core/templates/core/password_reset_confirm.html:37
+#: .\core\templates\core\password_reset_confirm.html:37
 msgid "Set New Password"
 msgstr "Thiết lập mật khẩu mới"
 
-#: core/templates/core/password_reset_confirm.html:41
+#: .\core\templates\core\password_reset_confirm.html:41
 msgid "This reset link is invalid or has expired."
 msgstr "Liên kết đặt lại mật khẩu không hợp lệ hoặc đã hết hạn."
 
-#: core/templates/core/password_reset_confirm.html:42
+#: .\core\templates\core\password_reset_confirm.html:42
 msgid "Request a new link"
 msgstr "Yêu cầu liên kết mới"
 
-#: core/templates/core/password_reset_done.html:8
+#: .\core\templates\core\password_reset_done.html:8
 msgid "Check your email"
 msgstr "Kiểm tra email của bạn"
 
-#: core/templates/core/password_reset_done.html:10
-msgid "If an account exists for that address, a password reset link has been sent. Check your spam folder if you don't see it."
-msgstr "Nếu tài khoản tồn tại, liên kết đặt lại mật khẩu đã được gửi. Kiểm tra thư mục spam nếu bạn không thấy email."
+#: .\core\templates\core\password_reset_done.html:10
+msgid ""
+"If an account exists for that address, a password reset link has been sent. "
+"Check your spam folder if you don't see it."
+msgstr ""
+"Nếu tài khoản tồn tại, liên kết đặt lại mật khẩu đã được gửi. Kiểm tra thư "
+"mục spam nếu bạn không thấy email."
 
-#: core/templates/core/password_reset_form.html:7
+#: .\core\templates\core\password_reset_form.html:7
 msgid "Reset Password"
 msgstr "Đặt lại mật khẩu"
 
-#: core/templates/core/password_reset_form.html:8
+#: .\core\templates\core\password_reset_form.html:8
 msgid "Enter your email and we'll send you a reset link."
 msgstr "Nhập email của bạn và chúng tôi sẽ gửi liên kết đặt lại mật khẩu."
 
-#: core/templates/core/password_reset_form.html:14 core/templates/core/register.html:35
+#: .\core\templates\core\password_reset_form.html:14
+#: .\core\templates\core\register.html:35
 msgid "Email address"
 msgstr "Địa chỉ email"
 
-#: core/templates/core/password_reset_form.html:17
+#: .\core\templates\core\password_reset_form.html:17
 msgid "Send Reset Link"
 msgstr "Gửi liên kết đặt lại"
 
-#: core/templates/core/privacy.html:11
-msgid "Last updated"
-msgstr "Cập nhật lần cuối"
-
-#: core/templates/core/privacy.html:16
-msgid "What we collect"
-msgstr "Dữ liệu chúng tôi thu thập"
-
-#: core/templates/core/privacy.html:17
-msgid "When you create an account, we store:"
-msgstr "Khi bạn tạo tài khoản, chúng tôi lưu trữ:"
-
-#: core/templates/core/privacy.html:19
-msgid "Username and email address"
-msgstr "Tên người dùng và địa chỉ email"
-
-#: core/templates/core/privacy.html:20
-msgid "Hashed password (we never store your plain password)"
-msgstr "Mật khẩu đã được mã hóa (chúng tôi không bao giờ lưu mật khẩu ở dạng văn bản thuần)"
-
-#: core/templates/core/privacy.html:21
-msgid "Breathing and meditation session history (technique, cycles, date)"
-msgstr "Lịch sử phiên tập thở và thiền (kỹ thuật, chu kỳ, ngày)"
-
-#: core/templates/core/privacy.html:22
-msgid "Language preference"
-msgstr "Ngôn ngữ ưa thích"
-
-#: core/templates/core/privacy.html:23
-msgid "Profile picture URL (a link you provide — we don't store image files)"
-msgstr "URL ảnh đại diện (liên kết bạn cung cấp — chúng tôi không lưu tệp hình ảnh)"
-
-#: core/templates/core/privacy.html:28
-msgid "What we don't do"
-msgstr "Những điều chúng tôi không làm"
-
-#: core/templates/core/privacy.html:30
-msgid "We do not sell your personal data to third parties."
-msgstr "Chúng tôi không bán dữ liệu cá nhân của bạn cho bên thứ ba."
-
-#: core/templates/core/privacy.html:31
-msgid "We do not share your session history or health-related data with advertisers."
-msgstr "Chúng tôi không chia sẻ lịch sử phiên hoặc dữ liệu sức khỏe của bạn với nhà quảng cáo."
-
-#: core/templates/core/privacy.html:32
-msgid "We do not collect health or medical data."
-msgstr "Chúng tôi không thu thập dữ liệu sức khỏe hoặc y tế."
-
-#: core/templates/core/privacy.html:37
-msgid "Advertising"
-msgstr "Quảng cáo"
-
-#: core/templates/core/privacy.html:39
-msgid "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity."
-msgstr "Breathing Bot hiển thị quảng cáo để hỗ trợ truy cập miễn phí. Các đối tác quảng cáo có thể sử dụng cookie để hiển thị quảng cáo phù hợp dựa trên hoạt động duyệt web của bạn."
-
-#: core/templates/core/privacy.html:42
-msgid "We use Google AdSense (or similar) to serve ads."
-msgstr "Chúng tôi sử dụng Google AdSense (hoặc tương tự) để hiển thị quảng cáo."
-
-#: core/templates/core/privacy.html:43
-msgid "Ad partners may collect device identifiers, IP address, and browsing behaviour."
-msgstr "Đối tác quảng cáo có thể thu thập định danh thiết bị, địa chỉ IP và hành vi duyệt web."
-
-#: core/templates/core/privacy.html:44
-msgid "You can opt out of personalised ads via your Google account settings or your device's ad settings."
-msgstr "Bạn có thể chọn không nhận quảng cáo cá nhân hóa qua cài đặt tài khoản Google hoặc cài đặt quảng cáo trên thiết bị."
-
-#: core/templates/core/privacy.html:45
-msgid "Logged-in users' breathing session data is never shared with advertisers."
-msgstr "Dữ liệu phiên tập thở của người dùng đăng nhập không bao giờ được chia sẻ với nhà quảng cáo."
-
-#: core/templates/core/privacy.html:50
-msgid "Guest users"
-msgstr "Người dùng khách"
-
-#: core/templates/core/privacy.html:52
-msgid "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect."
-msgstr "Nếu sử dụng mà không tạo tài khoản, chúng tôi chỉ lưu một cookie chức năng — ngôn ngữ của bạn — để ứng dụng ghi nhớ lựa chọn của bạn. Không có dữ liệu cá nhân, không lịch sử phiên và không theo dõi bởi chúng tôi."
-
-#: core/templates/core/privacy.html:57
-msgid "Donations (PayPal)"
-msgstr "Ủng hộ (PayPal)"
-
-#: core/templates/core/privacy.html:59
-msgid "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction."
-msgstr "Các khoản ủng hộ được xử lý qua PayPal. Chúng tôi không nhận hoặc lưu trữ thông tin thanh toán của bạn."
-
-#: core/templates/core/privacy.html:64
-msgid "Your rights"
-msgstr "Quyền của bạn"
-
-#: core/templates/core/privacy.html:65
-msgid "You can:"
-msgstr "Bạn có thể:"
-
-#: core/templates/core/privacy.html:67
-msgid "Export your session history from your profile page at any time."
-msgstr "Xuất lịch sử phiên từ trang hồ sơ bất cứ lúc nào."
-
-#: core/templates/core/privacy.html:68
-msgid "Delete your account by contacting us — all your data will be permanently removed."
-msgstr "Xóa tài khoản bằng cách liên hệ với chúng tôi — toàn bộ dữ liệu của bạn sẽ bị xóa vĩnh viễn."
-
-#: core/templates/core/privacy.html:69
-msgid "Use the app as a guest with no account and no data stored by us."
-msgstr "Sử dụng ứng dụng với tư cách khách mà không cần tài khoản và không có dữ liệu nào được lưu trữ."
-
-#: core/templates/core/privacy.html:74
-msgid "Data storage"
-msgstr "Lưu trữ dữ liệu"
-
-#: core/templates/core/privacy.html:76
-msgid "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management."
-msgstr "Dữ liệu của bạn được lưu trữ trên máy chủ bảo mật. Chúng tôi sử dụng các tính năng bảo mật của Django bao gồm mã hóa mật khẩu, bảo vệ CSRF và quản lý phiên."
-
-#: core/templates/core/privacy.html:81
-msgid "Contact"
-msgstr "Liên hệ"
-
-#: core/templates/core/privacy.html:83
-msgid "Questions about this policy? Reach us at"
-msgstr "Câu hỏi về chính sách này? Liên hệ với chúng tôi tại"
-
-#: core/templates/core/profile.html:28
+#: .\core\templates\core\profile.html:28
 msgid "Profile Picture"
 msgstr "Ảnh đại diện"
 
-#: core/templates/core/profile.html:38
+#: .\core\templates\core\profile.html:38
 msgid "Save"
 msgstr "Lưu"
 
-#: core/templates/core/profile.html:44
+#: .\core\templates\core\profile.html:44
 msgid "Your Stats"
 msgstr "Số liệu thống kê"
 
-#: core/templates/core/profile.html:46
+#: .\core\templates\core\profile.html:46
 msgid "Total sessions"
 msgstr "Tổng số phiên"
 
-#: core/templates/core/profile.html:50
+#: .\core\templates\core\profile.html:50
 msgid "Minutes meditated"
 msgstr "Số phút thiền"
 
-#: core/templates/core/profile.html:54
-msgid "Current streak"
-msgstr "Chuỗi hiện tại"
-
-#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
-msgid "days"
-msgstr "ngày"
-
-#: core/templates/core/profile.html:58
-msgid "Longest streak"
-msgstr "Chuỗi dài nhất"
-
-#: core/templates/core/profile.html:65
+#: .\core\templates\core\profile.html:57
 msgid "Security"
 msgstr "Bảo mật"
 
-#: core/templates/core/profile.html:67
+#: .\core\templates\core\profile.html:59
 msgid "Change Password"
 msgstr "Đổi mật khẩu"
 
-#: core/templates/core/profile.html:77
+#: .\core\templates\core\profile.html:73
 msgid "Session History"
 msgstr "Lịch sử phiên"
 
-#: core/templates/core/profile.html:79
+#: .\core\templates\core\profile.html:75
 msgid "Export CSV"
 msgstr "Xuất CSV"
 
-#: core/templates/core/profile.html:90
+#: .\core\templates\core\profile.html:86
 msgid "Level"
 msgstr "Cấp độ"
 
-#: core/templates/core/register.html:8 core/templates/core/register.html:72
+#: .\core\templates\core\register.html:8 .\core\templates\core\register.html:72
 msgid "Create Account"
 msgstr "Tạo tài khoản"
 
-#: core/templates/core/register.html:9
+#: .\core\templates\core\register.html:9
 msgid "Free forever. No credit card needed."
 msgstr "Miễn phí mãi mãi. Không cần thẻ tín dụng."
 
-#: core/templates/core/register.html:60
+#: .\core\templates\core\register.html:60
 msgid "Confirm password"
 msgstr "Xác nhận mật khẩu"
 
-#: core/templates/core/register.html:78
+#: .\core\templates\core\register.html:78
 msgid "Already have an account?"
 msgstr "Đã có tài khoản?"
 
-#: core/templates/core/register.html:79
+#: .\core\templates\core\register.html:79
 msgid "Log in"
 msgstr "Đăng nhập"
 
-#: core/templates/core/session.html:19
+#: .\core\templates\core\session.html:19
 msgid "Configure Exercise"
 msgstr "Cấu hình bài tập"
 
-#: core/templates/core/session.html:22
+#: .\core\templates\core\session.html:22
 msgid "Breathing Technique"
 msgstr "Kỹ thuật thở"
 
-#: core/templates/core/session.html:27
+#: .\core\templates\core\session.html:27
 msgid "Custom Manual Rhythm..."
 msgstr "Nhịp thở tùy chỉnh..."
 
-#: core/templates/core/session.html:34
+#: .\core\templates\core\session.html:34
 msgid "Intensity Level"
 msgstr "Mức độ tập luyện"
 
-#: core/templates/core/session.html:45
+#: .\core\templates\core\session.html:45
 msgid "Target Exercise Cycles"
 msgstr "Số chu kỳ mục tiêu"
 
-#: core/templates/core/session.html:53
+#: .\core\templates\core\session.html:53
 msgid "Initialize Breathing Tracker"
 msgstr "Khởi tạo trình theo dõi hơi thở"
 
-#: core/templates/core/session.html:63
+#: .\core\templates\core\session.html:63
 msgid "Ready to Begin"
 msgstr "Sẵn sàng bắt đầu"
 
-#: core/templates/core/session.html:69
+#: .\core\templates\core\session.html:69
 msgid "Cycle"
 msgstr "Chu kỳ"
 
-#: core/views.py:87
+#: .\core\views.py:104
 msgid "Hold"
 msgstr "Giữ"
 
-#: core/views.py:89
+#: .\core\views.py:106
 msgid "Rest"
 msgstr "Nghỉ"
 
-msgid "Settings"
-msgstr "Cài đặt"
+#: .\core\templates\privacy.html:10
+msgid "Privacy Policy | Breathing Bot"
+msgstr "Chính sách Bảo mật | Breathing Bot"
+
+#: .\core\templates\privacy.html:13
+msgid "Last updated: June 2026"
+msgstr "Cập nhật lần cuối: Tháng 6 năm 2026"
+
+#: .\core\templates\privacy.html:16
+msgid "Note:"
+msgstr "Lưu ý:"
+
+#: .\core\templates\privacy.html:16
+msgid "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience."
+msgstr "Breathing Bot hiện đang trong giai đoạn thử nghiệm beta. Các tính năng có thể được cập nhật và phản hồi của bạn được đánh giá cao khi chúng tôi cải thiện trải nghiệm."
+
+#: .\core\templates\privacy.html:22
+msgid "What We Collect"
+msgstr "Những Gì Chúng Tôi Thu Thập"
+
+#: .\core\templates\privacy.html:23
+msgid "When you create an account, we securely store:"
+msgstr "Khi bạn tạo tài khoản, chúng tôi sẽ lưu trữ an toàn:"
+
+#: .\core\templates\privacy.html:25
+msgid "Account Credentials:"
+msgstr "Thông tin Tài khoản:"
+
+#: .\core\templates\privacy.html:25
+msgid "Username and email address."
+msgstr "Tên người dùng và địa chỉ email."
+
+#: .\core\templates\privacy.html:26
+msgid "Security:"
+msgstr "Bảo mật:"
+
+#: .\core\templates\privacy.html:26
+msgid "Cryptographically hashed passwords (we never store or have access to your plain-text password)."
+msgstr "Mật khẩu được băm mã hóa (chúng tôi không bao giờ lưu trữ hoặc có quyền truy cập vào mật khẩu văn bản thuần túy của bạn)."
+
+#: .\core\templates\privacy.html:27
+msgid "Application Data:"
+msgstr "Dữ liệu Ứng dụng:"
+
+#: .\core\templates\privacy.html:27
+msgid "Breathing and meditation session history (selected technique, completed cycles, and timestamps)."
+msgstr "Lịch sử phiên thở và thiền (kỹ thuật đã chọn, chu kỳ đã hoàn thành và dấu thời gian)."
+
+#: .\core\templates\privacy.html:28
+msgid "Preferences:"
+msgstr "Tùy chọn:"
+
+#: .\core\templates\privacy.html:28
+msgid "Localized language preferences."
+msgstr "Tùy chọn ngôn ngữ được bản địa hóa."
+
+#: .\core\templates\privacy.html:29
+msgid "Profile Assets:"
+msgstr "Tài sản Hồ sơ:"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile picture URL (an external link you provide — we do not host or store image files on our servers)."
+msgstr "URL ảnh hồ sơ (một liên kết bên ngoài do bạn cung cấp — chúng tôi không lưu trữ hoặc giữ các tệp hình ảnh trên máy chủ của mình)."
+
+#: .\core\templates\privacy.html:34
+msgid "What We Do Not Do"
+msgstr "Những Gì Chúng Tôi Không Làm"
+
+#: .\core\templates\privacy.html:36
+msgid "No Data Selling:"
+msgstr "Không bán dữ liệu:"
+
+#: .\core\templates\privacy.html:36
+msgid "We do not sell your personal data to third parties."
+msgstr "Chúng tôi không bán dữ liệu cá nhân của bạn cho bên thứ ba."
+
+#: .\core\templates\privacy.html:37
+msgid "No Data Sharing:"
+msgstr "Không chia sẻ dữ liệu:"
+
+#: .\core\templates\privacy.html:37
+msgid "We do not share your individual session history or usage habits with advertisers."
+msgstr "Chúng tôi không chia sẻ lịch sử phiên hoặc thói quen sử dụng cá nhân của bạn với các nhà quảng cáo."
+
+#: .\core\templates\privacy.html:38
+msgid "No Medical Tracking:"
+msgstr "Không theo dõi y tế:"
+
+#: .\core\templates\privacy.html:38
+msgid "We do not collect medical or biometric health metrics."
+msgstr "Chúng tôi không thu thập các chỉ số sức khỏe y tế hoặc sinh trắc học."
+
+#: .\core\templates\privacy.html:43
+msgid "Advertising & Third-Party Cookies"
+msgstr "Quảng cáo & Cookie của Bên thứ ba"
+
+#: .\core\templates\privacy.html:44
+msgid "Breathing Bot displays minimalist advertisements to support free access to the application."
+msgstr "Breathing Bot hiển thị các quảng cáo tối giản để hỗ trợ quyền truy cập miễn phí vào ứng dụng."
+
+#: .\core\templates\privacy.html:47
+msgid "We partner with Google AdSense (or similar networks) to serve advertisements."
+msgstr "Chúng tôi hợp tác với Google AdSense (hoặc các mạng tương tự) để phân phát quảng cáo."
+
+#: .\core\templates\privacy.html:48
+msgid "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads."
+msgstr "Các đối tác quảng cáo có thể sử dụng cookie và các công nghệ tương tự để thu thập mã nhận dạng thiết bị, địa chỉ IP và hành vi duyệt web nhằm phân phát quảng cáo có liên quan."
+
+#: .\core\templates\privacy.html:49
+msgid "Your Privacy First: Logged-in users' specific breathing session data is strictly isolated and never shared with advertisers."
+msgstr "Quyền riêng tư của bạn là trên hết: Dữ liệu phiên thở cụ thể của người dùng đã đăng nhập được cách ly nghiêm ngặt và không bao giờ chia sẻ với các nhà quảng cáo."
+
+#: .\core\templates\privacy.html:50
+msgid "Control:"
+msgstr "Kiểm soát:"
+
+#: .\core\templates\privacy.html:50
+msgid "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences."
+msgstr "Bạn có thể từ chối quảng cáo cá nhân hóa bất kỳ lúc nào thông qua Cài đặt tài khoản Google hoặc tùy chọn theo dõi quảng cáo trên thiết bị cục bộ của bạn."
+
+#: .\core\templates\privacy.html:55
+msgid "Guest Users"
+msgstr "Người dùng Khách"
+
+#: .\core\templates\privacy.html:56
+msgid "If you utilize Breathing Bot without creating an account, we store exactly one functional cookie—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized."
+msgstr "Nếu bạn sử dụng Breathing Bot mà không tạo tài khoản, chúng tôi chỉ lưu trữ đúng một cookie chức năng — tùy chọn ngôn ngữ của bạn — để giao diện ghi nhớ ngôn ngữ bạn đã chọn giữa các lần truy cập. Không có nhận dạng cá nhân, không có nhật ký phiên và không có thông số theo dõi tùy chỉnh nào được khởi tạo."
+
+#: .\core\templates\privacy.html:61
+msgid "Your Rights & Data Autonomy"
+msgstr "Quyền của Bạn & Quyền Tự chủ Dữ liệu"
+
+#: .\core\templates\privacy.html:62
+msgid "Chúng tôi tin vào quyền sở hữu dữ liệu tuyệt đối. Bất cứ lúc nào, bạn có thể:"
+msgstr "Chúng tôi tin vào quyền sở hữu dữ liệu tuyệt đối. Bất cứ lúc nào, bạn có thể:"
+
+#: .\core\templates\privacy.html:64
+msgid "Export Your Data:"
+msgstr "Xuất dữ liệu của bạn:"
+
+#: .\core\templates\privacy.html:64
+msgid "Download your entire compiled session history directly from your profile page."
+msgstr "Tải xuống toàn bộ lịch sử phiên đã biên dịch trực tiếp từ trang hồ sơ của bạn."
+
+#: .\core\templates\privacy.html:65
+msgid "Absolute Deletion:"
+msgstr "Xóa tuyệt đối:"
+
+#: .\core\templates\privacy.html:65
+msgid "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases."
+msgstr "Xóa tài khoản của bạn ngay lập tức thông qua bảng điều khiển hồ sơ, thao tác này sẽ xóa vĩnh viễn toàn bộ hồ sơ người dùng của bạn khỏi cơ sở dữ liệu đang hoạt động của chúng tôi."
+
+#: .\core\templates\privacy.html:66
+msgid "Anonymous Access:"
+msgstr "Truy cập ẩn danh:"
+
+#: .\core\templates\privacy.html:66
+msgid "Use the application entirely as a guest without an account to minimize data presence."
+msgstr "Sử dụng ứng dụng hoàn toàn với tư cách khách không cần tài khoản để giảm thiểu sự hiện diện của dữ liệu."
+
+#: .\core\templates\privacy.html:71
+msgid "Infrastructure & Data Storage"
+msgstr "Cơ sở hạ tầng & Lưu trữ Dữ liệu"
+
+#: .\core\templates\privacy.html:72
+msgid "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware."
+msgstr "Dữ liệu của bạn được lưu trữ trong môi trường máy chủ đám mây an toàn, cấp sản xuất. Chúng tôi tận dụng các triển khai bảo mật tiêu chuẩn doanh nghiệp, bao gồm cách ly mạng cơ sở dữ liệu tự động, bảo vệ tập lệnh chéo trang và phần mềm trung gian quản lý phiên an toàn."
+
+#: .\core\templates\privacy.html:77
+msgid "Contact & Support"
+msgstr "Liên hệ & Hỗ trợ"
+
+#: .\core\templates\privacy.html:78
+msgid "If you have questions regarding this policy or data handling practices, please contact us at:"
+msgstr "Nếu bạn có câu hỏi liên quan đến chính sách này hoặc các hoạt động xử lý dữ liệu, vui lòng liên hệ với chúng tôi tại:"

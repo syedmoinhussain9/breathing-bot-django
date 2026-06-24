@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2026-06-08 10:04+0000\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-24 17:09+0530\n"
 "PO-Revision-Date: 2026-06-08 16:15+0530\n"
 "Last-Translator: AI Collaborator\n"
 "Language-Team: Tamil\n"
@@ -11,645 +12,701 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: core/presets.py:5
+#: .\core\presets.py:5
 msgid "1-4-2 Lung Conditioning Pattern"
 msgstr "1-4-2 நுரையீரல் பயிற்சி முறை"
 
-#: core/presets.py:13
-msgid "A classic respiratory conditioning sequence designed to maximize blood oxygenation and expand vital lung capacity over time."
-msgstr "இரத்தத்தில் ஆக்சிஜன் அளவை அதிகரிக்கவும், காலப்போக்கில் நுரையீரலின் திறனை விரிவுபடுத்தவும் வடிவமைக்கப்பட்ட ஒரு சிறந்த சுவாசப் பயிற்சி."
+#: .\core\presets.py:13
+msgid ""
+"A classic respiratory conditioning sequence designed to maximize blood "
+"oxygenation and expand vital lung capacity over time."
+msgstr ""
+"இரத்தத்தில் ஆக்சிஜன் அளவை அதிகரிக்கவும், காலப்போக்கில் நுரையீரலின் திறனை விரிவுபடுத்தவும் "
+"வடிவமைக்கப்பட்ட ஒரு சிறந்த சுவாசப் பயிற்சி."
 
-#: core/presets.py:16
+#: .\core\presets.py:16
 msgid "Box Breathing (Navy SEAL Tactical Clarity)"
 msgstr "பாக்ஸ் பிரீத்திங் (Navy SEAL தந்திரோபாய தெளிவு)"
 
-#: core/presets.py:24
-msgid "The gold standard for high-stress grounding. Equal duration phases clear cortisol, settle racing hearts, and restore sharp mental clarity."
-msgstr "அதிக மன அழுத்தத்தின் போது அமைதி பெற சிறந்த வழி. சமமான கால இடைவெளி கொண்ட நிலைகள் கார்டிசோலைக் குறைத்து, இதயத் துடிப்பைச் சீராக்கி, மனத் தெளிவைத் தருகின்றன."
+#: .\core\presets.py:24
+msgid ""
+"The gold standard for high-stress grounding. Equal duration phases clear "
+"cortisol, settle racing hearts, and restore sharp mental clarity."
+msgstr ""
+"அதிக மன அழுத்தத்தின் போது அமைதி பெற சிறந்த வழி. சமமான கால இடைவெளி கொண்ட நிலைகள் "
+"கார்டிசோலைக் குறைத்து, இதயத் துடிப்பைச் சீராக்கி, மனத் தெளிவைத் தருகின்றன."
 
-#: core/presets.py:27
+#: .\core\presets.py:27
 msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
 msgstr "4-7-8 தளர்வு (நரம்பு மண்டலத்தை அமைதிப்படுத்தும்)"
 
-#: core/presets.py:35
-msgid "Acts as a natural chemical brake for your sympathetic nervous system. Highly recommended for severe anxiety and floating into deep sleep."
-msgstr "உங்கள் நரம்பு மண்டலத்திற்கு ஒரு இயற்கை தடையாகவும், அமைதியாகவும் செயல்படுகிறது. கடுமையான பதற்றம் மற்றும் ஆழ்ந்த உறக்கத்திற்கு இது மிகவும் பரிந்துரைக்கப்படுகிறது."
+#: .\core\presets.py:35
+msgid ""
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly "
+"recommended for severe anxiety and floating into deep sleep."
+msgstr ""
+"உங்கள் நரம்பு மண்டலத்திற்கு ஒரு இயற்கை தடையாகவும், அமைதியாகவும் செயல்படுகிறது. "
+"கடுமையான பதற்றம் மற்றும் ஆழ்ந்த உறக்கத்திற்கு இது மிகவும் பரிந்துரைக்கப்படுகிறது."
 
-#: core/presets.py:38
+#: .\core\presets.py:38
 msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
 msgstr "கோஹரண்ட் / ரெசோனண்ட் பிரீத்திங் (ஆஸ்துமா மற்றும் பீதி நிவாரணம்)"
 
-#: core/presets.py:46
-msgid "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero hold times make this perfectly safe for active asthma management."
-msgstr "வேகஸ் நரம்பைச் சமநிலைப்படுத்தி, இதயத் துடிப்பு மாறுபாட்டை (HRV) மேம்படுத்துகிறது. சுவாசத்தை நிறுத்த வேண்டிய அவசியம் இல்லாததால், ஆஸ்துமா உள்ளவர்களுக்கு இது பாதுகாப்பானது."
+#: .\core\presets.py:46
+msgid ""
+"Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
+"hold times make this perfectly safe for active asthma management."
+msgstr ""
+"வேகஸ் நரம்பைச் சமநிலைப்படுத்தி, இதயத் துடிப்பு மாறுபாட்டை (HRV) மேம்படுத்துகிறது. "
+"சுவாசத்தை நிறுத்த வேண்டிய அவசியம் இல்லாததால், ஆஸ்துமா உள்ளவர்களுக்கு இது பாதுகாப்பானது."
 
-#: core/presets.py:49
+#: .\core\presets.py:49
 msgid "Tactical Breathing (Sustained Equilibrium)"
 msgstr "தந்திரோபாய சுவாசம் (சமநிலையைப் பராமரிக்க)"
 
-#: core/presets.py:57
-msgid "A specialized, low-overhead holding variant used by responders to reduce somatic anxiety without inducing lightheadedness."
+#: .\core\presets.py:57
+msgid ""
+"A specialized, low-overhead holding variant used by responders to reduce "
+"somatic anxiety without inducing lightheadedness."
 msgstr "தலைசுற்றலைத் தவிர்த்து, பதற்றத்தைக் குறைக்க உதவும் ஒரு சிறப்பான சுவாச முறை."
 
-#: core/presets.py:60
+#: .\core\presets.py:60
 msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
 msgstr "பர்ஸ்டு-லிப் ஸ்பிளிண்டிங் (COPD மற்றும் சுவாசக் கோளாறுக்கான நிவாரணம்)"
 
-#: core/presets.py:68
-msgid "Creates passive mechanical backpressure to keep bronchial pathways open. Crucial for individuals with emphysema or structural shortness of breath."
-msgstr "மூச்சுக்குழாய்களைத் திறந்து வைக்க இது உதவுகிறது. நுரையீரல் பாதிப்பு அல்லது மூச்சுத் திணறல் உள்ளவர்களுக்கு இது மிக அவசியம்."
+#: .\core\presets.py:68
+msgid ""
+"Creates passive mechanical backpressure to keep bronchial pathways open. "
+"Crucial for individuals with emphysema or structural shortness of breath."
+msgstr ""
+"மூச்சுக்குழாய்களைத் திறந்து வைக்க இது உதவுகிறது. நுரையீரல் பாதிப்பு அல்லது மூச்சுத் "
+"திணறல் உள்ளவர்களுக்கு இது மிக அவசியம்."
 
-#: core/presets.py:71
+#: .\core\presets.py:71
 msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
 msgstr "உயிரியல் பெருமூச்சு (அதிக சுவாசத்தைக் கட்டுப்படுத்த)"
 
-#: core/presets.py:79
-msgid "Simulates the biological double-inhale reflex to instantly re-inflate collapsed alveoli and maximize immediate carbon dioxide unloading."
-msgstr "நுரையீரலின் காற்றறைகளை மீண்டும் விரிவுபடுத்தி, கார்பன் டை ஆக்சைடை உடனுக்குடன் வெளியேற்ற உதவுகிறது."
+#: .\core\presets.py:79
+msgid ""
+"Simulates the biological double-inhale reflex to instantly re-inflate "
+"collapsed alveoli and maximize immediate carbon dioxide unloading."
+msgstr ""
+"நுரையீரலின் காற்றறைகளை மீண்டும் விரிவுபடுத்தி, கார்பன் டை ஆக்சைடை உடனுக்குடன் வெளியேற்ற "
+"உதவுகிறது."
 
-#: core/presets.py:82
+#: .\core\presets.py:82
 msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
 msgstr "நீட்டிக்கப்பட்ட சுவாச வெளியேற்றம் (உயர் இரத்த அழுத்தம் / வேகல் டோன்)"
 
-#: core/presets.py:90
-msgid "Exhale window is mathematically doubled relative to inhale. Maximizes acetylcholinergic outflow to safely downregulate heart rate and blood pressure."
-msgstr "சுவாசம் வெளியேற்றும் நேரம் உள்ளிழுக்கும் நேரத்தை விட இருமடங்காக இருக்கும். இது இதயத் துடிப்பு மற்றும் இரத்த அழுத்தத்தைச் சீராக்க உதவுகிறது."
+#: .\core\presets.py:90
+msgid ""
+"Exhale window is mathematically doubled relative to inhale. Maximizes "
+"acetylcholinergic outflow to safely downregulate heart rate and blood "
+"pressure."
+msgstr ""
+"சுவாசம் வெளியேற்றும் நேரம் உள்ளிழுக்கும் நேரத்தை விட இருமடங்காக இருக்கும். இது இதயத் "
+"துடிப்பு மற்றும் இரத்த அழுத்தத்தைச் சீராக்க உதவுகிறது."
 
-#: core/templates/404.html:5
+#: .\core\templates\404.html:5
 msgid "Page Not Found"
 msgstr "பக்கம் காணப்படவில்லை"
 
-#: core/templates/404.html:13
+#: .\core\templates\404.html:13
 msgid "Page not found"
 msgstr "பக்கம் காணப்படவில்லை"
 
-#: core/templates/404.html:15
-msgid "The page you're looking for doesn't exist. It may have been moved or the URL might be wrong."
+#: .\core\templates\404.html:15
+msgid ""
+"The page you're looking for doesn't exist. It may have been moved or the URL "
+"might be wrong."
 msgstr "நீங்கள் தேடும் பக்கம் இல்லை. அது மாற்றப்பட்டிருக்கலாம் அல்லது URL தவறாக இருக்கலாம்."
 
-#: core/templates/404.html:20
+#: .\core\templates\404.html:20
 msgid "Go home"
 msgstr "முகப்புக்குச் செல்"
 
-#: core/templates/404.html:23
+#: .\core\templates\404.html:23
 msgid "Start breathing"
 msgstr "சுவாசப் பயிற்சியைத் தொடங்கு"
 
-#: core/templates/base.html:47
+#: .\core\templates\base.html:47
 msgid "Breathing"
 msgstr "சுவாசம்"
 
-#: core/templates/base.html:52 core/templates/core/free.html:22
+#: .\core\templates\base.html:52 .\core\templates\core\free.html:22
 msgid "Breathing Exercises"
 msgstr "சுவாசப் பயிற்சிகள்"
 
-#: core/templates/base.html:57 core/templates/core/dashboard.html:34 core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+#: .\core\templates\base.html:57 .\core\templates\core\dashboard.html:34
+#: .\core\templates\core\free.html:33 .\core\templates\core\panicroom.html:8
 msgid "Coherent Breathing"
 msgstr "கோஹரண்ட் சுவாசம்"
 
-#: core/templates/base.html:62 core/templates/core/dashboard.html:46 core/templates/core/free.html:44 core/templates/core/meditate.html:9
+#: .\core\templates\base.html:62 .\core\templates\core\dashboard.html:46
+#: .\core\templates\core\free.html:44 .\core\templates\core\meditate.html:9
 msgid "Meditation Room"
 msgstr "தியான அறை"
 
-#: core/templates/base.html:71
+#: .\core\templates\base.html:71
 msgid "Dashboard"
 msgstr "கண்ட்ரோல் பேனல்"
 
-#: core/templates/base.html:76
+#: .\core\templates\base.html:76
 msgid "Profile"
 msgstr "சுயவிவரம்"
 
-#: core/templates/base.html:83
-msgid "Donate"
-msgstr "நன்கொடை"
-
-#: core/templates/base.html:97
+#: .\core\templates\base.html:91
 msgid "Language"
 msgstr "மொழி"
 
-#: core/templates/base.html:111
+#: .\core\templates\base.html:105
 msgid "Logout"
 msgstr "வெளியேறு"
 
-#: core/templates/base.html:116
+#: .\core\templates\base.html:110
 msgid "Register"
 msgstr "பதிவு செய்"
 
-#: core/templates/base.html:131
+#: .\core\templates\base.html:125
 msgid "Designed for accessibility. Completely free and open-source."
-msgstr "அனைவருக்கும் பயன்படும் வகையில் உருவாக்கப்பட்டது. முற்றிலும் இலவசம் மற்றும் திறந்தநிலை."
+msgstr ""
+"அனைவருக்கும் பயன்படும் வகையில் உருவாக்கப்பட்டது. முற்றிலும் இலவசம் மற்றும் திறந்தநிலை."
 
-#: core/templates/base.html:134 core/templates/core/privacy.html:5 core/templates/core/privacy.html:10
+#: .\core\templates\base.html:128
 msgid "Privacy Policy"
 msgstr "தனியுரிமைக் கொள்கை"
 
-#: core/templates/base.html:136
-msgid "Support Us"
-msgstr "எங்களை ஆதரியுங்கள்"
-
-#: core/templates/core/dashboard.html:9
+#: .\core\templates\core\dashboard.html:9
 msgid "Welcome to Breathing Bot"
 msgstr "Breathing Bot-க்கு வரவேற்கிறோம்"
 
-#: core/templates/core/dashboard.html:10
-msgid "Free breathing exercises, coherent breathing, and meditation — all in one place."
+#: .\core\templates\core\dashboard.html:10
+msgid ""
+"Free breathing exercises, coherent breathing, and meditation — all in one "
+"place."
 msgstr "இலவச சுவாசப் பயிற்சிகள், தியானம் — அனைத்தும் ஒரே இடத்தில்."
 
-#: core/templates/core/dashboard.html:22
+#: .\core\templates\core\dashboard.html:22
 msgid "Guided Breathing"
 msgstr "வழிகாட்டப்பட்ட சுவாசம்"
 
-#: core/templates/core/dashboard.html:23
+#: .\core\templates\core\dashboard.html:23
 msgid "Guest"
 msgstr "விருந்தினர்"
 
-#: core/templates/core/dashboard.html:35
+#: .\core\templates\core\dashboard.html:35
 msgid "Panic Relief"
 msgstr "பதற்ற நிவாரணம்"
 
-#: core/templates/core/dashboard.html:47
+#: .\core\templates\core\dashboard.html:47
 msgid "Brown Noise"
 msgstr "பிரவுன் நாய்ஸ்"
 
-#: core/templates/core/dashboard.html:58
+#: .\core\templates\core\dashboard.html:58
 msgid "Free User Login"
 msgstr "பயனர் உள்நுழைவு"
 
-#: core/templates/core/dashboard.html:59
+#: .\core\templates\core\dashboard.html:59
 msgid "Login to save progress and track history."
 msgstr "உங்கள் முன்னேற்றத்தைச் சேமிக்க உள்நுழையவும்."
 
-#: core/templates/core/dashboard.html:64
+#: .\core\templates\core\dashboard.html:64
 msgid "Invalid username or password."
 msgstr "தவறான பயனர் பெயர் அல்லது கடவுச்சொல்."
 
-#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+#: .\core\templates\core\dashboard.html:67
+#: .\core\templates\core\register.html:22
 msgid "Username"
 msgstr "பயனர் பெயர்"
 
-#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+#: .\core\templates\core\dashboard.html:69
+#: .\core\templates\core\register.html:48
 msgid "Password"
 msgstr "கடவுச்சொல்"
 
-#: core/templates/core/dashboard.html:70
+#: .\core\templates\core\dashboard.html:70
 msgid "Login"
 msgstr "உள்நுழை"
 
-#: core/templates/core/dashboard.html:74
+#: .\core\templates\core\dashboard.html:74
 msgid "Create account"
 msgstr "கணக்கை உருவாக்கு"
 
-#: core/templates/core/dashboard.html:75
+#: .\core\templates\core\dashboard.html:75
 msgid "Forgot password?"
 msgstr "கடவுச்சொல் மறந்துவிட்டதா?"
 
-#: core/templates/core/donate.html:11
-msgid "Support Breathing Bot"
-msgstr "Breathing Bot-ஐ ஆதரியுங்கள்"
+#: .\core\templates\core\delete_confirm.html:7
+#: .\core\templates\core\profile.html:63
+#, fuzzy
+#| msgid "Create Account"
+msgid "Delete Account"
+msgstr "கணக்கை உருவாக்கு"
 
-#: core/templates/core/donate.html:13
-msgid "Breathing Bot is free and will always stay free. If it has helped you, consider supporting its development."
-msgstr "Breathing Bot எப்போதும் இலவசமாகவே இருக்கும். இது உங்களுக்குப் பயனுள்ளதாக இருந்தால், எங்களை ஆதரியுங்கள்."
+#: .\core\templates\core\delete_confirm.html:8
+msgid ""
+"Are you sure you want to delete your account? This action is permanent and "
+"cannot be undone."
+msgstr ""
 
-#: core/templates/core/donate.html:27
-msgid "One-time donation. Any amount helps keep the server running and development going."
-msgstr "ஒரே முறை நன்கொடை. உங்கள் பங்களிப்பு சர்வர் மற்றும் மேம்பாட்டிற்கு உதவும்."
+#: .\core\templates\core\delete_confirm.html:13
+#, fuzzy
+#| msgid "Create Account"
+msgid "Yes, Delete My Account"
+msgstr "கணக்கை உருவாக்கு"
 
-#: core/templates/core/donate.html:41
-msgid "Donate with PayPal"
-msgstr "PayPal மூலம் நன்கொடை"
+#: .\core\templates\core\delete_confirm.html:14
+msgid "Cancel"
+msgstr ""
 
-#: core/templates/core/donate.html:42
-msgid "Coming Soon"
-msgstr "விரைவில் வரும்"
-
-#: core/templates/core/donate.html:48
-msgid "Other ways to help"
-msgstr "மற்ற உதவி வழிகள்"
-
-#: core/templates/core/donate.html:55
-msgid "Spread the word"
-msgstr "பிறருக்கு பகிருங்கள்"
-
-#: core/templates/core/donate.html:56
-msgid "Share Breathing Bot with someone who might benefit from it."
-msgstr "தேவையுள்ளவர்களுக்கு Breathing Bot-ஐப் பகிருங்கள்."
-
-#: core/templates/core/donate.html:64
-msgid "Report bugs"
-msgstr "பிழைகளைத் தெரிவிக்கவும்"
-
-#: core/templates/core/donate.html:65
-msgid "Found something broken? Let us know so we can fix it."
-msgstr "ஏதாவது தவறு கண்டால் எங்களுக்குத் தெரியப்படுத்துங்கள்."
-
-#: core/templates/core/donate.html:73
-msgid "Give feedback"
-msgstr "கருத்து தெரிவிக்கவும்"
-
-#: core/templates/core/donate.html:74
-msgid "Ideas for new features or languages are always welcome."
-msgstr "புதிய அம்சங்களுக்கான ஆலோசனைகள் வரவேற்கப்படுகின்றன."
-
-#: core/templates/core/donate.html:81
-msgid "Thank you for using Breathing Bot."
-msgstr "Breathing Bot-ஐப் பயன்படுத்தியதற்கு நன்றி."
-
-#: core/templates/core/free.html:9
+#: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "மீண்டும் வருக"
 
-#: core/templates/core/free.html:10
+#: .\core\templates\core\free.html:10
 msgid "Ready to breathe?"
 msgstr "சுவாசிக்கத் தயாரா?"
 
-#: core/templates/core/free.html:53
+#: .\core\templates\core\free.html:53
 msgid "Recent Sessions"
 msgstr "சமீபத்திய பயிற்சிகள்"
 
-#: core/templates/core/free.html:55
+#: .\core\templates\core\free.html:55
 msgid "View all"
 msgstr "அனைத்தையும் பார்க்கவும்"
 
-#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#: .\core\templates\core\free.html:63 .\core\templates\core\profile.html:85
 msgid "Technique"
 msgstr "முறை"
 
-#: core/templates/core/free.html:64 core/templates/core/profile.html:91
-msgid "Cycles / Min"
-msgstr "சுழற்சிகள் / நிமிடம்"
+#: .\core\templates\core\free.html:64 .\core\templates\core\profile.html:87
+msgid "Minutes"
+msgstr ""
 
-#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+#: .\core\templates\core\free.html:65 .\core\templates\core\profile.html:84
 msgid "Date"
 msgstr "தேதி"
 
-#: core/templates/core/free.html:78 core/templates/core/profile.html:129
-msgid "No sessions yet. Complete a breathing exercise to see your history here."
+#: .\core\templates\core\free.html:78 .\core\templates\core\profile.html:125
+msgid ""
+"No sessions yet. Complete a breathing exercise to see your history here."
 msgstr "பயிற்சிகள் எதுவும் இல்லை. சுவாசப் பயிற்சியைச் செய்து வரலாற்றைப் பார்க்கவும்."
 
-#: core/templates/core/meditate.html:10
-msgid "Brown noise"
+#: .\core\templates\core\meditate.html:10
+msgid "Pure sound, no distractions"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:15
+msgid "Sound texture"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:17
+#, fuzzy
+#| msgid "Brown Noise"
+msgid "Brown"
 msgstr "பிரவுன் நாய்ஸ்"
 
-#: core/templates/core/meditate.html:10
-msgid "mathematically generated, no files"
-msgstr "கணித முறையில் உருவாக்கப்பட்டது"
+#: .\core\templates\core\meditate.html:18
+msgid "White"
+msgstr ""
 
-#: core/templates/core/meditate.html:14
-msgid "Session duration"
-msgstr "பயிற்சி நேரம்"
+#: .\core\templates\core\meditate.html:19
+msgid "Pink"
+msgstr ""
 
-#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17 core/templates/core/meditate.html:18 core/templates/core/meditate.html:19 core/templates/core/meditate.html:20
-msgid "min"
-msgstr "நிமிடம்"
+#: .\core\templates\core\meditate.html:25
+msgid "Duration"
+msgstr ""
 
-#: core/templates/core/meditate.html:23
+#: .\core\templates\core\meditate.html:35
 msgid "Custom minutes (1–120)"
 msgstr "நிமிடங்கள் (1–120)"
 
-#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
-msgid "select a duration to begin"
-msgstr "நேரத்தைத் தேர்ந்தெடுக்கவும்"
+#: .\core\templates\core\meditate.html:46
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to begin"
+msgstr "தொடங்கத் தயார்"
 
-#: core/templates/core/meditate.html:31
-msgid "please select a duration first"
-msgstr "தயவுசெய்து நேரத்தைத் தேர்ந்தெடுக்கவும்"
+#: .\core\templates\core\meditate.html:51
+#, fuzzy
+#| msgid "Total sessions"
+msgid "Start Session"
+msgstr "மொத்த பயிற்சிகள்"
 
-#: core/templates/core/meditate.html:32
-msgid "session in progress"
-msgstr "பயிற்சி நடைபெறுகிறது"
-
-#: core/templates/core/meditate.html:33
-msgid "session complete"
-msgstr "பயிற்சி முடிந்தது"
-
-#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
-msgid "Start"
-msgstr "தொடங்கு"
-
-#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+#: .\core\templates\core\meditate.html:54
+#: .\core\templates\core\panicroom.html:32
 msgid "Stop"
 msgstr "நிறுத்து"
 
-#: core/templates/core/panicroom.html:9
+#: .\core\templates\core\panicroom.html:9
 msgid "6 seconds in, 6 seconds out. Calms the nervous system."
 msgstr "6 வினாடி உள்ளிழு, 6 வினாடி வெளியேற்று. நரம்பு மண்டலத்தை அமைதிப்படுத்தும்."
 
-#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+#: .\core\templates\core\panicroom.html:14 .\core\views.py:103
+#: .\core\views.py:134
 msgid "Inhale"
 msgstr "உள்ளிழு"
 
-#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+#: .\core\templates\core\panicroom.html:15 .\core\views.py:105
+#: .\core\views.py:135
 msgid "Exhale"
 msgstr "வெளியேற்று"
 
-#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+#: .\core\templates\core\panicroom.html:16 .\core\views.py:107
+#: .\core\views.py:136
 msgid "Session has ended"
 msgstr "பயிற்சி முடிந்தது"
 
-#: core/templates/core/panicroom.html:23
+#: .\core\templates\core\panicroom.html:23
 msgid "Ready"
 msgstr "தயார்"
 
-#: core/templates/core/password_reset_complete.html:8
+#: .\core\templates\core\panicroom.html:29
+msgid "Start"
+msgstr "தொடங்கு"
+
+#: .\core\templates\core\password_reset_complete.html:8
 msgid "Password updated"
 msgstr "கடவுச்சொல் புதுப்பிக்கப்பட்டது"
 
-#: core/templates/core/password_reset_complete.html:9
+#: .\core\templates\core\password_reset_complete.html:9
 msgid "Your password has been set. You can now log in with your new password."
 msgstr "உங்கள் கடவுச்சொல் அமைக்கப்பட்டது. புதிய கடவுச்சொல்லுடன் உள்நுழையவும்."
 
-#: core/templates/core/password_reset_complete.html:10 core/templates/core/password_reset_done.html:12 core/templates/core/password_reset_form.html:22
+#: .\core\templates\core\password_reset_complete.html:10
+#: .\core\templates\core\password_reset_done.html:12
+#: .\core\templates\core\password_reset_form.html:22
 msgid "Back to login"
 msgstr "உள்நுழைவுக்குத் திரும்பவும்"
 
-#: core/templates/core/password_reset_confirm.html:7
+#: .\core\templates\core\password_reset_confirm.html:7
 msgid "Choose New Password"
 msgstr "புதிய கடவுச்சொல்லைத் தேர்வு செய்யவும்"
 
-#: core/templates/core/password_reset_confirm.html:8
+#: .\core\templates\core\password_reset_confirm.html:8
 msgid "Enter your new password below."
 msgstr "புதிய கடவுச்சொல்லைக் கீழே உள்ளிடவும்."
 
-#: core/templates/core/password_reset_confirm.html:16
+#: .\core\templates\core\password_reset_confirm.html:16
 msgid "New password"
 msgstr "புதிய கடவுச்சொல்"
 
-#: core/templates/core/password_reset_confirm.html:27
+#: .\core\templates\core\password_reset_confirm.html:27
 msgid "Confirm new password"
 msgstr "கடவுச்சொல்லை உறுதிப்படுத்தவும்"
 
-#: core/templates/core/password_reset_confirm.html:37
+#: .\core\templates\core\password_reset_confirm.html:37
 msgid "Set New Password"
 msgstr "புதிய கடவுச்சொல்லை அமை"
 
-#: core/templates/core/password_reset_confirm.html:41
+#: .\core\templates\core\password_reset_confirm.html:41
 msgid "This reset link is invalid or has expired."
 msgstr "இந்த இணைப்பு செல்லாது அல்லது காலாவதியானது."
 
-#: core/templates/core/password_reset_confirm.html:42
+#: .\core\templates\core\password_reset_confirm.html:42
 msgid "Request a new link"
 msgstr "புதிய இணைப்பு கோரவும்"
 
-#: core/templates/core/password_reset_done.html:8
+#: .\core\templates\core\password_reset_done.html:8
 msgid "Check your email"
 msgstr "உங்கள் மின்னஞ்சலைச் சரிபார்க்கவும்"
 
-#: core/templates/core/password_reset_done.html:10
-msgid "If an account exists for that address, a password reset link has been sent. Check your spam folder if you don't see it."
+#: .\core\templates\core\password_reset_done.html:10
+msgid ""
+"If an account exists for that address, a password reset link has been sent. "
+"Check your spam folder if you don't see it."
 msgstr "மின்னஞ்சல் அனுப்பப்பட்டது. ஸ்பேம் கோப்புறையைச் சரிபார்க்கவும்."
 
-#: core/templates/core/password_reset_form.html:7
+#: .\core\templates\core\password_reset_form.html:7
 msgid "Reset Password"
 msgstr "கடவுச்சொல்லை மீட்டமை"
 
-#: core/templates/core/password_reset_form.html:8
+#: .\core\templates\core\password_reset_form.html:8
 msgid "Enter your email and we'll send you a reset link."
 msgstr "மின்னஞ்சலை உள்ளிடவும், மீட்டமைப்பு இணைப்பு அனுப்பப்படும்."
 
-#: core/templates/core/password_reset_form.html:14 core/templates/core/register.html:35
+#: .\core\templates\core\password_reset_form.html:14
+#: .\core\templates\core\register.html:35
 msgid "Email address"
 msgstr "மின்னஞ்சல் முகவரி"
 
-#: core/templates/core/password_reset_form.html:17
+#: .\core\templates\core\password_reset_form.html:17
 msgid "Send Reset Link"
 msgstr "மீட்டமைப்பு இணைப்பை அனுப்பு"
 
-#: core/templates/core/privacy.html:11
-msgid "Last updated"
-msgstr "கடைசியாகப் புதுப்பிக்கப்பட்டது"
-
-#: core/templates/core/privacy.html:16
-msgid "What we collect"
-msgstr "நாங்கள் சேகரிப்பது"
-
-#: core/templates/core/privacy.html:17
-msgid "When you create an account, we store:"
-msgstr "கணக்கை உருவாக்கும்போது நாங்கள் சேமிப்பது:"
-
-#: core/templates/core/privacy.html:19
-msgid "Username and email address"
-msgstr "பயனர் பெயர் மற்றும் மின்னஞ்சல் முகவரி"
-
-#: core/templates/core/privacy.html:20
-msgid "Hashed password (we never store your plain password)"
-msgstr "கடவுச்சொல் பாதுகாப்பு"
-
-#: core/templates/core/privacy.html:21
-msgid "Breathing and meditation session history (technique, cycles, date)"
-msgstr "சுவாசம் மற்றும் தியானப் பயிற்சி வரலாறு"
-
-#: core/templates/core/privacy.html:22
-msgid "Language preference"
-msgstr "மொழி முன்னுரிமை"
-
-#: core/templates/core/privacy.html:23
-msgid "Profile picture URL (a link you provide — we don't store image files)"
-msgstr "சுயவிவரப் பட இணைப்பு"
-
-#: core/templates/core/privacy.html:28
-msgid "What we don't do"
-msgstr "நாங்கள் செய்யாதவை"
-
-#: core/templates/core/privacy.html:30
-msgid "We do not sell your personal data to third parties."
-msgstr "உங்கள் தகவல்களை விற்க மாட்டோம்."
-
-#: core/templates/core/privacy.html:31
-msgid "We do not share your session history or health-related data with advertisers."
-msgstr "உங்கள் தரவுகளை விளம்பரதாரர்களுக்குப் பகிர மாட்டோம்."
-
-#: core/templates/core/privacy.html:32
-msgid "We do not collect health or medical data."
-msgstr "ஆரோக்கியத் தகவல்களைச் சேகரிக்க மாட்டோம்."
-
-#: core/templates/core/privacy.html:37
-msgid "Advertising"
-msgstr "விளம்பரம்"
-
-#: core/templates/core/privacy.html:39
-msgid "Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity."
-msgstr "ஆப்ஸின் இலவசச் சேவையைத் தக்கவைக்க விளம்பரங்கள் காட்டப்படுகின்றன."
-
-#: core/templates/core/privacy.html:42
-msgid "We use Google AdSense (or similar) to serve ads."
-msgstr "நாங்கள் விளம்பரங்களுக்கு Google AdSense-ஐப் பயன்படுத்துகிறோம்."
-
-#: core/templates/core/privacy.html:43
-msgid "Ad partners may collect device identifiers, IP address, and browsing behaviour."
-msgstr "விளம்பரதாரர்கள் தொழில்நுட்ப தரவுகளைச் சேகரிக்கலாம்."
-
-#: core/templates/core/privacy.html:44
-msgid "You can opt out of personalised ads via your Google account settings or your device's ad settings."
-msgstr "தனிப்பயனாக்கப்பட்ட விளம்பரங்களை நீங்கள் முடக்கலாம்."
-
-#: core/templates/core/privacy.html:45
-msgid "Logged-in users' breathing session data is never shared with advertisers."
-msgstr "பயனர் தரவு விளம்பரதாரர்களுடன் பகிரப்படாது."
-
-#: core/templates/core/privacy.html:50
-msgid "Guest users"
-msgstr "விருந்தினர் பயனர்கள்"
-
-#: core/templates/core/privacy.html:52
-msgid "If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect."
-msgstr "கணக்கு இல்லாமல் பயன்படுத்தினால் மொழி முன்னுரிமை தவிர வேறு தரவுகள் சேமிக்கப்படாது."
-
-#: core/templates/core/privacy.html:57
-msgid "Donations (PayPal)"
-msgstr "நன்கொடைகள் (PayPal)"
-
-#: core/templates/core/privacy.html:59
-msgid "Donations are processed by PayPal. We do not receive or store your payment details. PayPal's own privacy policy applies to that transaction."
-msgstr "நன்கொடைகள் PayPal மூலம் கையாளப்படுகின்றன."
-
-#: core/templates/core/privacy.html:64
-msgid "Your rights"
-msgstr "உங்கள் உரிமைகள்"
-
-#: core/templates/core/privacy.html:65
-msgid "You can:"
-msgstr "நீங்கள் செய்யலாம்:"
-
-#: core/templates/core/privacy.html:67
-msgid "Export your session history from your profile page at any time."
-msgstr "உங்கள் பயிற்சி வரலாற்றை ஏற்றுமதி செய்யலாம்."
-
-#: core/templates/core/privacy.html:68
-msgid "Delete your account by contacting us — all your data will be permanently removed."
-msgstr "உங்கள் கணக்கை நீக்க எங்களைத் தொடர்பு கொள்ளலாம்."
-
-#: core/templates/core/privacy.html:69
-msgid "Use the app as a guest with no account and no data stored by us."
-msgstr "கணக்கு இல்லாமல் விருந்தினராகப் பயன்படுத்தலாம்."
-
-#: core/templates/core/privacy.html:74
-msgid "Data storage"
-msgstr "தரவு சேமிப்பு"
-
-#: core/templates/core/privacy.html:76
-msgid "Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management."
-msgstr "உங்கள் தரவுகள் பாதுகாப்பான சர்வரில் உள்ளன."
-
-#: core/templates/core/privacy.html:81
-msgid "Contact"
-msgstr "தொடர்பு"
-
-#: core/templates/core/privacy.html:83
-msgid "Questions about this policy? Reach us at"
-msgstr "கேள்விகள் உள்ளதா? எங்களைத் தொடர்பு கொள்ளவும்"
-
-#: core/templates/core/profile.html:28
+#: .\core\templates\core\profile.html:28
 msgid "Profile Picture"
 msgstr "சுயவிவரப் படம்"
 
-#: core/templates/core/profile.html:38
+#: .\core\templates\core\profile.html:38
 msgid "Save"
 msgstr "சேமி"
 
-#: core/templates/core/profile.html:44
+#: .\core\templates\core\profile.html:44
 msgid "Your Stats"
 msgstr "உங்கள் புள்ளிவிவரங்கள்"
 
-#: core/templates/core/profile.html:46
+#: .\core\templates\core\profile.html:46
 msgid "Total sessions"
 msgstr "மொத்த பயிற்சிகள்"
 
-#: core/templates/core/profile.html:50
+#: .\core\templates\core\profile.html:50
 msgid "Minutes meditated"
 msgstr "தியான நிமிடங்கள்"
 
-#: core/templates/core/profile.html:54
-msgid "Current streak"
-msgstr "தற்போதைய ஸ்ட்ரீக்"
-
-#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
-msgid "days"
-msgstr "நாட்கள்"
-
-#: core/templates/core/profile.html:58
-msgid "Longest streak"
-msgstr "நீண்ட ஸ்ட்ரீக்"
-
-#: core/templates/core/profile.html:65
+#: .\core\templates\core\profile.html:57
 msgid "Security"
 msgstr "பாதுகாப்பு"
 
-#: core/templates/core/profile.html:67
+#: .\core\templates\core\profile.html:59
 msgid "Change Password"
 msgstr "கடவுச்சொல்லை மாற்று"
 
-#: core/templates/core/profile.html:77
+#: .\core\templates\core\profile.html:73
 msgid "Session History"
 msgstr "பயிற்சி வரலாறு"
 
-#: core/templates/core/profile.html:79
+#: .\core\templates\core\profile.html:75
 msgid "Export CSV"
 msgstr "CSV ஏற்றுமதி"
 
-#: core/templates/core/profile.html:90
+#: .\core\templates\core\profile.html:86
 msgid "Level"
 msgstr "நிலை"
 
-#: core/templates/core/register.html:8 core/templates/core/register.html:72
+#: .\core\templates\core\register.html:8 .\core\templates\core\register.html:72
 msgid "Create Account"
 msgstr "கணக்கை உருவாக்கு"
 
-#: core/templates/core/register.html:9
+#: .\core\templates\core\register.html:9
 msgid "Free forever. No credit card needed."
 msgstr "எப்போதும் இலவசம். கார்டு தேவையில்லை."
 
-#: core/templates/core/register.html:60
+#: .\core\templates\core\register.html:60
 msgid "Confirm password"
 msgstr "கடவுச்சொல்லை உறுதிப்படுத்து"
 
-#: core/templates/core/register.html:78
+#: .\core\templates\core\register.html:78
 msgid "Already have an account?"
 msgstr "ஏற்கனவே கணக்கு உள்ளதா?"
 
-#: core/templates/core/register.html:79
+#: .\core\templates\core\register.html:79
 msgid "Log in"
 msgstr "உள்நுழை"
 
-#: core/templates/core/session.html:19
+#: .\core\templates\core\session.html:19
 msgid "Configure Exercise"
 msgstr "பயிற்சியை அமைக்கவும்"
 
-#: core/templates/core/session.html:22
+#: .\core\templates\core\session.html:22
 msgid "Breathing Technique"
 msgstr "சுவாச முறை"
 
-#: core/templates/core/session.html:27
+#: .\core\templates\core\session.html:27
 msgid "Custom Manual Rhythm..."
 msgstr "சுயமாக அமைக்கும் முறை..."
 
-#: core/templates/core/session.html:34
+#: .\core\templates\core\session.html:34
 msgid "Intensity Level"
 msgstr "தீவிரத்தன்மை"
 
-#: core/templates/core/session.html:45
+#: .\core\templates\core\session.html:45
 msgid "Target Exercise Cycles"
 msgstr "இலக்கு சுழற்சிகள்"
 
-#: core/templates/core/session.html:53
+#: .\core\templates\core\session.html:53
 msgid "Initialize Breathing Tracker"
 msgstr "சுவாச டிராக்கரைத் தொடங்கு"
 
-#: core/templates/core/session.html:63
+#: .\core\templates\core\session.html:63
 msgid "Ready to Begin"
 msgstr "தொடங்கத் தயார்"
 
-#: core/templates/core/session.html:69
+#: .\core\templates\core\session.html:69
 msgid "Cycle"
 msgstr "சுழற்சி"
 
-#: core/views.py:87
+#: .\core\views.py:104
 msgid "Hold"
 msgstr "நிறுத்து"
 
-#: core/views.py:89
+#: .\core\views.py:106
 msgid "Rest"
 msgstr "ஓய்வெடு"
 
-msgid "Settings"
-msgstr "அமைப்புகள்"
+#: .\core\templates\privacy.html:10
+msgid "Privacy Policy | Breathing Bot"
+msgstr "தனியுரிமைக் கொள்கை | Breathing Bot"
+
+#: .\core\templates\privacy.html:13
+msgid "Last updated: June 2026"
+msgstr "கடைசியாக புதுப்பிக்கப்பட்டது: ஜூன் 2026"
+
+#: .\core\templates\privacy.html:16
+msgid "Note:"
+msgstr "குறிப்பு:"
+
+#: .\core\templates\privacy.html:16
+msgid "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience."
+msgstr "Breathing Bot தற்போது ஒரு சோதனை பீட்டா கட்டத்தில் உள்ளது. அம்சங்கள் புதுப்பிக்கப்படலாம், மேலும் நாங்கள் அனுபவத்தை மேம்படுத்தும்போது உங்கள் கருத்து பெரிதும் பாராட்டப்படுகிறது."
+
+#: .\core\templates\privacy.html:22
+msgid "What We Collect"
+msgstr "நாங்கள் சேகரிப்பவை"
+
+#: .\core\templates\privacy.html:23
+msgid "When you create an account, we securely store:"
+msgstr "நீங்கள் ஒரு கணக்கை உருவாக்கும்போது, நாங்கள் பாதுகாப்பாக சேமிக்கிறோம்:"
+
+#: .\core\templates\privacy.html:25
+msgid "Account Credentials:"
+msgstr "கணக்கு நற்சான்றிதழ்கள்:"
+
+#: .\core\templates\privacy.html:25
+msgid "Username and email address."
+msgstr "பயனர் பெயர் மற்றும் மின்னஞ்சல் முகவரி."
+
+#: .\core\templates\privacy.html:26
+msgid "Security:"
+msgstr "பாதுகாப்பு:"
+
+#: .\core\templates\privacy.html:26
+msgid "Cryptographically hashed passwords (we never store or have access to your plain-text password)."
+msgstr "கிரிப்டோகிராஃபிக் முறையில் ஹாஷ் செய்யப்பட்ட கடவுச்சொற்கள் (உங்கள் எளிய உரை கடவுச்சொல்லை நாங்கள் ஒருபோதும் சேமிப்பதில்லை அல்லது அணுகுவதில்லை)."
+
+#: .\core\templates\privacy.html:27
+msgid "Application Data:"
+msgstr "செயலி தரவு:"
+
+#: .\core\templates\privacy.html:27
+msgid "Breathing and meditation session history (selected technique, completed cycles, and timestamps)."
+msgstr "சுவாசம் மற்றும் தியான அமர்வு வரலாறு (தேர்ந்தெடுக்கப்பட்ட நுட்பம், முடிக்கப்பட்ட சுழற்சிகள் மற்றும் நேர முத்திரைகள்)."
+
+#: .\core\templates\privacy.html:28
+msgid "Preferences:"
+msgstr "விருப்பத்தேர்வுகள்:"
+
+#: .\core\templates\privacy.html:28
+msgid "Localized language preferences."
+msgstr "உள்ளூர்மயமாக்கப்பட்ட மொழி விருப்பத்தேர்வுகள்."
+
+#: .\core\templates\privacy.html:29
+msgid "Profile Assets:"
+msgstr "சுயவிவர சொத்துக்கள்:"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile picture URL (an external link you provide — we do not host or store image files on our servers)."
+msgstr "சுயவிவரப் பட URL (நீங்கள் வழங்கும் வெளிப்புற இணைப்பு — எங்கள் சேவையகங்களில் படக் கோப்புகளை நாங்கள் ஹோஸ்ட் செய்யவோ அல்லது சேமிக்கவோ மாட்டோம்)."
+
+#: .\core\templates\privacy.html:34
+msgid "What We Do Not Do"
+msgstr "நாங்கள் செய்யாதவை"
+
+#: .\core\templates\privacy.html:36
+msgid "No Data Selling:"
+msgstr "தரவு விற்பனை இல்லை:"
+
+#: .\core\templates\privacy.html:36
+msgid "We do not sell your personal data to third parties."
+msgstr "உங்கள் தனிப்பட்ட தரவை நாங்கள் மூன்றாம் தரப்பினருக்கு விற்பனை செய்வதில்லை."
+
+#: .\core\templates\privacy.html:37
+msgid "No Data Sharing:"
+msgstr "தரவு பகிர்வு இல்லை:"
+
+#: .\core\templates\privacy.html:37
+msgid "We do not share your individual session history or usage habits with advertisers."
+msgstr "உங்கள் தனிப்பட்ட அமர்வு வரலாறு அல்லது பயன்பாட்டுப் பழக்கங்களை விளம்பரதாரர்களுடன் நாங்கள் பகிர்ந்து கொள்வதில்லை."
+
+#: .\core\templates\privacy.html:38
+msgid "No Medical Tracking:"
+msgstr "மருத்துவ கண்காணிப்பு இல்லை:"
+
+#: .\core\templates\privacy.html:38
+msgid "We do not collect medical or biometric health metrics."
+msgstr "நாங்கள் மருத்துவ அல்லது பயோமெட்ரிக் சுகாதார அளவீடுகளை சேகரிப்பதில்லை."
+
+#: .\core\templates\privacy.html:43
+msgid "Advertising & Third-Party Cookies"
+msgstr "விளம்பரம் மற்றும் மூன்றாம் தரப்பு குக்கீகள்"
+
+#: .\core\templates\privacy.html:44
+msgid "Breathing Bot displays minimalist advertisements to support free access to the application."
+msgstr "செயலிக்கான இலவச அணுகலை ஆதரிக்க Breathing Bot சிறிய விளம்பரங்களைக் காட்டுகிறது."
+
+#: .\core\templates\privacy.html:47
+msgid "We partner with Google AdSense (or similar networks) to serve advertisements."
+msgstr "விளம்பரங்களை வழங்க நாங்கள் Google AdSense (அல்லது ஒத்த நெட்வொர்க்குகளுடன்) கூட்டு சேர்ந்துள்ளோம்."
+
+#: .\core\templates\privacy.html:48
+msgid "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads."
+msgstr "விளம்பரப் பங்காளிகள் பொருத்தமான விளம்பரங்களை வழங்க சாதன அடையாளங்காட்டிகள், ஐபி முகவரிகள் மற்றும் உலாவல் நடத்தை ஆகியவற்றைச் சேகரிக்க குக்கீகள் மற்றும் ஒத்த தொழில்நுட்பங்களைப் பயன்படுத்தலாம்."
+
+#: .\core\templates\privacy.html:49
+msgid "Your Privacy First: Logged-in users' specific breathing session data is strictly isolated and never shared with advertisers."
+msgstr "உங்கள் தனியுரிமைக்கு முதலிடம்: உள்நுழைந்த பயனர்களின் குறிப்பிட்ட சுவாச அமர்வு தரவு கண்டிப்பாக தனிமைப்படுத்தப்பட்டுள்ளது மற்றும் விளம்பரதாரர்களுடன் ஒருபோதும் பகிரப்படாது."
+
+#: .\core\templates\privacy.html:50
+msgid "Control:"
+msgstr "கட்டுப்பாடு:"
+
+#: .\core\templates\privacy.html:50
+msgid "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences."
+msgstr "உங்கள் Google கணக்கு அமைப்புகள் அல்லது உங்கள் உள்ளூர் சாதனத்தின் விளம்பரக் கண்காணிப்பு விருப்பத்தேர்வுகள் மூலம் நீங்கள் எப்போது வேண்டுமானாலும் தனிப்பயனாக்கப்பட்ட விளம்பரத்திலிருந்து விலகலாம்."
+
+#: .\core\templates\privacy.html:55
+msgid "Guest Users"
+msgstr "விருந்தினர் பயனர்கள்"
+
+#: .\core\templates\privacy.html:56
+msgid "If you utilize Breathing Bot without creating an account, we store exactly one functional cookie—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized."
+msgstr "நீங்கள் கணக்கை உருவாக்காமல் Breathing Bot ஐப் பயன்படுத்தினால், நாங்கள் சரியாக ஒரு செயல்பாட்டு குக்கியை—உங்கள் மொழி விருப்பத்தேர்வு—சேமிப்போம், இதனால் இடைமுகம் வருகைகளுக்கு இடையில் நீங்கள் தேர்ந்தெடுத்த மொழியை நினைவில் வைத்திருக்கும். தனிப்பட்ட அடையாளம், அமர்வு பதிவுகள் மற்றும் தனிப்பயன் கண்காணிப்பு அளவுருக்கள் எதுவும் தொடங்கப்படவில்லை."
+
+#: .\core\templates\privacy.html:61
+msgid "Your Rights & Data Autonomy"
+msgstr "உங்கள் உரிமைகள் மற்றும் தரவு சுயாட்சி"
+
+#: .\core\templates\privacy.html:62
+msgid "நாங்கள் முழுமையான தரவு உரிமையை நம்புகிறோம். எந்த நேரத்திலும், உங்களால் முடியும்:"
+msgstr "நாங்கள் முழுமையான தரவு உரிமையை நம்புகிறோம். எந்த நேரத்திலும், உங்களால் முடியும்:"
+
+#: .\core\templates\privacy.html:64
+msgid "Export Your Data:"
+msgstr "உங்கள் தரவை ஏற்றுமதி செய்:"
+
+#: .\core\templates\privacy.html:64
+msgid "Download your entire compiled session history directly from your profile page."
+msgstr "உங்கள் சுயவிவரப் பக்கத்திலிருந்து நேரடியாக உங்கள் முழு தொகுக்கப்பட்ட அமர்வு வரலாற்றைப் பதிவிறக்கவும்."
+
+#: .\core\templates\privacy.html:65
+msgid "Absolute Deletion:"
+msgstr "முழுமையான நீக்கம்:"
+
+#: .\core\templates\privacy.html:65
+msgid "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases."
+msgstr "உங்கள் சுயவிவர டாஷ்போர்டு மூலம் உங்கள் கணக்கை உடனடியாக நீக்கவும், இது எங்கள் செயலில் உள்ள தரவுத்தளங்களிலிருந்து உங்கள் முழு பயனர் பதிவையும் நிரந்தரமாக நீக்குகிறது."
+
+#: .\core\templates\privacy.html:66
+msgid "Anonymous Access:"
+msgstr "அநாமதேய அணுகல்:"
+
+#: .\core\templates\privacy.html:66
+msgid "Use the application entirely as a guest without an account to minimize data presence."
+msgstr "தரவு இருப்பைக் குறைக்க கணக்கு இல்லாமல் முற்றிலும் விருந்தினராக செயலியைப் பயன்படுத்தவும்."
+
+#: .\core\templates\privacy.html:71
+msgid "Infrastructure & Data Storage"
+msgstr "உள்கட்டமைப்பு மற்றும் தரவு சேமிப்பு"
+
+#: .\core\templates\privacy.html:72
+msgid "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware."
+msgstr "உங்கள் தரவு உற்பத்தி தரம் வாய்ந்த, பாதுகாப்பான கிளவுட் சர்வர் சூழலில் சேமிக்கப்படுகிறது. தானியங்கி தரவுத்தள நெட்வொர்க் தனிமைப்படுத்தல், குறுக்கு-தள ஸ்கிரிப்டிங் காவலர்கள் மற்றும் பாதுகாப்பான அமர்வு மேலாண்மை மிடில்வேர் உள்ளிட்ட நிறுவன தர பாதுகாப்பு செயலாக்கங்களை நாங்கள் பயன்படுத்துகிறோம்."
+
+#: .\core\templates\privacy.html:77
+msgid "Contact & Support"
+msgstr "தொடர்பு மற்றும் ஆதரவு"
+
+#: .\core\templates\privacy.html:78
+msgid "If you have questions regarding this policy or data handling practices, please contact us at:"
+msgstr "இந்தக் கொள்கை அல்லது தரவு கையாளுதல் நடைமுறைகள் குறித்து உங்களுக்கு கேள்விகள் இருந்தால், எங்களை இங்கே தொடர்பு கொள்ளவும்:"

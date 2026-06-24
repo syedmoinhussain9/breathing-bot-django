@@ -1,83 +1,86 @@
 {% extends 'base.html' %}
 {% load static %}
-
-{% block title %}Privacy Policy | Breathing Bot{% endblock %}
+{% load i18n %}  {% block title %}{% trans "Privacy Policy" %} | Breathing Bot{% endblock %}
 
 {% block content %}
     <div class="container py-5" style="max-width: 700px;">
 
-        <h2 class="fw-bold mb-1">Privacy Policy</h2>
-        <p class="text-muted small mb-1">Last updated: June 2026</p>
+        <h2 class="fw-bold mb-1">{% trans "Privacy Policy" %}</h2>
+        <p class="text-muted small mb-1">{% trans "Last updated: June 2026" %}</p>
         
         <div class="alert alert-warning small mb-5" role="alert">
-            <strong>Note:</strong> Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience.
+            <strong>{% trans "Note:" %}</strong> {% trans "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience." %}
         </div>
 
         <div class="d-flex flex-column gap-4">
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">What we collect</h6>
-                <p class="text-muted small mb-2">When you create an account, we store:</p>
-                <ul class="text-muted small mb-0">
-                    <li>Username and email address</li>
-                    <li>Hashed password (we never store your plain password)</li>
-                    <li>Breathing and meditation session history (technique, cycles, date)</li>
-                    <li>Language preference</li>
-                    <li>Profile picture URL (a link you provide — we don't store image files)</li>
+                <h6 class="fw-semibold mb-2">{% trans "What We Collect" %}</h6>
+                <p class="text-muted small mb-2">{% trans "When you create an account, we securely store:" %}</p>
+                <ul class="text-muted small mb-0 d-flex flex-column gap-1">
+                    <li><strong>{% trans "Account Credentials:" %}</strong> {% trans "Username and email address." %}</li>
+                    <li><strong>{% trans "Security:" %}</strong> {% trans "Cryptographically hashed passwords (we never store or have access to your plain-text password)." %}</li>
+                    <li><strong>{% trans "Application Data:" %}</strong> {% trans "Breathing and meditation session history (selected technique, completed cycles, and timestamps)." %}</li>
+                    <li><strong>{% trans "Preferences:" %}</strong> {% trans "Localized language preferences." %}</li>
+                    <li><strong>{% trans "Profile Assets:" %}</strong> {% trans "Profile picture URL (an external link you provide — we do not host or store image files on our servers)." %}</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">What we don't do</h6>
-                <ul class="text-muted small mb-0">
-                    <li>We do not sell your personal data to third parties.</li>
-                    <li>We do not share your session history or health-related data with advertisers.</li>
-                    <li>We do not collect health or medical data.</li>
+                <h6 class="fw-semibold mb-2">{% trans "What We Do Not Do" %}</h6>
+                <ul class="text-muted small mb-0 d-flex flex-column gap-1">
+                    <li><strong>{% trans "No Data Selling:" %}</strong> {% trans "We do not sell your personal data to third parties." %}</li>
+                    <li><strong>{% trans "No Data Sharing:" %}</strong> {% trans "We do not share your individual session history or usage habits with advertisers." %}</li>
+                    <li><strong>{% trans "No Medical Tracking:" %}</strong> {% trans "We do not collect medical or biometric health metrics." %}</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">Advertising</h6>
+                <h6 class="fw-semibold mb-2">{% trans "Advertising & Third-Party Cookies" %}</h6>
                 <p class="text-muted small mb-2">
-                    Breathing Bot displays ads to support free access to the app. Our ad partners may use cookies and similar technologies to show relevant ads based on your browsing activity.
+                    {% trans "Breathing Bot displays minimalist advertisements to support free access to the application." %}
                 </p>
-                <ul class="text-muted small mb-0">
-                    <li>We use Google AdSense (or similar) to serve ads.</li>
-                    <li>Ad partners may collect device identifiers, IP address, and browsing behaviour.</li>
-                    <li>You can opt out of personalised ads via your Google account settings or your device's ad settings.</li>
-                    <li>Logged-in users' breathing session data is never shared with advertisers.</li>
+                <ul class="text-muted small mb-0 d-flex flex-column gap-1">
+                    <li>{% trans "We partner with Google AdSense (or similar networks) to serve advertisements." %}</li>
+                    <li>{% trans "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads." %}</li>
+                    <li>
+                        {% blocktrans %}<strong>Your Privacy First:</strong> Logged-in users' specific breathing session data is strictly isolated and <strong>never</strong> shared with advertisers.{% endblocktrans %}
+                    </li>
+                    <li><strong>{% trans "Control:" %}</strong> {% trans "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences." %}</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">Guest users</h6>
+                <h6 class="fw-semibold mb-2">{% trans "Guest Users" %}</h6>
                 <p class="text-muted small mb-0">
-                    If you use Breathing Bot without creating an account, we store one functional cookie — your language preference — so the app remembers your chosen language between visits. No personal data, no session history, and no tracking by us beyond what ad partners may collect.
+                    {% blocktrans %}If you utilize Breathing Bot without creating an account, we store exactly <strong>one functional cookie</strong>—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized.{% endblocktrans %}
                 </p>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">Your rights</h6>
-                <p class="text-muted small mb-2">You can:</p>
-                <ul class="text-muted small mb-0">
-                    <li>Export your session history from your profile page at any time.</li>
-                    <li>Delete your account by contacting us — all your data will be permanently removed.</li>
-                    <li>Use the app as a guest with no account and no data stored by us.</li>
+                <h6 class="fw-semibold mb-2">{% trans "Your Rights & Data Autonomy" %}</h6>
+                <p class="text-muted small mb-2">{% trans "We believe in absolute data ownership. At any time, you can:" %}</p>
+                <ul class="text-muted small mb-0 d-flex flex-column gap-1">
+                    <li><strong>{% trans "Export Your Data:" %}</strong> {% trans "Download your entire compiled session history directly from your profile page." %}</li>
+                    <li><strong>{% trans "Absolute Deletion:" %}</strong> {% trans "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases." %}</li>
+                    <li><strong>{% trans "Anonymous Access:" %}</strong> {% trans "Use the application entirely as a guest without an account to minimize data presence." %}</li>
                 </ul>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">Data storage</h6>
+                <h6 class="fw-semibold mb-2">{% trans "Infrastructure & Data Storage" %}</h6>
                 <p class="text-muted small mb-0">
-                    Your data is stored on a secure server. We use Django's built-in security features including password hashing, CSRF protection, and session management.
+                    {% trans "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware." %}
                 </p>
             </div>
 
             <div class="card border-0 shadow-sm p-4">
-                <h6 class="fw-semibold mb-2">Contact</h6>
+                <h6 class="fw-semibold mb-2">{% trans "Contact & Support" %}</h6>
                 <p class="text-muted small mb-0">
-                    Questions about this policy? Reach us at 
-                    <a href="mailto:breathing_bot_syed@outlook.com">breathing_bot_syed@outlook.com</a>
+                    {% trans "If you have questions regarding this policy or data handling practices, please contact us at:" %}<br>
+                    <a href="mailto:breathing_bot_syed@outlook.com" class="text-decoration-none fw-medium">
+                        📩 breathing_bot_syed@outlook.com
+                    </a>
                 </p>
             </div>
 

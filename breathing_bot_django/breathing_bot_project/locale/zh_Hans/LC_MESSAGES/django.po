@@ -2,724 +2,707 @@
 msgid ""
 msgstr ""
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-08 09:03+0000\n"
+"POT-Creation-Date: 2026-06-24 17:09+0530\n"
 "Language: zh_Hans\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 
-#: core/presets.py:5
+#: .\core\presets.py:5
 msgid "1-4-2 Lung Conditioning Pattern"
 msgstr "1-4-2 肺部调理模式"
 
-#: core/presets.py:13
+#: .\core\presets.py:13
 msgid ""
 "A classic respiratory conditioning sequence designed to maximize blood "
 "oxygenation and expand vital lung capacity over time."
 msgstr "经典的呼吸调节序列，旨在最大化血液含氧量并随着时间的推移扩大肺活量。"
 
-#: core/presets.py:16
+#: .\core\presets.py:16
 msgid "Box Breathing (Navy SEAL Tactical Clarity)"
 msgstr "箱式呼吸（海豹突击队战术清明法）"
 
-#: core/presets.py:24
+#: .\core\presets.py:24
 msgid ""
 "The gold standard for high-stress grounding. Equal duration phases clear "
 "cortisol, settle racing hearts, and restore sharp mental clarity."
-msgstr "高压下恢复镇定的黄金标准。等长的各个阶段有助于清除皮质醇、平复心跳并恢复敏锐的精神状态。"
+msgstr ""
+"高压下恢复镇定的黄金标准。等长的各个阶段有助于清除皮质醇、平复心跳并恢复敏锐"
+"的精神状态。"
 
-#: core/presets.py:27
+#: .\core\presets.py:27
 msgid "4-7-8 Relaxation (Nervous System Tranquilizer)"
 msgstr "4-7-8 放松法（神经系统镇静剂）"
 
-#: core/presets.py:35
+#: .\core\presets.py:35
 msgid ""
-"Acts as a natural chemical brake for your sympathetic nervous system. Highly"
-" recommended for severe anxiety and floating into deep sleep."
+"Acts as a natural chemical brake for your sympathetic nervous system. Highly "
+"recommended for severe anxiety and floating into deep sleep."
 msgstr "作为交感神经系统的天然化学制动器。强烈推荐用于缓解严重焦虑和助眠。"
 
-#: core/presets.py:38
+#: .\core\presets.py:38
 msgid "Coherent / Resonant Breathing (Asthma & Panic Relief)"
 msgstr "谐振呼吸（哮喘与恐慌缓解）"
 
-#: core/presets.py:46
+#: .\core\presets.py:46
 msgid ""
 "Balances the vagus nerve and optimizes heart rate variability (HRV). Zero "
 "hold times make this perfectly safe for active asthma management."
-msgstr "平衡迷走神经并优化心率变异性 (HRV)。无需屏气，因此对活动性哮喘管理绝对安全。"
+msgstr ""
+"平衡迷走神经并优化心率变异性 (HRV)。无需屏气，因此对活动性哮喘管理绝对安全。"
 
-#: core/presets.py:49
+#: .\core\presets.py:49
 msgid "Tactical Breathing (Sustained Equilibrium)"
 msgstr "战术呼吸（持续平衡）"
 
-#: core/presets.py:57
+#: .\core\presets.py:57
 msgid ""
 "A specialized, low-overhead holding variant used by responders to reduce "
 "somatic anxiety without inducing lightheadedness."
 msgstr "一种由救援人员使用的低负荷屏气变体，用于减轻躯体焦虑而不引起头晕。"
 
-#: core/presets.py:60
+#: .\core\presets.py:60
 msgid "Pursed-Lip Splinting (COPD & Air-Trapping Relief)"
 msgstr "缩唇呼吸（COPD与气体滞留缓解）"
 
-#: core/presets.py:68
+#: .\core\presets.py:68
 msgid ""
 "Creates passive mechanical backpressure to keep bronchial pathways open. "
 "Crucial for individuals with emphysema or structural shortness of breath."
-msgstr "产生被动机械反压以保持支气管通路开放。对肺气肿或结构性呼吸急促患者至关重要。"
+msgstr ""
+"产生被动机械反压以保持支气管通路开放。对肺气肿或结构性呼吸急促患者至关重要。"
 
-#: core/presets.py:71
+#: .\core\presets.py:71
 msgid "Physiological Sigh (Acute Hyperventilation Intercept)"
 msgstr "生理性叹息（急性过度通气阻截）"
 
-#: core/presets.py:79
+#: .\core\presets.py:79
 msgid ""
 "Simulates the biological double-inhale reflex to instantly re-inflate "
 "collapsed alveoli and maximize immediate carbon dioxide unloading."
-msgstr "模拟生物体的双重吸气反射，瞬间使萎陷的肺胞重新充气，并最大化即时的二氧化碳排出。"
+msgstr ""
+"模拟生物体的双重吸气反射，瞬间使萎陷的肺胞重新充气，并最大化即时的二氧化碳排"
+"出。"
 
-#: core/presets.py:82
+#: .\core\presets.py:82
 msgid "Extended Cardiac Exhale (Hypertension / Vagal Tone)"
 msgstr "延长呼气法（高血压/迷走神经张力控制）"
 
-#: core/presets.py:90
+#: .\core\presets.py:90
 msgid ""
 "Exhale window is mathematically doubled relative to inhale. Maximizes "
 "acetylcholinergic outflow to safely downregulate heart rate and blood "
 "pressure."
-msgstr "呼气时间在数学上是吸气时间的两倍。最大化乙酰胆碱输出，以安全地降低心率和血压。"
+msgstr ""
+"呼气时间在数学上是吸气时间的两倍。最大化乙酰胆碱输出，以安全地降低心率和血"
+"压。"
 
-#: core/templates/404.html:5
+#: .\core\templates\404.html:5
 msgid "Page Not Found"
 msgstr "页面未找到"
 
-#: core/templates/404.html:13
+#: .\core\templates\404.html:13
 msgid "Page not found"
 msgstr "页面未找到"
 
-#: core/templates/404.html:15
+#: .\core\templates\404.html:15
 msgid ""
-"The page you're looking for doesn't exist. It may have been moved or the URL"
-" might be wrong."
+"The page you're looking for doesn't exist. It may have been moved or the URL "
+"might be wrong."
 msgstr "您查找的页面不存在。它可能已被移动，或者URL有误。"
 
-#: core/templates/404.html:20
+#: .\core\templates\404.html:20
 msgid "Go home"
 msgstr "返回首页"
 
-#: core/templates/404.html:23
+#: .\core\templates\404.html:23
 msgid "Start breathing"
 msgstr "开始呼吸"
 
-#: core/templates/base.html:46
+#: .\core\templates\base.html:47
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing"
 msgstr "呼吸"
 
-#: core/templates/base.html:51 core/templates/core/free.html:22
+#: .\core\templates\base.html:52 .\core\templates\core\free.html:22
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Breathing Exercises"
 msgstr "呼吸练习"
 
-#: core/templates/base.html:56 core/templates/core/dashboard.html:34
-#: core/templates/core/free.html:33 core/templates/core/panicroom.html:8
+#: .\core\templates\base.html:57 .\core\templates\core\dashboard.html:34
+#: .\core\templates\core\free.html:33 .\core\templates\core\panicroom.html:8
 msgid "Coherent Breathing"
 msgstr "谐振呼吸"
 
-#: core/templates/base.html:61 core/templates/core/dashboard.html:46
-#: core/templates/core/free.html:44 core/templates/core/meditate.html:9
+#: .\core\templates\base.html:62 .\core\templates\core\dashboard.html:46
+#: .\core\templates\core\free.html:44 .\core\templates\core\meditate.html:9
 msgid "Meditation Room"
 msgstr "冥想室"
 
-#: core/templates/base.html:70
+#: .\core\templates\base.html:71
 msgid "Dashboard"
 msgstr "仪表板"
 
-#: core/templates/base.html:75
+#: .\core\templates\base.html:76
 msgid "Profile"
 msgstr "个人资料"
 
-#: core/templates/base.html:82
-msgid "Donate"
-msgstr "捐赠"
-
-#: core/templates/base.html:96
+#: .\core\templates\base.html:91
 msgid "Language"
 msgstr "语言"
 
-#: core/templates/base.html:110
+#: .\core\templates\base.html:105
 msgid "Logout"
 msgstr "退出登录"
 
-#: core/templates/base.html:115
+#: .\core\templates\base.html:110
 msgid "Register"
 msgstr "注册"
 
-#: core/templates/base.html:130
+#: .\core\templates\base.html:125
 msgid "Designed for accessibility. Completely free and open-source."
 msgstr "为无障碍访问而设计。完全免费且开源。"
 
-#: core/templates/base.html:133 core/templates/core/privacy.html:5
-#: core/templates/core/privacy.html:10
+#: .\core\templates\base.html:128
 msgid "Privacy Policy"
 msgstr "隐私政策"
 
-#: core/templates/base.html:135
-msgid "Support Us"
-msgstr "支持我们"
-
-#: core/templates/core/dashboard.html:9
+#: .\core\templates\core\dashboard.html:9
 msgid "Welcome to Breathing Bot"
 msgstr "欢迎使用 Breathing Bot"
 
-#: core/templates/core/dashboard.html:10
+#: .\core\templates\core\dashboard.html:10
 msgid ""
 "Free breathing exercises, coherent breathing, and meditation — all in one "
 "place."
 msgstr "免费呼吸练习、谐振呼吸和冥想——尽在一处。"
 
-#: core/templates/core/dashboard.html:22
+#: .\core\templates\core\dashboard.html:22
 msgid "Guided Breathing"
 msgstr "引导式呼吸"
 
-#: core/templates/core/dashboard.html:23
+#: .\core\templates\core\dashboard.html:23
 msgid "Guest"
 msgstr "访客"
 
-#: core/templates/core/dashboard.html:35
+#: .\core\templates\core\dashboard.html:35
 msgid "Panic Relief"
 msgstr "缓解恐慌"
 
-#: core/templates/core/dashboard.html:47
+#: .\core\templates\core\dashboard.html:47
 msgid "Brown Noise"
 msgstr "棕色噪音"
 
-#: core/templates/core/dashboard.html:58
+#: .\core\templates\core\dashboard.html:58
 msgid "Free User Login"
 msgstr "免费用户登录"
 
-#: core/templates/core/dashboard.html:59
+#: .\core\templates\core\dashboard.html:59
 msgid "Login to save progress and track history."
 msgstr "登录以保存进度并跟踪历史记录。"
 
-#: core/templates/core/dashboard.html:64
+#: .\core\templates\core\dashboard.html:64
 msgid "Invalid username or password."
 msgstr "用户名或密码无效。"
 
-#: core/templates/core/dashboard.html:67 core/templates/core/register.html:22
+#: .\core\templates\core\dashboard.html:67
+#: .\core\templates\core\register.html:22
 msgid "Username"
 msgstr "用户名"
 
-#: core/templates/core/dashboard.html:69 core/templates/core/register.html:48
+#: .\core\templates\core\dashboard.html:69
+#: .\core\templates\core\register.html:48
 msgid "Password"
 msgstr "密码"
 
-#: core/templates/core/dashboard.html:70
+#: .\core\templates\core\dashboard.html:70
 msgid "Login"
 msgstr "登录"
 
-#: core/templates/core/dashboard.html:74
+#: .\core\templates\core\dashboard.html:74
 msgid "Create account"
 msgstr "创建账户"
 
-#: core/templates/core/dashboard.html:75
+#: .\core\templates\core\dashboard.html:75
 msgid "Forgot password?"
 msgstr "忘记密码？"
 
-#: core/templates/core/donate.html:11
-msgid "Support Breathing Bot"
-msgstr "支持 Breathing Bot"
+#: .\core\templates\core\delete_confirm.html:7
+#: .\core\templates\core\profile.html:63
+#, fuzzy
+#| msgid "Create Account"
+msgid "Delete Account"
+msgstr "创建账户"
 
-#: core/templates/core/donate.html:13
+#: .\core\templates\core\delete_confirm.html:8
 msgid ""
-"Breathing Bot is free and will always stay free. If it has helped you, "
-"consider supporting its development."
-msgstr "Breathing Bot 是免费的，并将永远保持免费。如果它对您有帮助，请考虑支持其开发。"
+"Are you sure you want to delete your account? This action is permanent and "
+"cannot be undone."
+msgstr ""
 
-#: core/templates/core/donate.html:27
-msgid ""
-"One-time donation. Any amount helps keep the server running and development "
-"going."
-msgstr "一次性捐赠。任何金额都有助于维持服务器运行和开发进行。"
+#: .\core\templates\core\delete_confirm.html:13
+#, fuzzy
+#| msgid "Create Account"
+msgid "Yes, Delete My Account"
+msgstr "创建账户"
 
-#: core/templates/core/donate.html:41
-msgid "Donate with PayPal"
-msgstr "通过PayPal捐赠"
+#: .\core\templates\core\delete_confirm.html:14
+msgid "Cancel"
+msgstr ""
 
-#: core/templates/core/donate.html:42
-msgid "Coming Soon"
-msgstr "即将推出"
-
-#: core/templates/core/donate.html:48
-msgid "Other ways to help"
-msgstr "其他支持方式"
-
-#: core/templates/core/donate.html:55
-msgid "Spread the word"
-msgstr "口口相传"
-
-#: core/templates/core/donate.html:56
-msgid "Share Breathing Bot with someone who might benefit from it."
-msgstr "将 Breathing Bot 分享给可能受益的人。"
-
-#: core/templates/core/donate.html:64
-msgid "Report bugs"
-msgstr "报告错误"
-
-#: core/templates/core/donate.html:65
-msgid "Found something broken? Let us know so we can fix it."
-msgstr "发现了问题？告诉我们，我们来修复。"
-
-#: core/templates/core/donate.html:73
-msgid "Give feedback"
-msgstr "提供反馈"
-
-#: core/templates/core/donate.html:74
-msgid "Ideas for new features or languages are always welcome."
-msgstr "新功能或语言的想法随时欢迎。"
-
-#: core/templates/core/donate.html:81
-msgid "Thank you for using Breathing Bot."
-msgstr "感谢您使用 Breathing Bot。"
-
-#: core/templates/core/free.html:9
+#: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "欢迎回来"
 
-#: core/templates/core/free.html:10
+#: .\core\templates\core\free.html:10
 #, fuzzy
 #| msgid "Ready to Begin"
 msgid "Ready to breathe?"
 msgstr "准备好呼吸了吗？"
 
-#: core/templates/core/free.html:53
+#: .\core\templates\core\free.html:53
 msgid "Recent Sessions"
 msgstr "近期练习"
 
-#: core/templates/core/free.html:55
+#: .\core\templates\core\free.html:55
 msgid "View all"
 msgstr "查看全部"
 
-#: core/templates/core/free.html:63 core/templates/core/profile.html:89
+#: .\core\templates\core\free.html:63 .\core\templates\core\profile.html:85
 #, fuzzy
 #| msgid "Breathing Technique"
 msgid "Technique"
 msgstr "技术"
 
-#: core/templates/core/free.html:64 core/templates/core/profile.html:91
-msgid "Cycles / Min"
-msgstr "循环 / 分"
+#: .\core\templates\core\free.html:64 .\core\templates\core\profile.html:87
+msgid "Minutes"
+msgstr ""
 
-#: core/templates/core/free.html:65 core/templates/core/profile.html:88
+#: .\core\templates\core\free.html:65 .\core\templates\core\profile.html:84
 msgid "Date"
 msgstr "日期"
 
-#: core/templates/core/free.html:78 core/templates/core/profile.html:129
+#: .\core\templates\core\free.html:78 .\core\templates\core\profile.html:125
 msgid ""
 "No sessions yet. Complete a breathing exercise to see your history here."
 msgstr "暂无练习记录。完成一次呼吸练习后，您的历史记录将显示在此处。"
 
-#: core/templates/core/meditate.html:10
-msgid "Brown noise"
+#: .\core\templates\core\meditate.html:10
+msgid "Pure sound, no distractions"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:15
+msgid "Sound texture"
+msgstr ""
+
+#: .\core\templates\core\meditate.html:17
+#, fuzzy
+#| msgid "Brown Noise"
+msgid "Brown"
 msgstr "棕色噪音"
 
-#: core/templates/core/meditate.html:10
-msgid "mathematically generated, no files"
-msgstr "数学生成，无文件"
+#: .\core\templates\core\meditate.html:18
+msgid "White"
+msgstr ""
 
-#: core/templates/core/meditate.html:14
-#, fuzzy
-#| msgid "Session has ended"
-msgid "Session duration"
-msgstr "练习时长"
+#: .\core\templates\core\meditate.html:19
+msgid "Pink"
+msgstr ""
 
-#: core/templates/core/meditate.html:16 core/templates/core/meditate.html:17
-#: core/templates/core/meditate.html:18 core/templates/core/meditate.html:19
-#: core/templates/core/meditate.html:20
-msgid "min"
-msgstr "分钟"
+#: .\core\templates\core\meditate.html:25
+msgid "Duration"
+msgstr ""
 
-#: core/templates/core/meditate.html:23
+#: .\core\templates\core\meditate.html:35
 msgid "Custom minutes (1–120)"
 msgstr "自定义分钟数（1–120）"
 
-#: core/templates/core/meditate.html:30 core/templates/core/meditate.html:36
-msgid "select a duration to begin"
-msgstr "请选择时长以开始"
+#: .\core\templates\core\meditate.html:46
+#, fuzzy
+#| msgid "Ready to Begin"
+msgid "Ready to begin"
+msgstr "准备就绪"
 
-#: core/templates/core/meditate.html:31
-msgid "please select a duration first"
-msgstr "请先选择时长"
+#: .\core\templates\core\meditate.html:51
+#, fuzzy
+#| msgid "Total sessions"
+msgid "Start Session"
+msgstr "总练习次数"
 
-#: core/templates/core/meditate.html:32
-msgid "session in progress"
-msgstr "练习进行中"
-
-#: core/templates/core/meditate.html:33
-msgid "session complete"
-msgstr "练习完成"
-
-#: core/templates/core/meditate.html:41 core/templates/core/panicroom.html:29
-msgid "Start"
-msgstr "开始"
-
-#: core/templates/core/meditate.html:44 core/templates/core/panicroom.html:32
+#: .\core\templates\core\meditate.html:54
+#: .\core\templates\core\panicroom.html:32
 msgid "Stop"
 msgstr "停止"
 
-#: core/templates/core/panicroom.html:9
+#: .\core\templates\core\panicroom.html:9
 msgid "6 seconds in, 6 seconds out. Calms the nervous system."
 msgstr "吸气6秒，呼气6秒。平静神经系统。"
 
-#: core/templates/core/panicroom.html:14 core/views.py:86 core/views.py:117
+#: .\core\templates\core\panicroom.html:14 .\core\views.py:103
+#: .\core\views.py:134
 msgid "Inhale"
 msgstr "吸气"
 
-#: core/templates/core/panicroom.html:15 core/views.py:88 core/views.py:118
+#: .\core\templates\core\panicroom.html:15 .\core\views.py:105
+#: .\core\views.py:135
 msgid "Exhale"
 msgstr "呼气"
 
-#: core/templates/core/panicroom.html:16 core/views.py:90 core/views.py:119
+#: .\core\templates\core\panicroom.html:16 .\core\views.py:107
+#: .\core\views.py:136
 msgid "Session has ended"
 msgstr "练习已结束"
 
-#: core/templates/core/panicroom.html:23
+#: .\core\templates\core\panicroom.html:23
 msgid "Ready"
 msgstr "就绪"
 
-#: core/templates/core/password_reset_complete.html:8
+#: .\core\templates\core\panicroom.html:29
+msgid "Start"
+msgstr "开始"
+
+#: .\core\templates\core\password_reset_complete.html:8
 msgid "Password updated"
 msgstr "密码已更新"
 
-#: core/templates/core/password_reset_complete.html:9
+#: .\core\templates\core\password_reset_complete.html:9
 msgid "Your password has been set. You can now log in with your new password."
 msgstr "您的密码已设置。您现在可以用新密码登录。"
 
-#: core/templates/core/password_reset_complete.html:10
-#: core/templates/core/password_reset_done.html:12
-#: core/templates/core/password_reset_form.html:22
+#: .\core\templates\core\password_reset_complete.html:10
+#: .\core\templates\core\password_reset_done.html:12
+#: .\core\templates\core\password_reset_form.html:22
 msgid "Back to login"
 msgstr "返回登录"
 
-#: core/templates/core/password_reset_confirm.html:7
+#: .\core\templates\core\password_reset_confirm.html:7
 msgid "Choose New Password"
 msgstr "选择新密码"
 
-#: core/templates/core/password_reset_confirm.html:8
+#: .\core\templates\core\password_reset_confirm.html:8
 msgid "Enter your new password below."
 msgstr "请在下方输入您的新密码。"
 
-#: core/templates/core/password_reset_confirm.html:16
+#: .\core\templates\core\password_reset_confirm.html:16
 msgid "New password"
 msgstr "新密码"
 
-#: core/templates/core/password_reset_confirm.html:27
+#: .\core\templates\core\password_reset_confirm.html:27
 msgid "Confirm new password"
 msgstr "确认新密码"
 
-#: core/templates/core/password_reset_confirm.html:37
+#: .\core\templates\core\password_reset_confirm.html:37
 msgid "Set New Password"
 msgstr "设置新密码"
 
-#: core/templates/core/password_reset_confirm.html:41
+#: .\core\templates\core\password_reset_confirm.html:41
 msgid "This reset link is invalid or has expired."
 msgstr "此重置链接无效或已过期。"
 
-#: core/templates/core/password_reset_confirm.html:42
+#: .\core\templates\core\password_reset_confirm.html:42
 msgid "Request a new link"
 msgstr "申请新链接"
 
-#: core/templates/core/password_reset_done.html:8
+#: .\core\templates\core\password_reset_done.html:8
 msgid "Check your email"
 msgstr "请检查您的邮箱"
 
-#: core/templates/core/password_reset_done.html:10
+#: .\core\templates\core\password_reset_done.html:10
 msgid ""
 "If an account exists for that address, a password reset link has been sent. "
 "Check your spam folder if you don't see it."
-msgstr "如果该地址存在账户，密码重置链接已发送。如未收到，请检查垃圾邮件文件夹。"
+msgstr ""
+"如果该地址存在账户，密码重置链接已发送。如未收到，请检查垃圾邮件文件夹。"
 
-#: core/templates/core/password_reset_form.html:7
+#: .\core\templates\core\password_reset_form.html:7
 msgid "Reset Password"
 msgstr "重置密码"
 
-#: core/templates/core/password_reset_form.html:8
+#: .\core\templates\core\password_reset_form.html:8
 msgid "Enter your email and we'll send you a reset link."
 msgstr "输入您的邮箱，我们将发送重置链接。"
 
-#: core/templates/core/password_reset_form.html:14
-#: core/templates/core/register.html:35
+#: .\core\templates\core\password_reset_form.html:14
+#: .\core\templates\core\register.html:35
 msgid "Email address"
 msgstr "电子邮件地址"
 
-#: core/templates/core/password_reset_form.html:17
+#: .\core\templates\core\password_reset_form.html:17
 msgid "Send Reset Link"
 msgstr "发送重置链接"
 
-#: core/templates/core/privacy.html:11
-msgid "Last updated"
-msgstr "最后更新"
-
-#: core/templates/core/privacy.html:16
-msgid "What we collect"
-msgstr "我们收集的内容"
-
-#: core/templates/core/privacy.html:17
-msgid "When you create an account, we store:"
-msgstr ""
-
-#: core/templates/core/privacy.html:19
-msgid "Username and email address"
-msgstr ""
-
-#: core/templates/core/privacy.html:20
-msgid "Hashed password (we never store your plain password)"
-msgstr ""
-
-#: core/templates/core/privacy.html:21
-msgid "Breathing and meditation session history (technique, cycles, date)"
-msgstr ""
-
-#: core/templates/core/privacy.html:22
-msgid "Language preference"
-msgstr ""
-
-#: core/templates/core/privacy.html:23
-msgid "Profile picture URL (a link you provide — we don't store image files)"
-msgstr ""
-
-#: core/templates/core/privacy.html:28
-msgid "What we don't do"
-msgstr "我们不做的事"
-
-#: core/templates/core/privacy.html:30
-msgid "We do not sell your personal data to third parties."
-msgstr ""
-
-#: core/templates/core/privacy.html:31
-msgid ""
-"We do not share your session history or health-related data with "
-"advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:32
-msgid "We do not collect health or medical data."
-msgstr ""
-
-#: core/templates/core/privacy.html:37
-msgid "Advertising"
-msgstr "广告"
-
-#: core/templates/core/privacy.html:39
-msgid ""
-"Breathing Bot displays ads to support free access to the app. Our ad "
-"partners may use cookies and similar technologies to show relevant ads based"
-" on your browsing activity."
-msgstr ""
-
-#: core/templates/core/privacy.html:42
-msgid "We use Google AdSense (or similar) to serve ads."
-msgstr ""
-
-#: core/templates/core/privacy.html:43
-msgid ""
-"Ad partners may collect device identifiers, IP address, and browsing "
-"behaviour."
-msgstr ""
-
-#: core/templates/core/privacy.html:44
-msgid ""
-"You can opt out of personalised ads via your Google account settings or your"
-" device's ad settings."
-msgstr ""
-
-#: core/templates/core/privacy.html:45
-msgid ""
-"Logged-in users' breathing session data is never shared with advertisers."
-msgstr ""
-
-#: core/templates/core/privacy.html:50
-msgid "Guest users"
-msgstr "访客用户"
-
-#: core/templates/core/privacy.html:52
-msgid ""
-"If you use Breathing Bot without creating an account, we store one "
-"functional cookie — your language preference — so the app remembers your "
-"chosen language between visits. No personal data, no session history, and no"
-" tracking by us beyond what ad partners may collect."
-msgstr ""
-
-#: core/templates/core/privacy.html:57
-msgid "Donations (PayPal)"
-msgstr "捐款（PayPal）"
-
-#: core/templates/core/privacy.html:59
-msgid ""
-"Donations are processed by PayPal. We do not receive or store your payment "
-"details. PayPal's own privacy policy applies to that transaction."
-msgstr ""
-
-#: core/templates/core/privacy.html:64
-msgid "Your rights"
-msgstr "您的权利"
-
-#: core/templates/core/privacy.html:65
-msgid "You can:"
-msgstr "您可以："
-
-#: core/templates/core/privacy.html:67
-msgid "Export your session history from your profile page at any time."
-msgstr ""
-
-#: core/templates/core/privacy.html:68
-msgid ""
-"Delete your account by contacting us — all your data will be permanently "
-"removed."
-msgstr ""
-
-#: core/templates/core/privacy.html:69
-msgid "Use the app as a guest with no account and no data stored by us."
-msgstr ""
-
-#: core/templates/core/privacy.html:74
-msgid "Data storage"
-msgstr "数据存储"
-
-#: core/templates/core/privacy.html:76
-msgid ""
-"Your data is stored on a secure server. We use Django's built-in security "
-"features including password hashing, CSRF protection, and session "
-"management."
-msgstr ""
-
-#: core/templates/core/privacy.html:81
-msgid "Contact"
-msgstr "联系我们"
-
-#: core/templates/core/privacy.html:83
-msgid "Questions about this policy? Reach us at"
-msgstr "有关此政策的疑问？请联系我们："
-
-#: core/templates/core/profile.html:28
+#: .\core\templates\core\profile.html:28
 msgid "Profile Picture"
 msgstr "头像"
 
-#: core/templates/core/profile.html:38
+#: .\core\templates\core\profile.html:38
 msgid "Save"
 msgstr "保存"
 
-#: core/templates/core/profile.html:44
+#: .\core\templates\core\profile.html:44
 msgid "Your Stats"
 msgstr "您的统计"
 
-#: core/templates/core/profile.html:46
+#: .\core\templates\core\profile.html:46
 msgid "Total sessions"
 msgstr "总练习次数"
 
-#: core/templates/core/profile.html:50
+#: .\core\templates\core\profile.html:50
 msgid "Minutes meditated"
 msgstr "冥想分钟数"
 
-#: core/templates/core/profile.html:54
-msgid "Current streak"
-msgstr "当前连续天数"
-
-#: core/templates/core/profile.html:55 core/templates/core/profile.html:59
-msgid "days"
-msgstr "天"
-
-#: core/templates/core/profile.html:58
-msgid "Longest streak"
-msgstr "最长连续天数"
-
-#: core/templates/core/profile.html:65
+#: .\core\templates\core\profile.html:57
 msgid "Security"
 msgstr "安全"
 
-#: core/templates/core/profile.html:67
+#: .\core\templates\core\profile.html:59
 msgid "Change Password"
 msgstr "修改密码"
 
-#: core/templates/core/profile.html:77
+#: .\core\templates\core\profile.html:73
 msgid "Session History"
 msgstr "练习历史"
 
-#: core/templates/core/profile.html:79
+#: .\core\templates\core\profile.html:75
 msgid "Export CSV"
 msgstr "导出CSV"
 
-#: core/templates/core/profile.html:90
+#: .\core\templates\core\profile.html:86
 msgid "Level"
 msgstr "级别"
 
-#: core/templates/core/register.html:8 core/templates/core/register.html:72
+#: .\core\templates\core\register.html:8 .\core\templates\core\register.html:72
 msgid "Create Account"
 msgstr "创建账户"
 
-#: core/templates/core/register.html:9
+#: .\core\templates\core\register.html:9
 msgid "Free forever. No credit card needed."
 msgstr "永久免费，无需信用卡。"
 
-#: core/templates/core/register.html:60
+#: .\core\templates\core\register.html:60
 msgid "Confirm password"
 msgstr "确认密码"
 
-#: core/templates/core/register.html:78
+#: .\core\templates\core\register.html:78
 msgid "Already have an account?"
 msgstr "已有账户？"
 
-#: core/templates/core/register.html:79
+#: .\core\templates\core\register.html:79
 msgid "Log in"
 msgstr "登录"
 
-#: core/templates/core/session.html:19
+#: .\core\templates\core\session.html:19
 msgid "Configure Exercise"
 msgstr "配置练习"
 
-#: core/templates/core/session.html:22
+#: .\core\templates\core\session.html:22
 msgid "Breathing Technique"
 msgstr "呼吸技巧"
 
-#: core/templates/core/session.html:27
+#: .\core\templates\core\session.html:27
 msgid "Custom Manual Rhythm..."
 msgstr "自定义手动节律..."
 
-#: core/templates/core/session.html:34
+#: .\core\templates\core\session.html:34
 msgid "Intensity Level"
 msgstr "强度等级"
 
-#: core/templates/core/session.html:45
+#: .\core\templates\core\session.html:45
 msgid "Target Exercise Cycles"
 msgstr "目标练习周期"
 
-#: core/templates/core/session.html:53
+#: .\core\templates\core\session.html:53
 msgid "Initialize Breathing Tracker"
 msgstr "启动呼吸追踪器"
 
-#: core/templates/core/session.html:63
+#: .\core\templates\core\session.html:63
 msgid "Ready to Begin"
 msgstr "准备就绪"
 
-#: core/templates/core/session.html:69
+#: .\core\templates\core\session.html:69
 msgid "Cycle"
 msgstr "周期"
 
-#: core/views.py:87
+#: .\core\views.py:104
 msgid "Hold"
 msgstr "屏气"
 
-#: core/views.py:89
+#: .\core\views.py:106
 msgid "Rest"
 msgstr "放松"
 
-#~ msgid ""
-#~ "Select an optimized medical pacing cycle or build your own manual tracking "
-#~ "rhythm."
-#~ msgstr "选择优化的医疗节律周期或构建您自定义的手动追踪节律。"
+#: .\core\templates\privacy.html:10
+msgid "Privacy Policy | Breathing Bot"
+msgstr "隐私政策 | Breathing Bot"
 
-#~ msgid "Hold (Post-Inhale)"
-#~ msgstr "屏气（吸气后）"
+#: .\core\templates\privacy.html:13
+msgid "Last updated: June 2026"
+msgstr "最后更新：2026年6月"
 
-#~ msgid "Rest (Post-Exhale)"
-#~ msgstr "放松（呼气后）"
+#: .\core\templates\privacy.html:16
+msgid "Note:"
+msgstr "注意："
+
+#: .\core\templates\privacy.html:16
+msgid "Breathing Bot is currently in an experimental beta phase. Features may be updated, and your feedback is highly appreciated as we improve the experience."
+msgstr "Breathing Bot 目前处于实验性测试阶段。功能可能会更新，非常感谢您在我们将体验改进时提供的反馈。"
+
+#: .\core\templates\privacy.html:22
+msgid "What We Collect"
+msgstr "我们收集的信息"
+
+#: .\core\templates\privacy.html:23
+msgid "When you create an account, we securely store:"
+msgstr "当您创建账户时，我们会安全地存储："
+
+#: .\core\templates\privacy.html:25
+msgid "Account Credentials:"
+msgstr "账户凭证："
+
+#: .\core\templates\privacy.html:25
+msgid "Username and email address."
+msgstr "用户名和电子邮件地址。"
+
+#: .\core\templates\privacy.html:26
+msgid "Security:"
+msgstr "安全："
+
+#: .\core\templates\privacy.html:26
+msgid "Cryptographically hashed passwords (we never store or have access to your plain-text password)."
+msgstr "加密散列密码（我们从未存储或有权访问您的明文密码）。"
+
+#: .\core\templates\privacy.html:27
+msgid "Application Data:"
+msgstr "应用数据："
+
+#: .\core\templates\privacy.html:27
+msgid "Breathing and meditation session history (selected technique, completed cycles, and timestamps)."
+msgstr "呼吸和冥想会话历史记录（所选技术、完成的循环和时间戳）。"
+
+#: .\core\templates\privacy.html:28
+msgid "Preferences:"
+msgstr "偏好设置："
+
+#: .\core\templates\privacy.html:28
+msgid "Localized language preferences."
+msgstr "本地化语言偏好。"
+
+#: .\core\templates\privacy.html:29
+msgid "Profile Assets:"
+msgstr "个人资料资产："
+
+#: .\core\templates\privacy.html:29
+msgid "Profile picture URL (an external link you provide — we do not host or store image files on our servers)."
+msgstr "个人资料图片 URL（您提供的外部链接 — 我们不在服务器上托管或存储图像文件）。"
+
+#: .\core\templates\privacy.html:34
+msgid "What We Do Not Do"
+msgstr "我们不执行的操作"
+
+#: .\core\templates\privacy.html:36
+msgid "No Data Selling:"
+msgstr "不销售数据："
+
+#: .\core\templates\privacy.html:36
+msgid "We do not sell your personal data to third parties."
+msgstr "我们不会将您的个人数据出售给第三方。"
+
+#: .\core\templates\privacy.html:37
+msgid "No Data Sharing:"
+msgstr "不共享数据："
+
+#: .\core\templates\privacy.html:37
+msgid "We do not share your individual session history or usage habits with advertisers."
+msgstr "我们不会与广告商共享您的个人会话历史记录或使用习惯。"
+
+#: .\core\templates\privacy.html:38
+msgid "No Medical Tracking:"
+msgstr "无医疗追踪："
+
+#: .\core\templates\privacy.html:38
+msgid "We do not collect medical or biometric health metrics."
+msgstr "我们不收集医疗或生物特征健康指标。"
+
+#: .\core\templates\privacy.html:43
+msgid "Advertising & Third-Party Cookies"
+msgstr "广告和第三方 Cookie"
+
+#: .\core\templates\privacy.html:44
+msgid "Breathing Bot displays minimalist advertisements to support free access to the application."
+msgstr "Breathing Bot 显示极简广告，以支持免费访问应用。"
+
+#: .\core\templates\privacy.html:47
+msgid "We partner with Google AdSense (or similar networks) to serve advertisements."
+msgstr "我们与 Google AdSense（或类似网络）合作投放广告。"
+
+#: .\core\templates\privacy.html:48
+msgid "Ad partners may utilize cookies and similar technologies to collect device identifiers, IP addresses, and browsing behavior to serve relevant ads."
+msgstr "广告合作伙伴可能会利用 Cookie 和类似技术收集设备标识符、IP 地址和浏览行为，以投放相关广告。"
+
+#: .\core\templates\privacy.html:49
+msgid "Your Privacy First: Logged-in users' specific breathing session data is strictly isolated and never shared with advertisers."
+msgstr "您的隐私至上：已登录用户的特定呼吸会话数据被严格隔离，绝不会与广告商共享。"
+
+#: .\core\templates\privacy.html:50
+msgid "Control:"
+msgstr "控制："
+
+#: .\core\templates\privacy.html:50
+msgid "You can opt out of personalized advertising at any time via your Google Account Settings or your local device's ad tracking preferences."
+msgstr "您可以随时通过 Google 账户设置或本地设备的广告追踪偏好设置选择退出个性化广告。"
+
+#: .\core\templates\privacy.html:55
+msgid "Guest Users"
+msgstr "访客用户"
+
+#: .\core\templates\privacy.html:56
+msgid "If you utilize Breathing Bot without creating an account, we store exactly one functional cookie—your language preference—so the interface remembers your chosen language between visits. No personal identification, no session logs, and no custom tracking parameters are initialized."
+msgstr "如果您在未创建账户的情况下使用 Breathing Bot，我们仅存储一个功能性 Cookie（您的语言偏好），以便界面在两次访问之间记住您选择的语言。不会初始化个人识别、会话日志和自定义追踪参数。"
+
+#: .\core\templates\privacy.html:61
+msgid "Your Rights & Data Autonomy"
+msgstr "您的权利和数据自主权"
+
+#: .\core\templates\privacy.html:62
+msgid "我们相信绝对的数据所有权。在任何时候，您可以："
+msgstr "我们相信绝对的数据所有权。在任何时候，您可以："
+
+#: .\core\templates\privacy.html:64
+msgid "Export Your Data:"
+msgstr "导出您的数据："
+
+#: .\core\templates\privacy.html:64
+msgid "Download your entire compiled session history directly from your profile page."
+msgstr "直接从您的个人资料页面下载您整个编译的会话历史记录。"
+
+#: .\core\templates\privacy.html:65
+msgid "Absolute Deletion:"
+msgstr "绝对删除："
+
+#: .\core\templates\permanent.html:65
+msgid "Delete your account instantly via your profile dashboard, which permanently deletes your entire user record from our active databases."
+msgstr "通过您的个人资料仪表盘立即删除您的账户，这将从我们的活动数据库中永久删除您的整个用户记录。"
+
+#: .\core\templates\privacy.html:66
+msgid "Anonymous Access:"
+msgstr "匿名访问："
+
+#: .\core\templates\privacy.html:66
+msgid "Use the application entirely as a guest without an account to minimize data presence."
+msgstr "完全以访客身份在没有账户的情况下使用应用，以尽量减少数据存在。"
+
+#: .\core\templates\privacy.html:71
+msgid "Infrastructure & Data Storage"
+msgstr "基础设施和数据存储"
+
+#: .\core\templates\privacy.html:72
+msgid "Your data is stored within production-grade, secure cloud server environments. We leverage enterprise-standard security implementations, including automated database network isolation, cross-site scripting guards, and secure session management middleware."
+msgstr "您的数据存储在生产级、安全的云服务器环境中。我们利用企业标准的安全实现，包括自动化的数据库网络隔离、跨站脚本防护和安全会话管理中间件。"
+
+#: .\core\templates\privacy.html:77
+msgid "Contact & Support"
+msgstr "联系与支持"
+
+#: .\core\templates\privacy.html:78
+msgid "If you have questions regarding this policy or data handling practices, please contact us at:"
+msgstr "如果您对本政策或数据处理实践有任何疑问，请通过以下方式联系我们："
