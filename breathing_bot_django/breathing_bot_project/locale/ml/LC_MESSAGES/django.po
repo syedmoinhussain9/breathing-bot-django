@@ -243,26 +243,20 @@ msgstr "പാസ്‌വേഡ് മറന്നോ?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "അക്കൗണ്ട് സൃഷ്ടിക്കുക"
+msgstr "അക്കൗണ്ട് ഇല്ലാതാക്കുക"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "നിങ്ങളുടെ അക്കൗണ്ട് ഇല്ലാതാക്കണമെന്ന് ഉറപ്പാണോ? ഈ നടപടി ശാശ്വതമാണ്, മാറ്റാൻ കഴിയില്ല."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "അക്കൗണ്ട് സൃഷ്ടിക്കുക"
+msgstr "അതെ, എന്റെ അക്കൗണ്ട് ഇല്ലാതാക്കുക"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "റദ്ദാക്കുക"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

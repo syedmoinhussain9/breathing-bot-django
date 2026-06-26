@@ -35,6 +35,8 @@ DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
 # Allow local environments and any subdomains on Render
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.onrender.com']
 
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
 
 # ── APPLICATION DEFINITION ───────────────────────────────────────────────────
 INSTALLED_APPS = [
@@ -136,30 +138,30 @@ LANGUAGE_COOKIE_HTTPONLY = True
 
 LANGUAGES = [
     ('en', 'English'),
-    ('it', 'Italian'),
-    ('zh-hans', 'Chinese'),
-    ('hi', 'Hindi'),
-    ('es', 'Spanish'),
-    ('fr', 'French'),
     ('ar', 'Arabic'),
+    ('as', 'Assamese'),
     ('bn', 'Bengali'),
+    ('zh-hans', 'Chinese'),
+    ('fr', 'French'),
+    ('de', 'German'),
+    ('gu', 'Gujarati'),
+    ('he', 'Hebrew'),
+    ('hi', 'Hindi'),
+    ('id', 'Indonesian'),
+    ('it', 'Italian'),
+    ('ja', 'Japanese'),
+    ('kn', 'Kannada'),
+    ('ko', 'Korean'),
+    ('ml', 'Malayalam'),
+    ('mr', 'Marathi'),
     ('pt', 'Portuguese'),
     ('ru', 'Russian'),
-    ('ur', 'Urdu'),
-    ('id', 'Indonesian'),
-    ('de', 'German'),
-    ('ja', 'Japanese'),
+    ('es', 'Spanish'),
+    ('sv', 'Swedish'),
     ('ta', 'Tamil'),
     ('te', 'Telugu'),
-    ('kn', 'Kannada'),
-    ('ml', 'Malayalam'),
-    ('gu', 'Gujarati'),
-    ('mr', 'Marathi'),
-    ('as', 'Assamese'),
-    ('sv', 'Swedish'),
-    ('ko', 'Korean'),
+    ('ur', 'Urdu'),
     ('vi', 'Vietnamese'),
-    ('he', 'Hebrew'),
 ]
 
 LOCALE_PATHS = [
@@ -178,7 +180,14 @@ STATICFILES_DIRS = [
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 # Storage Engine optimizations: compresses files and aggressively caches files safely
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+STORAGES = {
+    "default": {
+        "BACKEND": "django.core.files.storage.FileSystemStorage",
+    },
+    "staticfiles": {
+        "BACKEND": "whitenoise.storage.CompressedManifestStaticFilesStorage",
+    },
+}
 
 
 # ── MISCELLANEOUS DEFINITIONS ────────────────────────────────────────────────

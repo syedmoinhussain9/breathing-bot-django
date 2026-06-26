@@ -247,27 +247,20 @@ msgstr "Забыли пароль?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "Создать аккаунт"
+msgstr "Удалить аккаунт"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "Вы уверены, что хотите удалить свой аккаунт? Это действие необратимо."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "Создать аккаунт"
+msgstr "Да, удалить мой аккаунт"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
-
+msgstr "Отмена"
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"
 msgstr "Добро пожаловать обратно"

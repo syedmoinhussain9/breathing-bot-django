@@ -239,26 +239,20 @@ msgstr "পাসওয়ার্ড ভুলে গেছেন?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "অ্যাকাউন্ট তৈরি করুন"
+msgstr "অ্যাকাউন্ট মুছুন"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "আপনি কি নিশ্চিত যে আপনি আপনার অ্যাকাউন্টটি মুছে ফেলতে চান? এই কাজটি স্থায়ী এবং পূর্বাবস্থায় ফেরানো যাবে না।"
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "অ্যাকাউন্ট তৈরি করুন"
+msgstr "হ্যাঁ, আমার অ্যাকাউন্টটি মুছুন"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "বাতিল"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

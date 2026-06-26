@@ -233,26 +233,20 @@ msgstr "પાસવર્ડ ભૂલી ગયા?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "એકાઉન્ટ બનાવો"
+msgstr "ખાતું કાઢી નાખો"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "શું તમે ખરેખર તમારું ખાતું કાઢી નાખવા માંગો છો? આ પ્રક્રિયા કાયમી છે અને તેને બદલી શકાશે નહીં."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "એકાઉન્ટ બનાવો"
+msgstr "હા, મારું ખાતું કાઢી નાખો"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "રદ કરો"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

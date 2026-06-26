@@ -241,26 +241,20 @@ msgstr "비밀번호를 잊으셨나요?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "계정 만들기"
+msgstr "계정 삭제"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "계정을 정말로 삭제하시겠습니까? 이 작업은 영구적이며 취소할 수 없습니다."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "계정 만들기"
+msgstr "예, 계정을 삭제합니다"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "취소"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

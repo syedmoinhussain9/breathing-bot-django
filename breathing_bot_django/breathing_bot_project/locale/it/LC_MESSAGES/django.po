@@ -229,17 +229,15 @@ msgstr "Password dimenticata?"
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
 msgid "Delete Account"
-msgstr "Elimina Account"
+msgstr "Elimina account"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
 msgstr "Sei sicuro di voler eliminare il tuo account? Questa azione è permanente e non può essere annullata."
 
 #: .\core\templates\core\delete_confirm.html:13
 msgid "Yes, Delete My Account"
-msgstr "Sì, Elimina il Mio Account"
+msgstr "Sì, elimina il mio account"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"

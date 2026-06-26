@@ -239,26 +239,20 @@ msgstr "שכחת סיסמה?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "יצירת חשבון"
+msgstr "מחיקת חשבון"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "האם אתה בטוח שברצונך למחוק את החשבון שלך? פעולה זו היא קבועה ולא ניתן לבטלה."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "יצירת חשבון"
+msgstr "כן, מחק את החשבון שלי"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "ביטול"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

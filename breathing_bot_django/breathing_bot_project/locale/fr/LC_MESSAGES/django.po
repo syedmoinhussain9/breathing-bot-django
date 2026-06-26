@@ -251,26 +251,20 @@ msgstr "Mot de passe oublié ?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "Créer un compte"
+msgstr "Supprimer le compte"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action é permanente et ne peut pas être annulée."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "Créer un compte"
+msgstr "Oui, supprimer mon compte"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"

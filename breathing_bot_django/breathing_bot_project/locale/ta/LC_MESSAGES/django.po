@@ -238,26 +238,20 @@ msgstr "கடவுச்சொல் மறந்துவிட்டதா?"
 
 #: .\core\templates\core\delete_confirm.html:7
 #: .\core\templates\core\profile.html:63
-#, fuzzy
-#| msgid "Create Account"
 msgid "Delete Account"
-msgstr "கணக்கை உருவாக்கு"
+msgstr "கணக்கை நீக்கு"
 
 #: .\core\templates\core\delete_confirm.html:8
-msgid ""
-"Are you sure you want to delete your account? This action is permanent and "
-"cannot be undone."
-msgstr ""
+msgid "Are you sure you want to delete your account? This action is permanent and cannot be undone."
+msgstr "உங்கள் கணக்கை நிச்சயமாக நீக்க விரும்புகிறீர்களா? இந்த நடவடிக்கை நிரந்தரமானது, இதை மாற்ற முடியாது."
 
 #: .\core\templates\core\delete_confirm.html:13
-#, fuzzy
-#| msgid "Create Account"
 msgid "Yes, Delete My Account"
-msgstr "கணக்கை உருவாக்கு"
+msgstr "ஆம், என் கணக்கை நீக்கு"
 
 #: .\core\templates\core\delete_confirm.html:14
 msgid "Cancel"
-msgstr ""
+msgstr "ரத்துசெய்"
 
 #: .\core\templates\core\free.html:9
 msgid "Welcome back"
