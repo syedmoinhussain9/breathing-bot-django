@@ -30,11 +30,14 @@ def get_env_variable(var_name):
 SECRET_KEY = get_env_variable('SECRET_KEY')
 
 # Evaluates explicitly to True only if explicitly set to 'True'
-# DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
-DEBUG = True
+DEBUG = False
 
 # Allow local environments and any subdomains on Render
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.onrender.com']
+ALLOWED_HOSTS = [
+    'breathing-bot.onrender.com',
+    '127.0.0.1',
+    'localhost',
+]
 
 # Render specific proxy header rule
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
@@ -106,22 +109,20 @@ WSGI_APPLICATION = 'breathing_bot_project.wsgi.application'
 
 
 # ── DATABASE CONFIGURATION ───────────────────────────────────────────────────
-# If we are in production on Render, pull the managed PostgreSQL connection
-# if not DEBUG:
-DATABASES = {
-    'default': dj_database_url.config(
-        default=os.environ.get('DATABASE_URL'),
-        conn_max_age=600
-    )
-}
-# else:
-#     # Local Development Database (SQLite)
-#     DATABASES = {
-#         'default': {
-#             'ENGINE': 'django.db.backends.sqlite3',
-#             'NAME': BASE_DIR / 'db.sqlite3',
-#         }
-#     }
+if not DEBUG or os.environ.get('DATABASE_URL'):
+    DATABASES = {
+        'default': dj_database_url.config(
+            default=os.environ.get('DATABASE_URL'),
+            conn_max_age=600
+        )
+    }
+else:
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
 
 
 # ── PASSWORD VALIDATION ──────────────────────────────────────────────────────
