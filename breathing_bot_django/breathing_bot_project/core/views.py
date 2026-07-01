@@ -9,7 +9,7 @@ from django.views import View
 from django.http import JsonResponse
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.utils import translation
-from django.utils.translation import gettext as _
+from django.utils.translation import gettext_lazy as _
 from django.utils.translation import get_language
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
