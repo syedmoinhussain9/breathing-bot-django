@@ -107,21 +107,21 @@ WSGI_APPLICATION = 'breathing_bot_project.wsgi.application'
 
 # ── DATABASE CONFIGURATION ───────────────────────────────────────────────────
 # If we are in production on Render, pull the managed PostgreSQL connection
-if not DEBUG:
-    DATABASES = {
-        'default': dj_database_url.config(
-            default=os.environ.get('DATABASE_URL'),
-            conn_max_age=600
-        )
-    }
-else:
-    # Local Development Database (SQLite)
-    DATABASES = {
-        'default': {
-            'ENGINE': 'django.db.backends.sqlite3',
-            'NAME': BASE_DIR / 'db.sqlite3',
-        }
-    }
+# if not DEBUG:
+DATABASES = {
+    'default': dj_database_url.config(
+        default=os.environ.get('DATABASE_URL'),
+        conn_max_age=600
+    )
+}
+# else:
+#     # Local Development Database (SQLite)
+#     DATABASES = {
+#         'default': {
+#             'ENGINE': 'django.db.backends.sqlite3',
+#             'NAME': BASE_DIR / 'db.sqlite3',
+#         }
+#     }
 
 
 # ── PASSWORD VALIDATION ──────────────────────────────────────────────────────
