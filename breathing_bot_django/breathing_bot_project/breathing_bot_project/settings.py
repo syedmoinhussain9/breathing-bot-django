@@ -30,7 +30,8 @@ def get_env_variable(var_name):
 SECRET_KEY = get_env_variable('SECRET_KEY')
 
 # Evaluates explicitly to True only if explicitly set to 'True'
-DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
+# DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
+DEBUG = True
 
 # Allow local environments and any subdomains on Render
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.onrender.com']
