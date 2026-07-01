@@ -35,7 +35,26 @@ DEBUG = os.environ.get('DJANGO_DEBUG', 'False') == 'True'
 # Allow local environments and any subdomains on Render
 ALLOWED_HOSTS = ['127.0.0.1', 'localhost', '.onrender.com']
 
+# Render specific proxy header rule
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+
+# ── ADDITIONAL SECURITY HARDENING ────────────────────────────────────────────
+if not DEBUG:
+    # Redirect all HTTP traffic to HTTPS (Fixes W008)
+    SECURE_SSL_REDIRECT = True
+
+    # Secure Cookies: Session and CSRF only over HTTPS (Fixes W012 & W016)
+    SESSION_COOKIE_SECURE = True
+    CSRF_COOKIE_SECURE = True
+
+    # Guard against XSS attacks and content type guessing
+    SECURE_BROWSER_XSS_FILTER = True
+    SECURE_CONTENT_TYPE_NOSNIFF = True
+
+    # HTTP Strict Transport Security (HSTS) (Fixes W004)
+    SECURE_HSTS_SECONDS = 3600  # 1 hour for safety verification initially
+    SECURE_HSTS_INCLUDE_SUBDOMAINS = True
+    SECURE_HSTS_PRELOAD = True
 
 
 # ── APPLICATION DEFINITION ───────────────────────────────────────────────────
