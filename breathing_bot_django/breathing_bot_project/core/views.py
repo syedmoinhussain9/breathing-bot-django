@@ -257,3 +257,8 @@ class ExportSessionsView(LoginRequiredMixin, View):
             ])
 
         return response
+
+def ads_txt_view(request):
+    # Paste the exact line you copied from AdSense here
+    content = "google.com, pub-5496441117289017, DIRECT, f08c47fec0942fa0"
+    return HttpResponse(content, content_type="text/plain")

@@ -44,4 +44,6 @@ urlpatterns = [
     path('api/log-session/', views.LogSessionView.as_view(), name='log_session'),
     path('lang/<str:lang_code>/', views.set_language_preference, name='set_language'),
     path('i18n/', include('django.conf.urls.i18n')),
+    path("ads.txt", views.ads_txt_view, name="ads_txt"),
 ]
+ 
