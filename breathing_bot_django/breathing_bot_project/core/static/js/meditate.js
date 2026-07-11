@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // ── 1. Configuration & State ──────────────────────────────────────────
+    // ── Global Audio Variables ──────────────────────────────────────────
     let audioCtx = null;
     let sourceNode = null;
     let gainNode = null;
@@ -8,6 +8,17 @@ document.addEventListener("DOMContentLoaded", () => {
     let intervalId = null;
     let totalSeconds = 300;
     let remainingSeconds = 0;
+
+    // ── Media Session (Lock Screen Support) ─────────────────────────────
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+            title: 'Breathing Session',
+            artist: 'Breathing Bot',
+            album: 'Wellness'
+        });
+        navigator.mediaSession.setActionHandler('play', () => {});
+        navigator.mediaSession.setActionHandler('pause', () => {});
+    }
 
     // ── 2. Initialize UI ──────────────────────────────────────────────────
     updateDisplay(totalSeconds);
@@ -62,7 +73,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     // ── 4. Audio Engine ───────────────────────────────────────────────────
     function startAudio() {
-        if (!audioCtx) audioCtx = new(window.AudioContext || window.webkitAudioContext)();
+        if (!audioCtx) audioCtx = new (window.AudioContext || window.webkitAudioContext)();
         if (audioCtx.state === 'suspended') audioCtx.resume();
 
         gainNode = audioCtx.createGain();
@@ -73,25 +84,13 @@ document.addEventListener("DOMContentLoaded", () => {
         sourceNode.buffer = buildNoiseBuffer(audioCtx, currentNoiseType);
         sourceNode.loop = true;
 
-        // 1. Primary Low-Pass Filter
         const lpf = audioCtx.createBiquadFilter();
         lpf.type = 'lowpass';
-        lpf.frequency.value = (currentNoiseType === 'brown') ? 400 :
-            (currentNoiseType === 'pink' ? 1500 : 3000);
+        lpf.frequency.value = (currentNoiseType === 'brown') ? 400 : (currentNoiseType === 'pink' ? 1500 : 3000);
 
-        // 2. High-Shelf Filter to smooth out White Noise harshness
-        const shelf = audioCtx.createBiquadFilter();
-        shelf.type = 'highshelf';
-        shelf.frequency.value = 5000;
-        // If white, cut the high-shelf by 10dB, otherwise keep it neutral
-        shelf.gain.value = (currentNoiseType === 'white') ? -10 : 0;
-
-        // Connect chain: Source -> LPF -> Shelf -> Gain -> Output
         sourceNode.connect(lpf);
-        lpf.connect(shelf);
-        shelf.connect(gainNode);
+        lpf.connect(gainNode);
         gainNode.connect(audioCtx.destination);
-
         sourceNode.start(0);
     }
 

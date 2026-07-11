@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-    // ── 1. Configuration ───────────────────────────────────────────────────
+    // ── 1. Configuration & Cues ──────────────────────────────────────────
     const phases = [
         { key: 'Inhale', duration: 6 },
         { key: 'Exhale', duration: 6 },
@@ -9,12 +9,46 @@ document.addEventListener("DOMContentLoaded", () => {
     const currentLangCode = appContainer?.getAttribute('data-lang') || 'en';
     const staticAudioBase = appContainer?.getAttribute('data-audio-base') || '/static/audio/tts';
 
+    // FIX 1: Restored the missing audioCues dictionary
     const audioCues = {
         'Inhale': appContainer?.getAttribute('data-txt-inhale') || 'Inhale',
         'Exhale': appContainer?.getAttribute('data-txt-exhale') || 'Exhale',
         'Ended': appContainer?.getAttribute('data-txt-ended') || 'Session has ended',
     };
 
+    // ── 2. Audio Engine Setup (Lock-Proof) ────────────────────────────────
+    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    
+    if ('mediaSession' in navigator) {
+        navigator.mediaSession.metadata = new MediaMetadata({
+            title: 'Coherent Breathing',
+            artist: 'Breathing Bot',
+            album: 'Guided Sessions'
+        });
+        navigator.mediaSession.setActionHandler('play', () => {});
+        navigator.mediaSession.setActionHandler('pause', () => {});
+    }
+
+    // FIX 2: Only ONE playCue function exists now (the lock-proof one)
+    async function playCue(key) {
+        if (audioCtx.state === 'suspended') await audioCtx.resume();
+
+        const fileName = key.toLowerCase();
+        const audioPath = `${staticAudioBase}/${currentLangCode}/${fileName}.mp3`;
+
+        try {
+            const response = await fetch(audioPath);
+            const arrayBuffer = await response.arrayBuffer();
+            const audioBuffer = await audioCtx.decodeAudioData(arrayBuffer);
+
+            const source = audioCtx.createBufferSource();
+            source.buffer = audioBuffer;
+            source.connect(audioCtx.destination);
+            source.start(0);
+        } catch (e) {
+            console.error("Audio playback failed:", e);
+        }
+    }
     // ── 2. DOM Elements ────────────────────────────────────────────────────
     const timerNumber = document.getElementById('countdown-number');
     const stateLabel = document.getElementById('pacing-state-label');
