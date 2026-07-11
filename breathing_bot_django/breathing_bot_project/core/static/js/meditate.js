@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     let intervalId = null;
     let totalSeconds = 300;
     let remainingSeconds = 0;
+    let endTime = null; // NEW: Tracks the exact millisecond the timer should end
 
     // ── Media Session (Lock Screen Support) ─────────────────────────────
     if ('mediaSession' in navigator) {
@@ -48,13 +49,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 lastOut = data[i];
             }
         } else if (type === 'pink') {
-            let b0 = 0,
-                b1 = 0,
-                b2 = 0,
-                b3 = 0,
-                b4 = 0,
-                b5 = 0,
-                b6 = 0;
+            let b0 = 0, b1 = 0, b2 = 0, b3 = 0, b4 = 0, b5 = 0, b6 = 0;
             for (let i = 0; i < data.length; i++) {
                 const white = Math.random() * 2 - 1;
                 b0 = 0.99886 * b0 + white * 0.0555179;
@@ -96,8 +91,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function playEndingTing() {
         if (!audioCtx) return;
-        
-        // Ensure the context is running
         if (audioCtx.state === 'suspended') {
             audioCtx.resume();
         }
@@ -136,16 +129,11 @@ document.addEventListener("DOMContentLoaded", () => {
     timeChips.forEach(chip => {
         chip.addEventListener('click', () => {
             if (isRunning) return;
-
-            // Clear the custom input field so it doesn't conflict
-            const customInput = document.getElementById(
-                'custom-minutes-input');
+            const customInput = document.getElementById('custom-minutes-input');
             customInput.value = '';
-
             timeChips.forEach(c => c.classList.remove('active'));
             chip.classList.add('active');
-            totalSeconds = parseInt(chip.getAttribute('data-minutes'), 10) *
-                60;
+            totalSeconds = parseInt(chip.getAttribute('data-minutes'), 10) * 60;
             updateDisplay(totalSeconds);
         });
     });
@@ -161,40 +149,38 @@ document.addEventListener("DOMContentLoaded", () => {
         const customInput = document.getElementById('custom-minutes-input');
         const customVal = parseInt(customInput.value, 10);
 
-        // 1. Set the duration
         if (!isNaN(customVal) && customVal >= 1 && customVal <= 120) {
             totalSeconds = customVal * 60;
         }
 
-        // 2. Safety check: If totalSeconds is still <= 0, do not start
-        if (totalSeconds <= 0) {
-            console.error("Timer duration is invalid:", totalSeconds);
-            return;
-        }
-
+        if (totalSeconds <= 0) return;
         if (isRunning) return;
 
-        // 3. Reset state
         isRunning = true;
         startBtn.disabled = true;
-        remainingSeconds = totalSeconds; // Explicit assignment
         
-        console.log("Starting session. Duration:", remainingSeconds, "seconds");
-
+        // NEW: Calculate the exact absolute end time
+        endTime = Date.now() + (totalSeconds * 1000);
+        remainingSeconds = totalSeconds;
+        
         updateDisplay(remainingSeconds);
         startBtn?.classList.add('d-none');
         stopBtn?.classList.remove('d-none');
 
         startAudio();
 
-        // 4. Start interval
+        // NEW: Timestamp-based interval
         intervalId = setInterval(() => {
-            remainingSeconds--;
-            updateDisplay(remainingSeconds);
+            const now = Date.now();
+            remainingSeconds = Math.ceil((endTime - now) / 1000);
             
             if (remainingSeconds <= 0) {
+                remainingSeconds = 0;
+                updateDisplay(remainingSeconds);
                 console.log("Timer hit zero. Ending session...");
-                endSession(true); 
+                endSession(true);
+            } else {
+                updateDisplay(remainingSeconds);
             }
         }, 1000);
     }
@@ -204,15 +190,15 @@ document.addEventListener("DOMContentLoaded", () => {
         const minutes = Math.round(durationInSeconds / 60);
         fetch('/api/log-session/', {
             method: 'POST',
+            keepalive: true, // NEW: Forces request to send even in background
             headers: {
                 'Content-Type': 'application/json',
-                'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]')
-                    ?.value
+                'X-CSRFToken': document.querySelector('[name=csrfmiddlewaretoken]')?.value
             },
             body: JSON.stringify({
                 technique_name: `${currentNoiseType.charAt(0).toUpperCase() + currentNoiseType.slice(1)} Noise`,
-                level_selected: 1, // Defaulting to 1 for meditation room
-                cycles_completed: 0, // Not applicable for noise
+                level_selected: 1, 
+                cycles_completed: 0,
                 minutes_meditated: minutes,
             })
         }).catch(e => console.warn('Session log failed:', e));
@@ -222,13 +208,11 @@ document.addEventListener("DOMContentLoaded", () => {
     function endSession(isAutomatic = false) {
         clearInterval(intervalId);
 
-        // Only log the session if it finished naturally
         if (isAutomatic) {
             logSession(totalSeconds);
-            playEndingTing(); // Keep your "ting" here
+            playEndingTing();
         }
 
-        // UI Cleanup (happens whether manual or automatic)
         isRunning = false;
         if (gainNode) {
             gainNode.gain.linearRampToValueAtTime(0, audioCtx.currentTime + 2);
